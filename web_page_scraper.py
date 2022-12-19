@@ -10,10 +10,16 @@ HEADERS_FOR_GET_REQ = (
 )
 
 
+def write_to_file(x):
+    data_out_file = open("output_data.txt", "a")
+    data_out_file.write(f'\n{x}\n\n')
+    data_out_file.close()
+
+
 def get_search_url(keywords):
     # this function creates the url using the given keywords ex: 'over ear headphones'
     listing_counter = 0
-    listing_limit = 3  # <--- the number of times this function will run after being called once
+    listing_limit = 3  # <--- the number of times this function will run after being called once supposed to be 300
     url_results_page_param = 1
     while listing_counter < listing_limit:
         results_url_param = f'&page={url_results_page_param}'
@@ -51,16 +57,19 @@ def get_search_url(keywords):
 def extract_product_name(listing):
     product_name = listing.h2.text
     print('product name: ', product_name)
+    write_to_file(product_name)
 
 
 def extract_product_rating(listing):
     rating_info = listing.find('i', {'class': 'a-icon'}).text
     print('product rating: ', rating_info)
+    write_to_file(rating_info)
 
 
 def extract_num_ratings(listing):
     num_ratings = listing.find('span', {'class': 'a-size-base s-underline-text'}).text
     print('product num ratings: ', num_ratings)
+    write_to_file(num_ratings)
 
 
 def extract_product_price(listing):
@@ -68,6 +77,7 @@ def extract_product_price(listing):
         price_integer = listing.find('span', {'class': 'a-price-whole'}).text
         price_decimal = listing.find('span', {'class': 'a-price-fraction'}).text
         print('product price: $', price_integer + price_decimal)
+        write_to_file('$' + price_integer + price_decimal)
     except AttributeError:
         print('No Price')
 
@@ -77,6 +87,7 @@ def extract_product_URL(listing, search_url):
         product_url_segment = listing.h2.a['href']
         complete_product_url = 'https://amazon.com' + product_url_segment
         print('product URL: ', complete_product_url)
+        write_to_file(complete_product_url)
     except AttributeError:
         print('No Product URL')
 

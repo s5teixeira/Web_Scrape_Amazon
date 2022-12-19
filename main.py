@@ -24,6 +24,8 @@ def main():
             db_connection.commit()
             db_connection.close()
             print('Database connection closed.')
+            # deletes old text file and creates another each time its run
+            open("output_data.txt", "w")
             web_page_scraper.get_search_url('usb microphones')
 
 
