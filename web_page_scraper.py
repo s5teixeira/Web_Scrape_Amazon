@@ -29,7 +29,7 @@ def get_search_url(keywords):
             if listing_counter > listing_limit:
                 break
             else:
-                print(search_url)
+                # print(search_url)
                 # db_table_row_data = [None, None, None, None, None]  # pseudocode
                 # listing_data[0] = extract_product_name()
                 # listing_data[1] = extract_product_rating()
@@ -44,7 +44,7 @@ def get_search_url(keywords):
                 extract_product_rating(listing)
                 extract_num_ratings(listing)
                 extract_product_price(listing)
-                extract_product_URL(listing)
+                extract_product_URL(listing, search_url)
             url_results_page_param += 1  # this is not counting for some reason it stays on 1
 
 
@@ -67,17 +67,16 @@ def extract_product_price(listing):
     try:
         price_integer = listing.find('span', {'class': 'a-price-whole'}).text
         price_decimal = listing.find('span', {'class': 'a-price-fraction'}).text
-        print('product price: ', price_integer + price_decimal)
+        print('product price: $', price_integer + price_decimal)
     except AttributeError:
         print('No Price')
 
 
-def extract_product_URL(listing):
-    # needs some work
+def extract_product_URL(listing, search_url):
     try:
         product_url_segment = listing.h2.a['href']
         complete_product_url = 'https://amazon.com' + product_url_segment
-        print('product URL: ', product_url_segment)
+        print('product URL: ', complete_product_url)
     except AttributeError:
         print('No Product URL')
 
