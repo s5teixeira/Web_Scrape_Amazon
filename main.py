@@ -18,6 +18,11 @@ def main():
 
         open("output_data.txt", "w").write("")
         web_page_scraper.get_search_url(db_cursor, 'USB_Microphones_Table', 'usb microphones')
+        web_page_scraper.get_search_url(db_cursor, 'Audio_Mixers_Table', 'audio mixers')
+        web_page_scraper.get_search_url(db_cursor, 'Capture_Cards_Table', 'capture cards')
+        web_page_scraper.get_search_url(db_cursor, 'Over_Ear_Headphones_Table', 'over ear headphones')
+        web_page_scraper.get_search_url(db_cursor, 'Gaming_Laptops_Table', 'gaming laptop')
+        web_page_scraper.get_search_url(db_cursor, 'Webcams_Table', 'webcam')
 
     except sqlite3.Error as db_error:
         print(f'A Database Error has occurred: {db_error}')
