@@ -16,6 +16,9 @@ def main():
         # call function to create table for each item
         db_cursor = create_tables(db_cursor)
 
+        open("output_data.txt", "w").write("")
+        web_page_scraper.get_search_url(db_cursor, 'USB_Microphones_Table', 'usb microphones')
+
     except sqlite3.Error as db_error:
         print(f'A Database Error has occurred: {db_error}')
     finally:
@@ -25,8 +28,7 @@ def main():
             db_connection.close()
             print('Database connection closed.')
             # deletes old text file and creates another each time its run
-            open("output_data.txt", "w")
-            web_page_scraper.get_search_url('usb microphones')
+            # open("output_data.txt", "w")
 
 
 def connect_to_db(amazon_db: str):

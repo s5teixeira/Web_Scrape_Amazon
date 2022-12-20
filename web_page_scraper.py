@@ -11,15 +11,16 @@ HEADERS_FOR_GET_REQ = (
 
 
 def write_to_file(x):
-    data_out_file = open("output_data.txt", "a")
-    data_out_file.write(f'\n{x}\n\n')
-    data_out_file.close()
+    with open("output_data.txt", "a") as data_out_file:
+        try:
+            data_out_file.write(f'\n{x}\n\n')
+        except UnicodeEncodeError:
+            data_out_file.write(f"\nUnicodeEncodeError\n\n")
 
-
-def get_search_url(keywords):
+def get_search_url(db_cursor, table_name, keywords):
     # this function creates the url using the given keywords ex: 'over ear headphones'
     listing_counter = 0
-    listing_limit = 3  # <--- the number of times this function will run after being called once supposed to be 300
+    listing_limit = 300  # <--- the number of times this function will run after being called once supposed to be 300
     url_results_page_param = 1
     while listing_counter < listing_limit:
         results_url_param = f'&page={url_results_page_param}'
@@ -36,40 +37,57 @@ def get_search_url(keywords):
                 break
             else:
                 # print(search_url)
+                # url_results_page_param += 1  # this is not counting for some reason it stays on 1
                 # db_table_row_data = [None, None, None, None, None]  # pseudocode
-                # listing_data[0] = extract_product_name()
-                # listing_data[1] = extract_product_rating()
-                # listing_data[2] = extract_num_ratings()
-                # listing_data[3] = extract_product_price()
-                # listing_data[4] = extract_product_URL()
-                # insert_values_into_db_table(db_cursor, 'table_name', tuple(listing_data))
+                # listing_data = []
+                # listing_data[0] = extract_product_name(listing)
+                # listing_data[1] = extract_product_rating(listing)
+                # listing_data[2] = extract_num_ratings(listing)
+                # listing_data[3] = extract_product_price(listing)
+                # listing_data[4] = extract_product_URL(listing)
+                # main.insert_into_table(db_cursor, 'table_name', tuple(listing_data))
 
-                # product_name = listing.h2.text
-                # print(product_name)
-                extract_product_name(listing)
-                extract_product_rating(listing)
-                extract_num_ratings(listing)
-                extract_product_price(listing)
-                extract_product_URL(listing, search_url)
-            url_results_page_param += 1  # this is not counting for some reason it stays on 1
+                name = extract_product_name(listing)
+                rating = extract_product_rating(listing)
+                num_ratings = extract_num_ratings(listing)
+                price = extract_product_price(listing)
+                product_url = extract_product_URL(listing, search_url)
+                main.insert_into_table(db_cursor, table_name, (name, rating, num_ratings, price, product_url))
+                # for record in search_results:
+                #     main.insert_into_table(name, rating, num_ratings, price, product_url)
+        print(search_url)
+        url_results_page_param += 1  # this is not counting for some reason it stays on 1
 
 
 def extract_product_name(listing):
     product_name = listing.h2.text
     print('product name: ', product_name)
     write_to_file(product_name)
+    return product_name
 
 
 def extract_product_rating(listing):
-    rating_info = listing.find('i', {'class': 'a-icon'}).text
+    rating_listing = listing.find('i', {'class': 'a-icon'})
+
+    if rating_listing:
+        rating_info = rating_listing.text
+    else:
+        rating_info = 'N/A'
+
     print('product rating: ', rating_info)
     write_to_file(rating_info)
 
+    return rating_info
+
 
 def extract_num_ratings(listing):
-    num_ratings = listing.find('span', {'class': 'a-size-base s-underline-text'}).text
-    print('product num ratings: ', num_ratings)
-    write_to_file(num_ratings)
+    try:
+        num_ratings = listing.find('span', {'class': 'a-size-base s-underline-text'}).text
+        print('product num ratings: ', num_ratings)
+        write_to_file(num_ratings)
+    except AttributeError:
+        num_ratings = '0'
+    return num_ratings
 
 
 def extract_product_price(listing):
@@ -78,6 +96,7 @@ def extract_product_price(listing):
         price_decimal = listing.find('span', {'class': 'a-price-fraction'}).text
         print('product price: $', price_integer + price_decimal)
         write_to_file('$' + price_integer + price_decimal)
+        return price_integer + price_decimal
     except AttributeError:
         print('No Price')
 
@@ -88,305 +107,294 @@ def extract_product_URL(listing, search_url):
         complete_product_url = 'https://amazon.com' + product_url_segment
         print('product URL: ', complete_product_url)
         write_to_file(complete_product_url)
+        return complete_product_url
     except AttributeError:
         print('No Product URL')
 
-
-def scrape_OverEarHeadphones(table_name, db_cursor):
-    # this function should scrape the appropriate product listing
-    # listing_counter = 0
-    # listing_limit = 300
-    # url_results_page_param = 1
-    # while listing_counter < listing_limit:
-    #     results_url_param = f'&page={url_results_page_param}'
-    # query_terms = keywords.replace(' ', '+')
-    # base_amazon_search_url = 'https://www.amazon.com/s?k=over+ear+headphones'
-    # search_url = f'{base_amazon_search_url}{query_terms}{results_url_param}'
-    # search_url += '&page=1'
-
-    # get request
-    # response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-    # print('\n' + '>> search URL: ' + search_url + '\n')
-
-    # for parsing the html code
-    # soup_format = BeautifulSoup(response.content, 'html.parser')
-    # search_results = soup_format.find_all('div',
-    #                                       {'class': 's-result-item', 'data-component-type': 's-search-result'})
-    for listing_block in search_results:
-        listing_counter += 1
-        if listing_counter > listing_limit:
-            break
-        else:
-            # db_table_row_data = [null, null, null, null, null] # pseudocode
-            # listing_data[0] = extract_product_name()
-            # listing_data[1] = extract_product_rating()
-            # listing_data[2] = extract_num_ratings()
-            # listing_data[3] = extract_product_price()
-            # listing_data[4] = extract_product_URL()
-            # insert_values_into_db_table(db_cursor, 'table_name', tuple(listing_data))
-            url_results_page_param += 1
-
-        # PRODUCT NAME
-        product_name = listing_block.h2.text
-        print(product_name)
-
-        # PRODUCT RATINGS (rating + num_ratings)
-        try:
-            rating = listing_block.find('i', {'class': 'a-icon'}).text
-            print(rating)
-            num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-            print(num_ratings)
-        except AttributeError:
-            print('No Ratings')
-
-        # PRODUCT PRICE - (price REAL in database)
-        try:
-            price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-            price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-            price = price_integer + price_decimal
-            print(price + '\n')
-        except AttributeError:
-            print('No Price')
-
-        # PRODUCT URL
-        try:
-            product_url_segment = listing_block.h2.a['href']
-            product_url = 'https://amazon.com' + product_url_segment
-            print(product_url + '\n')
-        except AttributeError:
-            print('No Product URL')
-
-        print()
-        # not sure what to do here either
-    for listing in search_results:
-        listing_counter += 10
-        if listing_counter > listing_limit:
-            break
-
-    #   not sure what i am doing here
-    #   inserting all the records into the corresponding table ??
-    if table_name == "Over_Ear_Headphones_Table":
-        db_cursor.execute('''INSERT INTO Over_Ear_Headphones_Table VALUES(?, ?, ?, ?, ?)''',
-                          listing_block.get('product_name', None),
-                          listing_block.get('rating', None),
-                          listing_block.get('num_ratings', None),
-                          listing_block.get('price', None),
-                          listing_block.get('product_url', None))
-    if table_name is not None:
-        db_cursor = main.insert_into_table(db_cursor, table_name, (
-            listing_block.get('product_name', None),
-            listing_block.get('rating', None),
-            listing_block.get('num_ratings', None),
-            listing_block.get('price', None),
-            listing_block.get('product_url', None),))
-
-
-def scrape_USBMicrophones():
-    query_terms = keywords.replace(' ', '+')
-    base_amazon_search_url = 'https://www.amazon.com/s?k=usb+microphones'
-    search_url = f'{base_amazon_search_url}{query_terms}'
-    search_url += '&page=1'
-    response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-    print('\n' + '>> search URL: ' + search_url + '\n')
-    soup_format = BeautifulSoup(response.content, 'html.parser')
-    search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
-    for listing_block in search_results:
-        # PRODUCT NAME
-        product_name = listing_block.h2.text
-        print(product_name)
-        # adding the product name into the database
-
-        # PRODUCT RATINGS
-        try:
-            rating_info = listing_block.find('i', {'class': 'a-icon'}).text
-            print(rating_info)
-            num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-            print(num_ratings)
-        except AttributeError:
-            print('No Ratings')
-
-        # PRODUCT PRICE - (price REAL in database)
-        try:
-            price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-            price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-            price = price_integer + price_decimal
-            print(price + '\n')
-        except AttributeError:
-            print('No Price')
-
-        # PRODUCT URL
-        try:
-            product_url_segment = listing_block.h2.a['href']
-            product_url = 'https://amazon.com' + product_url_segment
-            print(product_url + '\n')
-        except AttributeError:
-            print('No Product URL')
-
-        print()
-
-
-def scrape_Webcams():
-    query_terms = keywords.replace(' ', '+')
-    base_amazon_search_url = 'https://www.amazon.com/s?k=1080p+Webcams'
-    search_url = f'{base_amazon_search_url}{query_terms}'
-    search_url += '&page=1'
-    response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-    print('\n' + '>> search URL: ' + search_url + '\n')
-    soup_format = BeautifulSoup(response.content, 'html.parser')
-    search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
-    for listing_block in search_results:
-        # PRODUCT NAME
-        product_name = listing_block.h2.text
-        print(product_name)
-        # PRODUCT RATINGS
-        try:
-            rating_info = listing_block.find('i', {'class': 'a-icon'}).text
-            print(rating_info)
-            num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-            print(num_ratings)
-        except AttributeError:
-            print('No Ratings')
-
-        # PRODUCT PRICE - (price REAL in database)
-        try:
-            price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-            price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-            price = price_integer + price_decimal
-            print(price + '\n')
-        except AttributeError:
-            print('No Price')
-
-        # PRODUCT URL
-        try:
-            product_url_segment = listing_block.h2.a['href']
-            product_url = 'https://amazon.com' + product_url_segment
-            print(product_url + '\n')
-        except AttributeError:
-            print('No Product URL')
-
-        print()
-
-
-def Capture_Cards():
-    query_terms = keywords.replace(' ', '+')
-    base_amazon_search_url = 'https://www.amazon.com/s?k=capture+cards'
-    search_url = f'{base_amazon_search_url}{query_terms}'
-    search_url += '&page=1'
-    response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-    print('\n' + '>> search URL: ' + search_url + '\n')
-    soup_format = BeautifulSoup(response.content, 'html.parser')
-    search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
-    for listing_block in search_results:
-        # PRODUCT NAME
-        product_name = listing_block.h2.text
-        print(product_name)
-        # PRODUCT RATINGS
-        try:
-            rating_info = listing_block.find('i', {'class': 'a-icon'}).text
-            print(rating_info)
-            num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-            print(num_ratings)
-        except AttributeError:
-            print('No Ratings')
-
-        # PRODUCT PRICE - (price REAL in database)
-        try:
-            price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-            price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-            price = price_integer + price_decimal
-            print(price + '\n')
-        except AttributeError:
-            print('No Price')
-
-        # PRODUCT URL
-        try:
-            product_url_segment = listing_block.h2.a['href']
-            product_url = 'https://amazon.com' + product_url_segment
-            print(product_url + '\n')
-        except AttributeError:
-            print('No Product URL')
-
-        print()
-
-
-def AudioMixers():
-    query_terms = keywords.replace(' ', '+')
-    base_amazon_search_url = 'https://www.amazon.com/s?k=8-channel+Audio+Mixers'
-    search_url = f'{base_amazon_search_url}{query_terms}'
-    search_url += '&page=1'
-    response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-    print('\n' + '>> search URL: ' + search_url + '\n')
-    soup_format = BeautifulSoup(response.content, 'html.parser')
-    search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
-    for listing_block in search_results:
-        # PRODUCT NAME
-        product_name = listing_block.h2.text
-        print(product_name)
-        # PRODUCT RATINGS
-        try:
-            rating_info = listing_block.find('i', {'class': 'a-icon'}).text
-            print(rating_info)
-            num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-            print(num_ratings)
-        except AttributeError:
-            print('No Ratings')
-
-        # PRODUCT PRICE - (price REAL in database)
-        try:
-            price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-            price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-            price = price_integer + price_decimal
-            print(price + '\n')
-        except AttributeError:
-            print('No Price')
-
-        # PRODUCT URL
-        try:
-            product_url_segment = listing_block.h2.a['href']
-            product_url = 'https://amazon.com' + product_url_segment
-            print(product_url + '\n')
-        except AttributeError:
-            print('No Product URL')
-
-        print()
-
-
-def GamingLaptops():
-    query_terms = keywords.replace(' ', '+')
-    base_amazon_search_url = 'https://www.amazon.com/s?k=gaming+laptops'
-    search_url = f'{base_amazon_search_url}{query_terms}'
-    search_url += '&page=1'
-    response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-    print('\n' + '>> search URL: ' + search_url + '\n')
-    soup_format = BeautifulSoup(response.content, 'html.parser')
-    search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
-    for listing_block in search_results:
-        # PRODUCT NAME
-        product_name = listing_block.h2.text
-        print(product_name)
-        # PRODUCT RATINGS
-        try:
-            rating_info = listing_block.find('i', {'class': 'a-icon'}).text
-            print(rating_info)
-            num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-            print(num_ratings)
-        except AttributeError:
-            print('No Ratings')
-
-        # PRODUCT PRICE - (price REAL in database)
-        try:
-            price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-            price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-            price = price_integer + price_decimal
-            print(price + '\n')
-        except AttributeError:
-            print('No Price')
-
-        # PRODUCT URL
-        try:
-            product_url_segment = listing_block.h2.a['href']
-            product_url = 'https://amazon.com' + product_url_segment
-            print(product_url + '\n')
-        except AttributeError:
-            print('No Product URL')
-        print()
+#
+# def scrape_OverEarHeadphones(table_name, db_cursor):
+#     # this function should scrape the appropriate product listing
+#     # listing_counter = 0
+#     # listing_limit = 300
+#     # url_results_page_param = 1
+#     # while listing_counter < listing_limit:
+#     #     results_url_param = f'&page={url_results_page_param}'
+#     # query_terms = keywords.replace(' ', '+')
+#     # base_amazon_search_url = 'https://www.amazon.com/s?k=over+ear+headphones'
+#     # search_url = f'{base_amazon_search_url}{query_terms}{results_url_param}'
+#     # search_url += '&page=1'
+#
+#     # get request
+#     # response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
+#     # print('\n' + '>> search URL: ' + search_url + '\n')
+#
+#     # for parsing the html code
+#     # soup_format = BeautifulSoup(response.content, 'html.parser')
+#     # search_results = soup_format.find_all('div',
+#     #                                       {'class': 's-result-item', 'data-component-type': 's-search-result'})
+#
+#
+#         # PRODUCT NAME
+#         product_name = listing_block.h2.text
+#         print(product_name)
+#
+#         # PRODUCT RATINGS (rating + num_ratings)
+#         try:
+#             rating = listing_block.find('i', {'class': 'a-icon'}).text
+#             print(rating)
+#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
+#             print(num_ratings)
+#         except AttributeError:
+#             print('No Ratings')
+#
+#         # PRODUCT PRICE - (price REAL in database)
+#         try:
+#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
+#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
+#             price = price_integer + price_decimal
+#             print(price + '\n')
+#         except AttributeError:
+#             print('No Price')
+#
+#         # PRODUCT URL
+#         try:
+#             product_url_segment = listing_block.h2.a['href']
+#             product_url = 'https://amazon.com' + product_url_segment
+#             print(product_url + '\n')
+#         except AttributeError:
+#             print('No Product URL')
+#
+#         print()
+#         # not sure what to do here either
+#     for listing in search_results:
+#         listing_counter += 10
+#         if listing_counter > listing_limit:
+#             break
+#
+#     #   not sure what i am doing here
+#     #   inserting all the records into the corresponding table ??
+#     if table_name == "Over_Ear_Headphones_Table":
+#         db_cursor.execute('''INSERT INTO Over_Ear_Headphones_Table VALUES(?, ?, ?, ?, ?)''',
+#                           listing_block.get('product_name', None),
+#                           listing_block.get('rating', None),
+#                           listing_block.get('num_ratings', None),
+#                           listing_block.get('price', None),
+#                           listing_block.get('product_url', None))
+#     if table_name is not None:
+#         db_cursor = main.insert_into_table(db_cursor, table_name, (
+#             listing_block.get('product_name', None),
+#             listing_block.get('rating', None),
+#             listing_block.get('num_ratings', None),
+#             listing_block.get('price', None),
+#             listing_block.get('product_url', None),))
+#
+#
+# def scrape_USBMicrophones():
+#     query_terms = keywords.replace(' ', '+')
+#     base_amazon_search_url = 'https://www.amazon.com/s?k=usb+microphones'
+#     search_url = f'{base_amazon_search_url}{query_terms}'
+#     search_url += '&page=1'
+#     response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
+#     print('\n' + '>> search URL: ' + search_url + '\n')
+#     soup_format = BeautifulSoup(response.content, 'html.parser')
+#     search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
+#     for listing_block in search_results:
+#         # PRODUCT NAME
+#         product_name = listing_block.h2.text
+#         print(product_name)
+#         # adding the product name into the database
+#
+#         # PRODUCT RATINGS
+#         try:
+#             rating_info = listing_block.find('i', {'class': 'a-icon'}).text
+#             print(rating_info)
+#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
+#             print(num_ratings)
+#         except AttributeError:
+#             print('No Ratings')
+#
+#         # PRODUCT PRICE - (price REAL in database)
+#         try:
+#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
+#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
+#             price = price_integer + price_decimal
+#             print(price + '\n')
+#         except AttributeError:
+#             print('No Price')
+#
+#         # PRODUCT URL
+#         try:
+#             product_url_segment = listing_block.h2.a['href']
+#             product_url = 'https://amazon.com' + product_url_segment
+#             print(product_url + '\n')
+#         except AttributeError:
+#             print('No Product URL')
+#
+#         print()
+#
+#
+# def scrape_Webcams():
+#     query_terms = keywords.replace(' ', '+')
+#     base_amazon_search_url = 'https://www.amazon.com/s?k=1080p+Webcams'
+#     search_url = f'{base_amazon_search_url}{query_terms}'
+#     search_url += '&page=1'
+#     response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
+#     print('\n' + '>> search URL: ' + search_url + '\n')
+#     soup_format = BeautifulSoup(response.content, 'html.parser')
+#     search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
+#     for listing_block in search_results:
+#         # PRODUCT NAME
+#         product_name = listing_block.h2.text
+#         print(product_name)
+#         # PRODUCT RATINGS
+#         try:
+#             rating_info = listing_block.find('i', {'class': 'a-icon'}).text
+#             print(rating_info)
+#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
+#             print(num_ratings)
+#         except AttributeError:
+#             print('No Ratings')
+#
+#         # PRODUCT PRICE - (price REAL in database)
+#         try:
+#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
+#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
+#             price = price_integer + price_decimal
+#             print(price + '\n')
+#         except AttributeError:
+#             print('No Price')
+#
+#         # PRODUCT URL
+#         try:
+#             product_url_segment = listing_block.h2.a['href']
+#             product_url = 'https://amazon.com' + product_url_segment
+#             print(product_url + '\n')
+#         except AttributeError:
+#             print('No Product URL')
+#
+#         print()
+#
+#
+# def Capture_Cards():
+#     query_terms = keywords.replace(' ', '+')
+#     base_amazon_search_url = 'https://www.amazon.com/s?k=capture+cards'
+#     search_url = f'{base_amazon_search_url}{query_terms}'
+#     search_url += '&page=1'
+#     response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
+#     print('\n' + '>> search URL: ' + search_url + '\n')
+#     soup_format = BeautifulSoup(response.content, 'html.parser')
+#     search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
+#     for listing_block in search_results:
+#         # PRODUCT NAME
+#         product_name = listing_block.h2.text
+#         print(product_name)
+#         # PRODUCT RATINGS
+#         try:
+#             rating_info = listing_block.find('i', {'class': 'a-icon'}).text
+#             print(rating_info)
+#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
+#             print(num_ratings)
+#         except AttributeError:
+#             print('No Ratings')
+#
+#         # PRODUCT PRICE - (price REAL in database)
+#         try:
+#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
+#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
+#             price = price_integer + price_decimal
+#             print(price + '\n')
+#         except AttributeError:
+#             print('No Price')
+#
+#         # PRODUCT URL
+#         try:
+#             product_url_segment = listing_block.h2.a['href']
+#             product_url = 'https://amazon.com' + product_url_segment
+#             print(product_url + '\n')
+#         except AttributeError:
+#             print('No Product URL')
+#
+#         print()
+#
+#
+# def AudioMixers():
+#     query_terms = keywords.replace(' ', '+')
+#     base_amazon_search_url = 'https://www.amazon.com/s?k=8-channel+Audio+Mixers'
+#     search_url = f'{base_amazon_search_url}{query_terms}'
+#     search_url += '&page=1'
+#     response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
+#     print('\n' + '>> search URL: ' + search_url + '\n')
+#     soup_format = BeautifulSoup(response.content, 'html.parser')
+#     search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
+#     for listing_block in search_results:
+#         # PRODUCT NAME
+#         product_name = listing_block.h2.text
+#         print(product_name)
+#         # PRODUCT RATINGS
+#         try:
+#             rating_info = listing_block.find('i', {'class': 'a-icon'}).text
+#             print(rating_info)
+#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
+#             print(num_ratings)
+#         except AttributeError:
+#             print('No Ratings')
+#
+#         # PRODUCT PRICE - (price REAL in database)
+#         try:
+#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
+#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
+#             price = price_integer + price_decimal
+#             print(price + '\n')
+#         except AttributeError:
+#             print('No Price')
+#
+#         # PRODUCT URL
+#         try:
+#             product_url_segment = listing_block.h2.a['href']
+#             product_url = 'https://amazon.com' + product_url_segment
+#             print(product_url + '\n')
+#         except AttributeError:
+#             print('No Product URL')
+#
+#         print()
+#
+#
+# def GamingLaptops():
+#     query_terms = keywords.replace(' ', '+')
+#     base_amazon_search_url = 'https://www.amazon.com/s?k=gaming+laptops'
+#     search_url = f'{base_amazon_search_url}{query_terms}'
+#     search_url += '&page=1'
+#     response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
+#     print('\n' + '>> search URL: ' + search_url + '\n')
+#     soup_format = BeautifulSoup(response.content, 'html.parser')
+#     search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
+#     for listing_block in search_results:
+#         # PRODUCT NAME
+#         product_name = listing_block.h2.text
+#         print(product_name)
+#         # PRODUCT RATINGS
+#         try:
+#             rating_info = listing_block.find('i', {'class': 'a-icon'}).text
+#             print(rating_info)
+#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
+#             print(num_ratings)
+#         except AttributeError:
+#             print('No Ratings')
+#
+#         # PRODUCT PRICE - (price REAL in database)
+#         try:
+#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
+#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
+#             price = price_integer + price_decimal
+#             print(price + '\n')
+#         except AttributeError:
+#             print('No Price')
+#
+#         # PRODUCT URL
+#         try:
+#             product_url_segment = listing_block.h2.a['href']
+#             product_url = 'https://amazon.com' + product_url_segment
+#             print(product_url + '\n')
+#         except AttributeError:
+#             print('No Product URL')
+#         print()
