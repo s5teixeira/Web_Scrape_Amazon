@@ -111,15 +111,7 @@ def extract_product_URL(listing, search_url):
     except AttributeError:
         print('No Product URL')
 
-#
-# def scrape_OverEarHeadphones(table_name, db_cursor):
-#     # this function should scrape the appropriate product listing
-#     # listing_counter = 0
-#     # listing_limit = 300
-#     # url_results_page_param = 1
-#     # while listing_counter < listing_limit:
-#     #     results_url_param = f'&page={url_results_page_param}'
-#     # query_terms = keywords.replace(' ', '+')
+
 #     # base_amazon_search_url = 'https://www.amazon.com/s?k=over+ear+headphones'
 #     # search_url = f'{base_amazon_search_url}{query_terms}{results_url_param}'
 #     # search_url += '&page=1'
@@ -152,25 +144,7 @@ def extract_product_URL(listing, search_url):
 #             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
 #             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
 #             price = price_integer + price_decimal
-#             print(price + '\n')
-#         except AttributeError:
-#             print('No Price')
-#
-#         # PRODUCT URL
-#         try:
-#             product_url_segment = listing_block.h2.a['href']
-#             product_url = 'https://amazon.com' + product_url_segment
-#             print(product_url + '\n')
-#         except AttributeError:
-#             print('No Product URL')
-#
-#         print()
-#         # not sure what to do here either
-#     for listing in search_results:
-#         listing_counter += 10
-#         if listing_counter > listing_limit:
-#             break
-#
+
 #     #   not sure what i am doing here
 #     #   inserting all the records into the corresponding table ??
 #     if table_name == "Over_Ear_Headphones_Table":
@@ -179,58 +153,7 @@ def extract_product_URL(listing, search_url):
 #                           listing_block.get('rating', None),
 #                           listing_block.get('num_ratings', None),
 #                           listing_block.get('price', None),
-#                           listing_block.get('product_url', None))
-#     if table_name is not None:
-#         db_cursor = main.insert_into_table(db_cursor, table_name, (
-#             listing_block.get('product_name', None),
-#             listing_block.get('rating', None),
-#             listing_block.get('num_ratings', None),
-#             listing_block.get('price', None),
-#             listing_block.get('product_url', None),))
-#
-#
-# def scrape_USBMicrophones():
-#     query_terms = keywords.replace(' ', '+')
-#     base_amazon_search_url = 'https://www.amazon.com/s?k=usb+microphones'
-#     search_url = f'{base_amazon_search_url}{query_terms}'
-#     search_url += '&page=1'
-#     response = requests.get(search_url, headers=HEADERS_FOR_GET_REQ)
-#     print('\n' + '>> search URL: ' + search_url + '\n')
-#     soup_format = BeautifulSoup(response.content, 'html.parser')
-#     search_results = soup_format.find_all('div', {'class': 's-result-item', 'data-component-type': 's-search-result'})
-#     for listing_block in search_results:
-#         # PRODUCT NAME
-#         product_name = listing_block.h2.text
-#         print(product_name)
-#         # adding the product name into the database
-#
-#         # PRODUCT RATINGS
-#         try:
-#             rating_info = listing_block.find('i', {'class': 'a-icon'}).text
-#             print(rating_info)
-#             num_ratings = listing_block.find('span', {'class': 'a-size-base s-underline-text'}).text
-#             print(num_ratings)
-#         except AttributeError:
-#             print('No Ratings')
-#
-#         # PRODUCT PRICE - (price REAL in database)
-#         try:
-#             price_integer = listing_block.find('span', {'class': 'a-price-whole'}).text
-#             price_decimal = listing_block.find('span', {'class': 'a-price-fraction'}).text
-#             price = price_integer + price_decimal
-#             print(price + '\n')
-#         except AttributeError:
-#             print('No Price')
-#
-#         # PRODUCT URL
-#         try:
-#             product_url_segment = listing_block.h2.a['href']
-#             product_url = 'https://amazon.com' + product_url_segment
-#             print(product_url + '\n')
-#         except AttributeError:
-#             print('No Product URL')
-#
-#         print()
+
 #
 #
 # def scrape_Webcams():
