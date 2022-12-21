@@ -1,6 +1,8 @@
 import sqlite3
 import requests
 from bs4 import BeautifulSoup
+
+import filter
 import web_page_scraper
 
 
@@ -23,15 +25,16 @@ def main():
         web_page_scraper.get_search_url(db_cursor, 'Over_Ear_Headphones_Table', 'over ear headphones')
         web_page_scraper.get_search_url(db_cursor, 'Gaming_Laptops_Table', 'gaming laptop')
         web_page_scraper.get_search_url(db_cursor, 'Webcams_Table', 'webcam')
+        filter.search_selection(db_cursor)
 
     except sqlite3.Error as db_error:
-        print(f'A Database Error has occurred: {db_error}')
+        print_red(f'A Database Error has occurred: {db_error}')
     finally:
         # close the database connection whether there's an error or not
         if db_connection:
             db_connection.commit()
             db_connection.close()
-            print('Database connection closed.')
+            print('\n\nDatabase connection closed.')
             # deletes old text file and creates another each time its run
             # open("output_data.txt", "w")
 
