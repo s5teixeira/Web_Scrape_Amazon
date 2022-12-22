@@ -31,7 +31,7 @@ def call_to_getsearchurl(db_cursor):
     web_page_scraper.get_search_url(db_cursor, 'Gaming_Laptops_Table', 'gaming laptop')
     web_page_scraper.get_search_url(db_cursor, 'Webcams_Table', 'webcam')
     filter.search_selection(db_cursor)
-    ask_to_continue(db_cursor)
+
 
 
 def ask_to_continue(db_cursor):
