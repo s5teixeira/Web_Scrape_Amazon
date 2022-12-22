@@ -1,0 +1,1149 @@
+
+----------------------------------------------------------------------------------------
+Gaming_Laptops results with: >= 4.6 stars, > 1000, > 1000.0:
+----------------------------------------------------------------------------------------
+
+
+
+('Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6" FHD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard  ', '4.6 out of 5 stars', '3,545', '1,189.00', 'https://amazon.com/Acer-Predator-PH315-54-760S-i7-11800H-Keyboard/dp/B092YHJLS6/ref=sr_1_11_mod_primary_new?keywords=gaming+laptop&qid=1671729742&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-11')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729744&id=7737554816403353&widgetName=sp_atf_next&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729744%26sr%3D8-17-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('2022 ASUS TUF Dash F15 15.6" 144Hz (Intel 12th Gen i7-12650H, 64GB DDR5 RAM, 2TB PlCe SSD, Geforce RTX 3070 8GB) Thin Bezel IPS Gaming Laptop,Thunderbolt 4, RGB Backlit, WiFi 6, IST Cable, Win 11 Home  ', '4.7 out of 5 stars', '(15)', '1,799.99', 'https://amazon.com/ASUS-TUF-Dash-F15-Thunderbolt/dp/B0BJ6TWGWP/ref=sr_1_19?keywords=gaming+laptop&qid=1671729744&sr=8-19')
+
+
+('HP 2022 Victus 15.6" 144Hz Gaming Laptop, Intel 12th Core i7-12650H, 64GB DDR4 RAM, 2TB PCIe SSD, NVIDIA GeForce RTX 3050Ti Graphics, Backlit Keyboard, Windows 11, Mica Silver,32GB Snowbell USB Card  ', '4.6 out of 5 stars', '(240)', '1,499.00', 'https://amazon.com/HP-Victus-i7-12650H-Graphics-Keyboard/dp/B0BL2GR64P/ref=sr_1_22?keywords=gaming+laptop&qid=1671729744&sr=8-22')
+
+
+('ASUS ROG Strix Scar 15 (2022) Gaming Laptop, 15.6” 240Hz IPS QHD Display, NVIDIA GeForce RTX 3070 Ti, Intel Core i9 12900H, 16GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Home, G533ZW-AS94Q  ', '3.3 out of 5 stars', '(3)', '2,049.99', 'https://amazon.com/ASUS-Display-GeForce-Keyboard-G533ZW-AS94Q/dp/B0BDTVSXS9/ref=sr_1_29?keywords=gaming+laptop&qid=1671729744&sr=8-29')
+
+
+('MSI GE76 Raider Gaming Laptop 17.3" FHD IPS 144Hz 12th Gen Intel 14-core i9-12900H 32GB RAM 1TB SSD GeForce RTX 3060 6GB RGB Backlit Thunderbolt USB-C MiniDP Dynaudio Nahimic Win11 Black + HDMI Cable  ', '5.0 out of 5 stars', '(2)', '1,979.00', 'https://amazon.com/MSI-GE76-Raider-i9-12900H-Thunderbolt/dp/B0BP7DL17W/ref=sr_1_30?keywords=gaming+laptop&qid=1671729744&sr=8-30')
+
+
+('Latest Lenovo ThinkPad X1 Carbon Gen 9 14" FHD+ Ultrabook, 11th gen i7-1185G7, 32 GB DDR4,512 GB SSD, Mobile Broadband 4G LTE, Fingerprint Reader, Win 10 Pro (20XW00A9US), Black  ', '3.1 out of 5 stars', '(3)', '2,299.99', 'https://amazon.com/Lenovo-Ultrabook-i7-1185G7-Fingerprint-20XW00A9US/dp/B09HP4GXB6/ref=sr_1_35?keywords=gaming+laptop&qid=1671729744&sr=8-35')
+
+
+('Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6" FHD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard  ', '4.6 out of 5 stars', '3,545', '1,189.00', 'https://amazon.com/Acer-Predator-PH315-54-760S-i7-11800H-Keyboard/dp/B092YHJLS6/ref=sr_1_49_mod_primary_new?keywords=gaming+laptop&qid=1671729746&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-49')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729747&id=5894541283773220&widgetName=sp_atf_next&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_49_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729747%26sr%3D8-49-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729747&id=5894541283773220&widgetName=sp_atf_next&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_50_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729747%26sr%3D8-50-spons%26psc%3D1')
+
+
+('Lenovo Legion 5 Gaming Laptop, 15.6" FHD Display, AMD Ryzen 7 5800H, 32GB RAM, 2TB SSD Storage, NVIDIA GeForce RTX 3050Ti, Windows 10H, Phantom Blue, TGCUS Accessories  ', '4.6 out of 5 stars', '(1,371)', '1,429.99', 'https://amazon.com/Lenovo-Display-Storage-RTX-Accessories/dp/B0BFM1B5MS/ref=sr_1_51?keywords=gaming+laptop&qid=1671729747&sr=8-51')
+
+
+('ASUS ROG Flow X13 Gaming 2-in-1 Laptop | 13.4" WUXGA 120Hz 500nits IPS Touchscreen | AMD 8-Core Ryzen 9 6900HS | 16GB DDR5 1TB SSD | GeForce RTX 3050 Ti 4GB | Backlit Win11 Pro + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(1)', '1,349.00', 'https://amazon.com/ASUS-ROG-Flow-500nits-Touchscreen/dp/B0BPBXSGD4/ref=sr_1_52?keywords=gaming+laptop&qid=1671729747&sr=8-52')
+
+
+('MSI Katana GF76 Gaming Laptop 17.3" FHD IPS 144Hz Display 12th Generation Intel 14-core i7-12700H 32GB RAM 1TB SSD GeForce RTX 3060 6GB Graphic Backlit USB-C Nahimic Win11 Black + HDMI Cable  ', '5.0 out of 5 stars', '(2)', '1,479.00', 'https://amazon.com/MSI-Katana-GF76-Generation-i7-12700H/dp/B0BQ3H1F1S/ref=sr_1_62?keywords=gaming+laptop&qid=1671729747&sr=8-62')
+
+
+('Alienware m15 R7 Gaming Laptop - 15.6-inch QHD 240Hz 2ms Display, Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3070 Ti 8GB GDDR6, HDMI, USB-C, Wi-Fi 6, Windows 11 Home - Black  ', '4.1 out of 5 stars', '(90)', '1,849.75', 'https://amazon.com/Alienware-m15-Gaming-Laptop-15-6-inch/dp/B09TL9GGLP/ref=sr_1_65?keywords=gaming+laptop&qid=1671729747&sr=8-65')
+
+
+('Acer Predator Helios 300 Gaming Laptop, 15.6" Full HD IPS, Intel i7 CPU, 16GB DDR4 RAM, 256GB SSD, GeForce GTX 1060-6GB, VR Ready, Red Backlit KB, Metal Chassis, Windows 10 64-bit, G3-571-77QK  ', '4.4 out of 5 stars', '2,721', '1,211.00', 'https://amazon.com/Acer-Predator-i7-7700HQ-1060-6GB-G3-571-77QK/dp/B06Y4GZS9C/ref=sr_1_80?keywords=gaming+laptop&qid=1671729750&sr=8-80')
+
+
+('Alienware m15 R7 Gaming Laptop - 15.6-inch 240Hz 2ms QHD, Intel Core i9-12900H, 32GB DDR5 RAM, 1TB SSD, NVIDIA Geforce RTX 3080 Graphics, Killer AX 1675i with Dell services, Windows 11 Home - Dark  ', '4.1 out of 5 stars', '(90)', '2,639.98', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg6_1?ie=UTF8&adId=A02028561EXOPD6U5ASUB&qualifier=1671729751&id=4180200108896679&widgetName=sp_atf_next&url=%2FAlienware-m15-Gaming-Laptop-15-6-inch%2Fdp%2FB0B5G3LMZ2%2Fref%3Dsr_1_82_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729751%26sr%3D8-82-spons%26psc%3D1')
+
+
+('HP Victus Gaming Laptop, AMD Ryzen 7 5800H Processor, GeForce RTX 3050 Ti, 15.6" FHD 144Hz IPS Display, Webcam, WiFi 6, HDMI, Bluetooth, Enlarged Touchpad, Windows 11, Silver (32GB RAM | 1TB SSD)  ', '5.0 out of 5 stars', '(6)', '1,049.99', 'https://amazon.com/HP-Victus-Processor-Bluetooth-Enlarged/dp/B0BLCWMZ7K/ref=sr_1_85?keywords=gaming+laptop&qid=1671729751&sr=8-85')
+
+
+('Lenovo Legion 5 Gaming Laptop, 15.6" FHD IPS 165Hz, AMD Ryzen 7 5800H, Wi-Fi 6, GeForce RTX 3060 (130W), Windows 11, W/HDMI Cable (64GB RAM | 1TB PCIe SSD)  ', '4.6 out of 5 stars', '(2,199)', '1,509.90', 'https://amazon.com/Lenovo-Legion-Gaming-GeForce-Windows/dp/B0BQBMQD4V/ref=sr_1_90?keywords=gaming+laptop&qid=1671729751&sr=8-90')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg6_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729751&id=4180200108896679&widgetName=sp_mtf&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_91_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729751%26sr%3D8-91-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('ASUS ROG Zephyrus G15 Gaming Laptop | 15.6" QHD 165Hz IPS (100% DCI-P3) | AMD 8-Core Ryzen 9 5900HS | 16GB DDR4 512GB SSD | GeForce RTX 3060 6GB | Backlit Fingerprint Win11 Pro + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(1)', '1,299.00', 'https://amazon.com/ASUS-ROG-Zephyrus-G15-Fingerprint/dp/B0BPC9PNXS/ref=sr_1_94?keywords=gaming+laptop&qid=1671729751&sr=8-94')
+
+
+('2022 MSI GE76 Raider Gaming 17.3" Thin Bezel IPS FHD 144Hz Laptop, 12th Core i7-12700H, 32GB RAM, 2TB PCIe SSD, Backlit Keyboard, GeForce RTX 3060 6GB, FHD Webcam, Win11 Pro, Grey, 32GB USB Card  ', '4.6 out of 5 stars', '(321)', '1,999.00', 'https://amazon.com/MSI-GE76-i7-12700H-Backlit-Keyboard/dp/B0BF2FTX3Y/ref=sr_1_95?keywords=gaming+laptop&qid=1671729751&sr=8-95')
+
+
+('Acer Nitro 5 15 Gaming Laptop | 15.6" Full HD IPS 144Hz | AMD 6-core Ryzen 5 5600H | 32GB DDR4 1TB SSD + 1TB HDD | GeForce RTX 3060 6GB Graphic | Backlit HDMI USB-C Win11 Black + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(1)', '1,099.00', 'https://amazon.com/Acer-Nitro-GeForce-Graphic-Backlit/dp/B0BL7KCQK9/ref=sr_1_96?keywords=gaming+laptop&qid=1671729751&sr=8-96')
+
+
+('Acer Nitro 5 3060 Gaming Laptop, 15.6" FHD IPS 144Hz, GeForce RTX 3060, AMD 6-Core Ryzen 5 5600H (Beat i7-11600H), 32GB RAM, 1TB PCIe SSD+1TB HDD, VR Ready, RGB, WiFi 6, SPS HDMI 2.1 Cable, Win 11  ', '4.6 out of 5 stars', '(5)', '1,099.99', 'https://amazon.com/Acer-Gaming-Laptop-GeForce-i7-11600H/dp/B0BHBXHRMH/ref=sr_1_99?keywords=gaming+laptop&qid=1671729751&sr=8-99')
+
+
+('ASUS ROG Flow X13 2-in-1 Gaming Laptop 13.4" WUXGA 120Hz 500nits IPS Touchscreen AMD 8-Core Ryzen 9 6900HS 16GB DDR5 1TB SSD GeForce RTX 3050 Ti 4GB Backlit Keyboard Win11 Black + Pen  ', '5.0 out of 5 stars', '(1)', '1,369.00', 'https://amazon.com/ASUS-ROG-Flow-X13-Touchscreen/dp/B0BP7RXTZV/ref=sr_1_100?keywords=gaming+laptop&qid=1671729751&sr=8-100')
+
+
+('Microsoft Surface Laptop 5 (2022), 15" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 1TB Storage with Windows 11, Black  ', '3.2 out of 5 stars', '(8)', '1,899.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg6_1?ie=UTF8&adId=A042014839FWIG3H8RSLW&qualifier=1671729751&id=4180200108896679&widgetName=sp_btf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8QJCFQL%2Fref%3Dsr_1_101_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729751%26sr%3D8-101-spons%26psc%3D1')
+
+
+('Alienware m15 R7 Gaming Laptop - 15.6-inch 240Hz 2ms QHD, Intel Core i9-12900H, 32GB DDR5 RAM, 1TB SSD, NVIDIA Geforce RTX 3080 Graphics, Killer AX 1675i with Dell services, Windows 11 Home - Dark  ', '4.1 out of 5 stars', '(90)', '2,639.98', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg7_1?ie=UTF8&adId=A02028561EXOPD6U5ASUB&qualifier=1671729753&id=7933815759589218&widgetName=sp_atf_next&url=%2FAlienware-m15-Gaming-Laptop-15-6-inch%2Fdp%2FB0B5G3LMZ2%2Fref%3Dsr_1_97_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729753%26sr%3D8-97-spons%26psc%3D1')
+
+
+('Lenovo Legion 5 Pro Gaming Laptop, 16" QHD IPS 165Hz Display, AMD Ryzen 7 5800H (Beat i9-10980HK), GeForce RTX 3070 140W, 16GB RAM, 1TB SSD, USB-C, HDMI, RJ45, WiFi 6, RGB Keyboard, Win 11  ', '5.0 out of 5 stars', '(1)', '1,569.99', 'https://amazon.com/Lenovo-Display-i9-10980HK-GeForce-Keyboard/dp/B0BDHCWMYL/ref=sr_1_99?keywords=gaming+laptop&qid=1671729753&sr=8-99')
+
+
+('HP Victus 15t 15.6" FHD 144Hz Gaming Laptop (Intel 12th Gen i7-12650H, 64GB RAM, 1TB PCIe SSD, Geforce RTX 3050 Ti 4GB) 10-Core (Beat Ryzen 7 5800H), Backlit, Webcam, IST Cable, Windows 11 Home – 2022  ', '5.0 out of 5 stars', '(8)', '1,349.99', 'https://amazon.com/HP-Victus-15t-i7-12650H-Geforce/dp/B0B7QGHWFJ/ref=sr_1_100?keywords=gaming+laptop&qid=1671729753&sr=8-100')
+
+
+('GIGABYTE AERO 16 XE5: 16" 4K/UHD+ Samsung AMOLED, Intel Core i7-12700H, NVIDIA GeForce RTX 3070 Ti Laptop GPU 8GB GDDR6, 16GB DDR5 RAM, 1TB SSD, Win11 Home (AERO 16 XE5-73US934HH)  ', '2.6 out of 5 stars', '(5)', '1,299.00', 'https://amazon.com/GIGABYTE-AERO-XE5-i7-12700H-XE5-73US934HH/dp/B0B35FHGK8/ref=sr_1_103?keywords=gaming+laptop&qid=1671729753&sr=8-103')
+
+
+('Razer Blade 14 Gaming Laptop: AMD Ryzen 9 5900HX 8 Core, NVIDIA GeForce RTX 3080, 14" QHD 165Hz, 16GB RAM, 1TB SSD - CNC Aluminum - Chroma RGB - THX Spatial Audio - Vapor Chamber Cooling  ', '4.4 out of 5 stars', '(135)', '2,379.00', 'https://amazon.com/Razer-Blade-14-Gaming-Laptop/dp/B094681RZP/ref=sr_1_104_mod_primary_new?keywords=gaming+laptop&qid=1671729753&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-104')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg7_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729753&id=7933815759589218&widgetName=sp_mtf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_107_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729753%26sr%3D8-107-spons%26psc%3D1')
+
+
+('ASUS TUF Gaming A17 Laptop | 17.3" FHD 144Hz (Adaptive-Sync) | AMD 8-core Ryzen 7 6800H (>i7-11370H) | 16GB DDR5 512GB SSD + 1TB SSD | GeForce RTX3060 6GB | Backlit Hi-Res Win11 + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(2)', '1,199.00', 'https://amazon.com/ASUS-TUF-Gaming-A17-Adaptive-Sync/dp/B0BPLF9WW5/ref=sr_1_109?keywords=gaming+laptop&qid=1671729753&sr=8-109')
+
+
+('2022 MSI GE76 Raider Gaming 17.3" Thin Bezel IPS FHD 144Hz Laptop, 12th Core i7-12700H, 64GB RAM, 2TB PCIe SSD, Backlit Keyboard, GeForce RTX 3060 6GB, FHD Webcam, Win11 Pro, Grey, 32GB USB Card  ', '4.6 out of 5 stars', '(321)', '2,199.00', 'https://amazon.com/MSI-GE76-i7-12700H-Backlit-Keyboard/dp/B0BF2FR1FY/ref=sr_1_113?keywords=gaming+laptop&qid=1671729753&sr=8-113')
+
+
+('ASUS TUF Gaming A15 (2022) Gaming Laptop, 15.6" 300Hz FHD Display, AMD Ryzen 7 6800H CPU, GeForce RTX 3060 GPU, 16GB DDR5 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, Mecha Gray, FA507RM-ES73  ', '4.6 out of 5 stars', '(211)', '1,064.99', 'https://amazon.com/ASUS-Display-GeForce-Windows-FA507RM-ES73/dp/B0B7QZSFS3/ref=sr_1_114?keywords=gaming+laptop&qid=1671729753&sr=8-114')
+
+
+('MSI GE76 Raider Gaming Laptop 2021 (1TB SSD, 16GB RAM) 17.3" FHD 144 Hz, Intel Core i7-1180H (11th Gen), NVIDIA GeForce RTX 3060, Windows 10 64bit (Titanium Blue) 11UE-046 US Model  ', '4.5 out of 5 stars', '(82)', '1,439.99', 'https://amazon.com/MSI-GE76-i7-1180H-Titanium-11UE-046/dp/B097NHS4P1/ref=sr_1_115?keywords=gaming+laptop&qid=1671729753&sr=8-115')
+
+
+('2022 ASUS ROG Strix G15 Advantage Edition 15.6" QHD 2K 165Hz (Radeon RX 6800M 12GB (Beat RTX 3060) , AMD Ryzen 9 5980HX, 64GB RAM, 2TB PCIe SSD) Gaming Laptop, RGB Backlit, Type-C, WiFi 6, Win 11 Home  ', '4.4 out of 5 stars', '(44)', '1,799.99', 'https://amazon.com/ASUS-ROG-Strix-G15-Advantage/dp/B0BKGGF6S3/ref=sr_1_116?keywords=gaming+laptop&qid=1671729753&sr=8-116')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg7_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729753&id=7933815759589218&widgetName=sp_btf&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_117_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729753%26sr%3D8-117-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg8_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729756&id=3950681817581158&widgetName=sp_atf_next&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_113_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729756%26sr%3D8-113-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('MSI GE76 Raider Gaming Laptop 2021 (1TB SSD, 16GB RAM) 17.3" FHD 144 Hz, Intel Core i7-1180H (11th Gen), NVIDIA GeForce RTX 3060, Windows 10 64bit (Titanium Blue) 11UE-046 US Model  ', '4.5 out of 5 stars', '(82)', '1,439.99', 'https://amazon.com/MSI-GE76-i7-1180H-Titanium-11UE-046/dp/B097NHS4P1/ref=sr_1_115?keywords=gaming+laptop&qid=1671729756&sr=8-115')
+
+
+('MSI GE76 Raider Gaming Laptop Intel Core i7-11800H, GeForce RTX 3060, 17.3" FHD 144HZ, 32GB RAM2TB NVMe SSD, Wi-Fi6, Windows 10  ', '4.6 out of 5 stars', '(124)', '1,739.99', 'https://amazon.com/MSI-GE76-i7-11800H-GeForce-Windows/dp/B09FXJN548/ref=sr_1_120?keywords=gaming+laptop&qid=1671729756&sr=8-120')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg8_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729756&id=3950681817581158&widgetName=sp_mtf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_124_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729756%26sr%3D8-124-spons%26psc%3D1')
+
+
+('2022 Newest Lenovo Legion 7 Gaming Laptop, 16" 165Hz QHD IPS Display, Intel 11th Gen i7-11800H (8 Core) 2.30 GHz, Windows 11H, Storm Gray (i7-11800H | 64GB RAM |3TB NVMe | RTX3070)  ', '5.0 out of 5 stars', '(1)', '3,058.88', 'https://amazon.com/Lenovo-Display-i7-11800H-Windows-RTX3070/dp/B0B58F15QB/ref=sr_1_126?keywords=gaming+laptop&qid=1671729756&sr=8-126')
+
+
+('2022 Acer Nitro 5 17.3" FHD IPS 144Hz Gaming Laptop Core i5 12500H(Beats i7-11800H) NVIDIA RTX 3050 TGP 95W Thunderbolt 4 Intel Killer Ethernet w/Mouse Pad (16GB RAM | 1TB PCIe SSD)  ', '5.0 out of 5 stars', '(2)', '1,019.99', 'https://amazon.com/Acer-Gaming-i7-11800H-Thunderbolt-Ethernet/dp/B0BGKSMRL3/ref=sr_1_129?keywords=gaming+laptop&qid=1671729756&sr=8-129')
+
+
+('Razer Blade 15 Advanced Gaming Laptop 2020: Intel Core i7-10875H 8-Core, NVIDIA GeForce RTX 2080 Super Max-Q, 15.6” FHD 300Hz, 16GB RAM, 1TB SSD, CNC Aluminum, Chroma RGB Lighting, Thunderbolt 3  ', '4.5 out of 5 stars', '1,081', '2,299.00', 'https://amazon.com/Razer-Blade-Advanced-Gaming-Laptop/dp/B086MHT6LB/ref=sr_1_136?keywords=gaming+laptop&qid=1671729757&sr=8-136')
+
+
+('Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, Wi-Fi 6, RGB Keyboard, PH315-53-72XD  ', '4.7 out of 5 stars', '3,587', '1,190.14', 'https://amazon.com/Acer-Predator-i7-10750H-Dual-Channel-PH315-53-72XD/dp/B08842D7JS/ref=sr_1_142?keywords=gaming+laptop&qid=1671729757&sr=8-142')
+
+
+('ASUS 2022 TUF Dash 15.6" 144Hz Gaming Laptop, Intel 12th Core i7-12650H, 64GB RAM, 2TB PCIe SSD, NVIDIA GeForce RTX 3070 Graphics 6GB, Backlit Keyboard, Windows 11, Black, 32GB SnowBell USB Card  ', '4.8 out of 5 stars', '(6)', '1,699.00', 'https://amazon.com/ASUS-TUF-i7-12650H-Graphics-Keyboard/dp/B0BC3WGZ52/ref=sr_1_211?keywords=gaming+laptop&qid=1671729767&sr=8-211')
+
+
+('Alienware M15 R6 Gaming Laptop - 15.6-inch FHD (1920 x 1080) 1ms 360Hz Display, Intel Core i7-11800H, 32GB DDR4 RAM, 1TB SSD, NVIDIA RTX 3070 8GB Graphics, Windows 11 Home - Black  ', '4.5 out of 5 stars', '(126)', '1,949.99', 'https://amazon.com/Alienware-M15-Gaming-Laptop-15-6-inch/dp/B09VQ3JWZ5/ref=sr_1_212?keywords=gaming+laptop&qid=1671729767&sr=8-212')
+
+
+('MSI GE76 Raider Gaming Laptop I 17.3” Full HD IPS 144Hz I 11th Gen Intel 8-Core i7-11800H I 32GB DDR4 2TB SSD + 512GB SSD I GeForce RTX 3060 6GB I Backlit Thunderbolt USB-C Win10 + 32GB MicroSD Card  ', '3.9 out of 5 stars', '(5)', '2,139.00', 'https://amazon.com/MSI-GE76-Raider-i7-11800H-Thunderbolt/dp/B09WMLMNML/ref=sr_1_217?keywords=gaming+laptop&qid=1671729767&sr=8-217')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg14_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729767&id=8759906437661530&widgetName=sp_mtf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_219_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729767%26sr%3D8-219-spons%26psc%3D1')
+
+
+----------------------------------------------------------------------------------------
+Gaming_Laptops results with: >= 4.3 stars, > 1000, > 1000.0:
+----------------------------------------------------------------------------------------
+
+
+
+('Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6" FHD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard  ', '4.6 out of 5 stars', '3,545', '1,189.00', 'https://amazon.com/Acer-Predator-PH315-54-760S-i7-11800H-Keyboard/dp/B092YHJLS6/ref=sr_1_11_mod_primary_new?keywords=gaming+laptop&qid=1671729742&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-11')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729744&id=7737554816403353&widgetName=sp_atf_next&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729744%26sr%3D8-17-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('2022 ASUS TUF Dash F15 15.6" 144Hz (Intel 12th Gen i7-12650H, 64GB DDR5 RAM, 2TB PlCe SSD, Geforce RTX 3070 8GB) Thin Bezel IPS Gaming Laptop,Thunderbolt 4, RGB Backlit, WiFi 6, IST Cable, Win 11 Home  ', '4.7 out of 5 stars', '(15)', '1,799.99', 'https://amazon.com/ASUS-TUF-Dash-F15-Thunderbolt/dp/B0BJ6TWGWP/ref=sr_1_19?keywords=gaming+laptop&qid=1671729744&sr=8-19')
+
+
+('HP 2022 Victus 15.6" 144Hz Gaming Laptop, Intel 12th Core i7-12650H, 64GB DDR4 RAM, 2TB PCIe SSD, NVIDIA GeForce RTX 3050Ti Graphics, Backlit Keyboard, Windows 11, Mica Silver,32GB Snowbell USB Card  ', '4.6 out of 5 stars', '(240)', '1,499.00', 'https://amazon.com/HP-Victus-i7-12650H-Graphics-Keyboard/dp/B0BL2GR64P/ref=sr_1_22?keywords=gaming+laptop&qid=1671729744&sr=8-22')
+
+
+('ASUS ROG Strix Scar 15 (2022) Gaming Laptop, 15.6” 240Hz IPS QHD Display, NVIDIA GeForce RTX 3070 Ti, Intel Core i9 12900H, 16GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Home, G533ZW-AS94Q  ', '3.3 out of 5 stars', '(3)', '2,049.99', 'https://amazon.com/ASUS-Display-GeForce-Keyboard-G533ZW-AS94Q/dp/B0BDTVSXS9/ref=sr_1_29?keywords=gaming+laptop&qid=1671729744&sr=8-29')
+
+
+('MSI GE76 Raider Gaming Laptop 17.3" FHD IPS 144Hz 12th Gen Intel 14-core i9-12900H 32GB RAM 1TB SSD GeForce RTX 3060 6GB RGB Backlit Thunderbolt USB-C MiniDP Dynaudio Nahimic Win11 Black + HDMI Cable  ', '5.0 out of 5 stars', '(2)', '1,979.00', 'https://amazon.com/MSI-GE76-Raider-i9-12900H-Thunderbolt/dp/B0BP7DL17W/ref=sr_1_30?keywords=gaming+laptop&qid=1671729744&sr=8-30')
+
+
+('Latest Lenovo ThinkPad X1 Carbon Gen 9 14" FHD+ Ultrabook, 11th gen i7-1185G7, 32 GB DDR4,512 GB SSD, Mobile Broadband 4G LTE, Fingerprint Reader, Win 10 Pro (20XW00A9US), Black  ', '3.1 out of 5 stars', '(3)', '2,299.99', 'https://amazon.com/Lenovo-Ultrabook-i7-1185G7-Fingerprint-20XW00A9US/dp/B09HP4GXB6/ref=sr_1_35?keywords=gaming+laptop&qid=1671729744&sr=8-35')
+
+
+('Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU | 15.6" FHD 144Hz 3ms IPS Display | 16GB DDR4 | 512GB SSD | Killer WiFi 6 | RGB Keyboard  ', '4.6 out of 5 stars', '3,545', '1,189.00', 'https://amazon.com/Acer-Predator-PH315-54-760S-i7-11800H-Keyboard/dp/B092YHJLS6/ref=sr_1_49_mod_primary_new?keywords=gaming+laptop&qid=1671729746&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-49')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729747&id=5894541283773220&widgetName=sp_atf_next&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_49_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729747%26sr%3D8-49-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729747&id=5894541283773220&widgetName=sp_atf_next&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_50_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729747%26sr%3D8-50-spons%26psc%3D1')
+
+
+('Lenovo Legion 5 Gaming Laptop, 15.6" FHD Display, AMD Ryzen 7 5800H, 32GB RAM, 2TB SSD Storage, NVIDIA GeForce RTX 3050Ti, Windows 10H, Phantom Blue, TGCUS Accessories  ', '4.6 out of 5 stars', '(1,371)', '1,429.99', 'https://amazon.com/Lenovo-Display-Storage-RTX-Accessories/dp/B0BFM1B5MS/ref=sr_1_51?keywords=gaming+laptop&qid=1671729747&sr=8-51')
+
+
+('ASUS ROG Flow X13 Gaming 2-in-1 Laptop | 13.4" WUXGA 120Hz 500nits IPS Touchscreen | AMD 8-Core Ryzen 9 6900HS | 16GB DDR5 1TB SSD | GeForce RTX 3050 Ti 4GB | Backlit Win11 Pro + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(1)', '1,349.00', 'https://amazon.com/ASUS-ROG-Flow-500nits-Touchscreen/dp/B0BPBXSGD4/ref=sr_1_52?keywords=gaming+laptop&qid=1671729747&sr=8-52')
+
+
+('MSI Katana GF76 Gaming Laptop 17.3" FHD IPS 144Hz Display 12th Generation Intel 14-core i7-12700H 32GB RAM 1TB SSD GeForce RTX 3060 6GB Graphic Backlit USB-C Nahimic Win11 Black + HDMI Cable  ', '5.0 out of 5 stars', '(2)', '1,479.00', 'https://amazon.com/MSI-Katana-GF76-Generation-i7-12700H/dp/B0BQ3H1F1S/ref=sr_1_62?keywords=gaming+laptop&qid=1671729747&sr=8-62')
+
+
+('Alienware m15 R7 Gaming Laptop - 15.6-inch QHD 240Hz 2ms Display, Intel Core i7-12700H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3070 Ti 8GB GDDR6, HDMI, USB-C, Wi-Fi 6, Windows 11 Home - Black  ', '4.1 out of 5 stars', '(90)', '1,849.75', 'https://amazon.com/Alienware-m15-Gaming-Laptop-15-6-inch/dp/B09TL9GGLP/ref=sr_1_65?keywords=gaming+laptop&qid=1671729747&sr=8-65')
+
+
+('Acer Predator Helios 300 Gaming Laptop, 15.6" Full HD IPS, Intel i7 CPU, 16GB DDR4 RAM, 256GB SSD, GeForce GTX 1060-6GB, VR Ready, Red Backlit KB, Metal Chassis, Windows 10 64-bit, G3-571-77QK  ', '4.4 out of 5 stars', '2,721', '1,211.00', 'https://amazon.com/Acer-Predator-i7-7700HQ-1060-6GB-G3-571-77QK/dp/B06Y4GZS9C/ref=sr_1_80?keywords=gaming+laptop&qid=1671729750&sr=8-80')
+
+
+('Alienware m15 R7 Gaming Laptop - 15.6-inch 240Hz 2ms QHD, Intel Core i9-12900H, 32GB DDR5 RAM, 1TB SSD, NVIDIA Geforce RTX 3080 Graphics, Killer AX 1675i with Dell services, Windows 11 Home - Dark  ', '4.1 out of 5 stars', '(90)', '2,639.98', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg6_1?ie=UTF8&adId=A02028561EXOPD6U5ASUB&qualifier=1671729751&id=4180200108896679&widgetName=sp_atf_next&url=%2FAlienware-m15-Gaming-Laptop-15-6-inch%2Fdp%2FB0B5G3LMZ2%2Fref%3Dsr_1_82_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729751%26sr%3D8-82-spons%26psc%3D1')
+
+
+('HP Victus Gaming Laptop, AMD Ryzen 7 5800H Processor, GeForce RTX 3050 Ti, 15.6" FHD 144Hz IPS Display, Webcam, WiFi 6, HDMI, Bluetooth, Enlarged Touchpad, Windows 11, Silver (32GB RAM | 1TB SSD)  ', '5.0 out of 5 stars', '(6)', '1,049.99', 'https://amazon.com/HP-Victus-Processor-Bluetooth-Enlarged/dp/B0BLCWMZ7K/ref=sr_1_85?keywords=gaming+laptop&qid=1671729751&sr=8-85')
+
+
+('Lenovo Legion 5 Gaming Laptop, 15.6" FHD IPS 165Hz, AMD Ryzen 7 5800H, Wi-Fi 6, GeForce RTX 3060 (130W), Windows 11, W/HDMI Cable (64GB RAM | 1TB PCIe SSD)  ', '4.6 out of 5 stars', '(2,199)', '1,509.90', 'https://amazon.com/Lenovo-Legion-Gaming-GeForce-Windows/dp/B0BQBMQD4V/ref=sr_1_90?keywords=gaming+laptop&qid=1671729751&sr=8-90')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg6_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729751&id=4180200108896679&widgetName=sp_mtf&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_91_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729751%26sr%3D8-91-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('ASUS ROG Zephyrus G15 Gaming Laptop | 15.6" QHD 165Hz IPS (100% DCI-P3) | AMD 8-Core Ryzen 9 5900HS | 16GB DDR4 512GB SSD | GeForce RTX 3060 6GB | Backlit Fingerprint Win11 Pro + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(1)', '1,299.00', 'https://amazon.com/ASUS-ROG-Zephyrus-G15-Fingerprint/dp/B0BPC9PNXS/ref=sr_1_94?keywords=gaming+laptop&qid=1671729751&sr=8-94')
+
+
+('2022 MSI GE76 Raider Gaming 17.3" Thin Bezel IPS FHD 144Hz Laptop, 12th Core i7-12700H, 32GB RAM, 2TB PCIe SSD, Backlit Keyboard, GeForce RTX 3060 6GB, FHD Webcam, Win11 Pro, Grey, 32GB USB Card  ', '4.6 out of 5 stars', '(321)', '1,999.00', 'https://amazon.com/MSI-GE76-i7-12700H-Backlit-Keyboard/dp/B0BF2FTX3Y/ref=sr_1_95?keywords=gaming+laptop&qid=1671729751&sr=8-95')
+
+
+('Acer Nitro 5 15 Gaming Laptop | 15.6" Full HD IPS 144Hz | AMD 6-core Ryzen 5 5600H | 32GB DDR4 1TB SSD + 1TB HDD | GeForce RTX 3060 6GB Graphic | Backlit HDMI USB-C Win11 Black + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(1)', '1,099.00', 'https://amazon.com/Acer-Nitro-GeForce-Graphic-Backlit/dp/B0BL7KCQK9/ref=sr_1_96?keywords=gaming+laptop&qid=1671729751&sr=8-96')
+
+
+('Acer Nitro 5 3060 Gaming Laptop, 15.6" FHD IPS 144Hz, GeForce RTX 3060, AMD 6-Core Ryzen 5 5600H (Beat i7-11600H), 32GB RAM, 1TB PCIe SSD+1TB HDD, VR Ready, RGB, WiFi 6, SPS HDMI 2.1 Cable, Win 11  ', '4.6 out of 5 stars', '(5)', '1,099.99', 'https://amazon.com/Acer-Gaming-Laptop-GeForce-i7-11600H/dp/B0BHBXHRMH/ref=sr_1_99?keywords=gaming+laptop&qid=1671729751&sr=8-99')
+
+
+('ASUS ROG Flow X13 2-in-1 Gaming Laptop 13.4" WUXGA 120Hz 500nits IPS Touchscreen AMD 8-Core Ryzen 9 6900HS 16GB DDR5 1TB SSD GeForce RTX 3050 Ti 4GB Backlit Keyboard Win11 Black + Pen  ', '5.0 out of 5 stars', '(1)', '1,369.00', 'https://amazon.com/ASUS-ROG-Flow-X13-Touchscreen/dp/B0BP7RXTZV/ref=sr_1_100?keywords=gaming+laptop&qid=1671729751&sr=8-100')
+
+
+('Microsoft Surface Laptop 5 (2022), 15" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 1TB Storage with Windows 11, Black  ', '3.2 out of 5 stars', '(8)', '1,899.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg6_1?ie=UTF8&adId=A042014839FWIG3H8RSLW&qualifier=1671729751&id=4180200108896679&widgetName=sp_btf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8QJCFQL%2Fref%3Dsr_1_101_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729751%26sr%3D8-101-spons%26psc%3D1')
+
+
+('Alienware m15 R7 Gaming Laptop - 15.6-inch 240Hz 2ms QHD, Intel Core i9-12900H, 32GB DDR5 RAM, 1TB SSD, NVIDIA Geforce RTX 3080 Graphics, Killer AX 1675i with Dell services, Windows 11 Home - Dark  ', '4.1 out of 5 stars', '(90)', '2,639.98', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg7_1?ie=UTF8&adId=A02028561EXOPD6U5ASUB&qualifier=1671729753&id=7933815759589218&widgetName=sp_atf_next&url=%2FAlienware-m15-Gaming-Laptop-15-6-inch%2Fdp%2FB0B5G3LMZ2%2Fref%3Dsr_1_97_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729753%26sr%3D8-97-spons%26psc%3D1')
+
+
+('Lenovo Legion 5 Pro Gaming Laptop, 16" QHD IPS 165Hz Display, AMD Ryzen 7 5800H (Beat i9-10980HK), GeForce RTX 3070 140W, 16GB RAM, 1TB SSD, USB-C, HDMI, RJ45, WiFi 6, RGB Keyboard, Win 11  ', '5.0 out of 5 stars', '(1)', '1,569.99', 'https://amazon.com/Lenovo-Display-i9-10980HK-GeForce-Keyboard/dp/B0BDHCWMYL/ref=sr_1_99?keywords=gaming+laptop&qid=1671729753&sr=8-99')
+
+
+('HP Victus 15t 15.6" FHD 144Hz Gaming Laptop (Intel 12th Gen i7-12650H, 64GB RAM, 1TB PCIe SSD, Geforce RTX 3050 Ti 4GB) 10-Core (Beat Ryzen 7 5800H), Backlit, Webcam, IST Cable, Windows 11 Home – 2022  ', '5.0 out of 5 stars', '(8)', '1,349.99', 'https://amazon.com/HP-Victus-15t-i7-12650H-Geforce/dp/B0B7QGHWFJ/ref=sr_1_100?keywords=gaming+laptop&qid=1671729753&sr=8-100')
+
+
+('GIGABYTE AERO 16 XE5: 16" 4K/UHD+ Samsung AMOLED, Intel Core i7-12700H, NVIDIA GeForce RTX 3070 Ti Laptop GPU 8GB GDDR6, 16GB DDR5 RAM, 1TB SSD, Win11 Home (AERO 16 XE5-73US934HH)  ', '2.6 out of 5 stars', '(5)', '1,299.00', 'https://amazon.com/GIGABYTE-AERO-XE5-i7-12700H-XE5-73US934HH/dp/B0B35FHGK8/ref=sr_1_103?keywords=gaming+laptop&qid=1671729753&sr=8-103')
+
+
+('Razer Blade 14 Gaming Laptop: AMD Ryzen 9 5900HX 8 Core, NVIDIA GeForce RTX 3080, 14" QHD 165Hz, 16GB RAM, 1TB SSD - CNC Aluminum - Chroma RGB - THX Spatial Audio - Vapor Chamber Cooling  ', '4.4 out of 5 stars', '(135)', '2,379.00', 'https://amazon.com/Razer-Blade-14-Gaming-Laptop/dp/B094681RZP/ref=sr_1_104_mod_primary_new?keywords=gaming+laptop&qid=1671729753&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-104')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg7_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729753&id=7933815759589218&widgetName=sp_mtf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_107_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729753%26sr%3D8-107-spons%26psc%3D1')
+
+
+('ASUS TUF Gaming A17 Laptop | 17.3" FHD 144Hz (Adaptive-Sync) | AMD 8-core Ryzen 7 6800H (>i7-11370H) | 16GB DDR5 512GB SSD + 1TB SSD | GeForce RTX3060 6GB | Backlit Hi-Res Win11 + 32GB MicroSD Card  ', '5.0 out of 5 stars', '(2)', '1,199.00', 'https://amazon.com/ASUS-TUF-Gaming-A17-Adaptive-Sync/dp/B0BPLF9WW5/ref=sr_1_109?keywords=gaming+laptop&qid=1671729753&sr=8-109')
+
+
+('2022 MSI GE76 Raider Gaming 17.3" Thin Bezel IPS FHD 144Hz Laptop, 12th Core i7-12700H, 64GB RAM, 2TB PCIe SSD, Backlit Keyboard, GeForce RTX 3060 6GB, FHD Webcam, Win11 Pro, Grey, 32GB USB Card  ', '4.6 out of 5 stars', '(321)', '2,199.00', 'https://amazon.com/MSI-GE76-i7-12700H-Backlit-Keyboard/dp/B0BF2FR1FY/ref=sr_1_113?keywords=gaming+laptop&qid=1671729753&sr=8-113')
+
+
+('ASUS TUF Gaming A15 (2022) Gaming Laptop, 15.6" 300Hz FHD Display, AMD Ryzen 7 6800H CPU, GeForce RTX 3060 GPU, 16GB DDR5 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, Mecha Gray, FA507RM-ES73  ', '4.6 out of 5 stars', '(211)', '1,064.99', 'https://amazon.com/ASUS-Display-GeForce-Windows-FA507RM-ES73/dp/B0B7QZSFS3/ref=sr_1_114?keywords=gaming+laptop&qid=1671729753&sr=8-114')
+
+
+('MSI GE76 Raider Gaming Laptop 2021 (1TB SSD, 16GB RAM) 17.3" FHD 144 Hz, Intel Core i7-1180H (11th Gen), NVIDIA GeForce RTX 3060, Windows 10 64bit (Titanium Blue) 11UE-046 US Model  ', '4.5 out of 5 stars', '(82)', '1,439.99', 'https://amazon.com/MSI-GE76-i7-1180H-Titanium-11UE-046/dp/B097NHS4P1/ref=sr_1_115?keywords=gaming+laptop&qid=1671729753&sr=8-115')
+
+
+('2022 ASUS ROG Strix G15 Advantage Edition 15.6" QHD 2K 165Hz (Radeon RX 6800M 12GB (Beat RTX 3060) , AMD Ryzen 9 5980HX, 64GB RAM, 2TB PCIe SSD) Gaming Laptop, RGB Backlit, Type-C, WiFi 6, Win 11 Home  ', '4.4 out of 5 stars', '(44)', '1,799.99', 'https://amazon.com/ASUS-ROG-Strix-G15-Advantage/dp/B0BKGGF6S3/ref=sr_1_116?keywords=gaming+laptop&qid=1671729753&sr=8-116')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg7_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729753&id=7933815759589218&widgetName=sp_btf&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_117_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729753%26sr%3D8-117-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('Sager 2022 NP7880P Gaming Laptop, 17.3 Inch Thin Bezel FHD 144Hz, Intel i7-12700H, RTX 3060 6GB, 32GB RAM, 1TB NVMe SSD, TBT 4, Win 11  ', '4.5 out of 5 stars', '(107)', '1,398.00', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg8_1?ie=UTF8&adId=A06198251Y8V1I3ZIRATU&qualifier=1671729756&id=3950681817581158&widgetName=sp_atf_next&url=%2FSager-NP7880P-Gaming-Laptop-i7-12700H%2Fdp%2FB09WWSSW3M%2Fref%3Dsr_1_113_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729756%26sr%3D8-113-spons%26psc%3D1%26smid%3DA2NIBB411IB6WW')
+
+
+('MSI GE76 Raider Gaming Laptop 2021 (1TB SSD, 16GB RAM) 17.3" FHD 144 Hz, Intel Core i7-1180H (11th Gen), NVIDIA GeForce RTX 3060, Windows 10 64bit (Titanium Blue) 11UE-046 US Model  ', '4.5 out of 5 stars', '(82)', '1,439.99', 'https://amazon.com/MSI-GE76-i7-1180H-Titanium-11UE-046/dp/B097NHS4P1/ref=sr_1_115?keywords=gaming+laptop&qid=1671729756&sr=8-115')
+
+
+('MSI GE76 Raider Gaming Laptop Intel Core i7-11800H, GeForce RTX 3060, 17.3" FHD 144HZ, 32GB RAM2TB NVMe SSD, Wi-Fi6, Windows 10  ', '4.6 out of 5 stars', '(124)', '1,739.99', 'https://amazon.com/MSI-GE76-i7-11800H-GeForce-Windows/dp/B09FXJN548/ref=sr_1_120?keywords=gaming+laptop&qid=1671729756&sr=8-120')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg8_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729756&id=3950681817581158&widgetName=sp_mtf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_124_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729756%26sr%3D8-124-spons%26psc%3D1')
+
+
+('2022 Newest Lenovo Legion 7 Gaming Laptop, 16" 165Hz QHD IPS Display, Intel 11th Gen i7-11800H (8 Core) 2.30 GHz, Windows 11H, Storm Gray (i7-11800H | 64GB RAM |3TB NVMe | RTX3070)  ', '5.0 out of 5 stars', '(1)', '3,058.88', 'https://amazon.com/Lenovo-Display-i7-11800H-Windows-RTX3070/dp/B0B58F15QB/ref=sr_1_126?keywords=gaming+laptop&qid=1671729756&sr=8-126')
+
+
+('2022 Acer Nitro 5 17.3" FHD IPS 144Hz Gaming Laptop Core i5 12500H(Beats i7-11800H) NVIDIA RTX 3050 TGP 95W Thunderbolt 4 Intel Killer Ethernet w/Mouse Pad (16GB RAM | 1TB PCIe SSD)  ', '5.0 out of 5 stars', '(2)', '1,019.99', 'https://amazon.com/Acer-Gaming-i7-11800H-Thunderbolt-Ethernet/dp/B0BGKSMRL3/ref=sr_1_129?keywords=gaming+laptop&qid=1671729756&sr=8-129')
+
+
+('Razer Blade 15 Advanced Gaming Laptop 2020: Intel Core i7-10875H 8-Core, NVIDIA GeForce RTX 2080 Super Max-Q, 15.6” FHD 300Hz, 16GB RAM, 1TB SSD, CNC Aluminum, Chroma RGB Lighting, Thunderbolt 3  ', '4.5 out of 5 stars', '1,081', '2,299.00', 'https://amazon.com/Razer-Blade-Advanced-Gaming-Laptop/dp/B086MHT6LB/ref=sr_1_136?keywords=gaming+laptop&qid=1671729757&sr=8-136')
+
+
+('Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6" Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, Wi-Fi 6, RGB Keyboard, PH315-53-72XD  ', '4.7 out of 5 stars', '3,587', '1,190.14', 'https://amazon.com/Acer-Predator-i7-10750H-Dual-Channel-PH315-53-72XD/dp/B08842D7JS/ref=sr_1_142?keywords=gaming+laptop&qid=1671729757&sr=8-142')
+
+
+('ASUS 2022 TUF Dash 15.6" 144Hz Gaming Laptop, Intel 12th Core i7-12650H, 64GB RAM, 2TB PCIe SSD, NVIDIA GeForce RTX 3070 Graphics 6GB, Backlit Keyboard, Windows 11, Black, 32GB SnowBell USB Card  ', '4.8 out of 5 stars', '(6)', '1,699.00', 'https://amazon.com/ASUS-TUF-i7-12650H-Graphics-Keyboard/dp/B0BC3WGZ52/ref=sr_1_211?keywords=gaming+laptop&qid=1671729767&sr=8-211')
+
+
+('Alienware M15 R6 Gaming Laptop - 15.6-inch FHD (1920 x 1080) 1ms 360Hz Display, Intel Core i7-11800H, 32GB DDR4 RAM, 1TB SSD, NVIDIA RTX 3070 8GB Graphics, Windows 11 Home - Black  ', '4.5 out of 5 stars', '(126)', '1,949.99', 'https://amazon.com/Alienware-M15-Gaming-Laptop-15-6-inch/dp/B09VQ3JWZ5/ref=sr_1_212?keywords=gaming+laptop&qid=1671729767&sr=8-212')
+
+
+('MSI GE76 Raider Gaming Laptop I 17.3” Full HD IPS 144Hz I 11th Gen Intel 8-Core i7-11800H I 32GB DDR4 2TB SSD + 512GB SSD I GeForce RTX 3060 6GB I Backlit Thunderbolt USB-C Win10 + 32GB MicroSD Card  ', '3.9 out of 5 stars', '(5)', '2,139.00', 'https://amazon.com/MSI-GE76-Raider-i7-11800H-Thunderbolt/dp/B09WMLMNML/ref=sr_1_217?keywords=gaming+laptop&qid=1671729767&sr=8-217')
+
+
+('Microsoft Surface Laptop 5 (2022), 13.5" Touch Screen, Thin & Lightweight, Long Battery Life, Fast Intel i7 Processor for Multi-Tasking, 512GB Storage with Windows 11, Sage  ', '3.2 out of 5 stars', '(8)', '1,299.99', 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg14_1?ie=UTF8&adId=A03417863PMFO0JO8J9P1&qualifier=1671729767&id=8759906437661530&widgetName=sp_mtf&url=%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8PY2KZX%2Fref%3Dsr_1_219_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1671729767%26sr%3D8-219-spons%26psc%3D1')
+
+
+----------------------------------------------------------------------------------------
+Over_Ear_Headphones results with: < 4.3 stars, < 1000, < 50.0:
+----------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------
+Capture_Cards results with: < 4.9 stars, < 1000, < 1000.0:
+----------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------
+Over_Ear_Headphones results with: > 200.0 stars, > 10, > 10.0:
+----------------------------------------------------------------------------------------
+
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '61,953', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729719&id=5628441589958168&widgetName=sp_atf&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729719%26sr%3D8-1-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '9,955', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729719&id=5628441589958168&widgetName=sp_atf&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729719%26sr%3D8-2-spons%26psc%3D1')
+
+
+('Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 22 Hours of Listening Time, Built-in Microphone - Matte Black (Latest Model)  ', '4.7 out of 5 stars', '26,952', 149.99, 'https://amazon.com/Beats-Studio3-Wireless-Over%E2%80%91Ear-Headphones/dp/B085296FLT/ref=sr_1_3?keywords=over+ear+headphones&qid=1671729719&sr=8-3')
+
+
+('Soundcore Anker Life Q20 Hybrid Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, 40H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups, for Travel, Home Office  ', '4.5 out of 5 stars', '45,443', 59.99, 'https://amazon.com/Soundcore-Cancelling-Headphones-Wireless-Bluetooth/dp/B07NM3RSRQ/ref=sr_1_4?keywords=over+ear+headphones&qid=1671729719&sr=8-4')
+
+
+('Sony Noise Cancelling Headphones WHCH710N: Wireless Bluetooth Over the Ear Headset with Mic for Phone-Call, Blue (Amazon Exclusive)  ', '4.4 out of 5 stars', '20,624', 98.0, 'https://amazon.com/Sony-Noise-Cancelling-Headphones-WHCH710N/dp/B085RQYX5Z/ref=sr_1_5?keywords=over+ear+headphones&qid=1671729719&sr=8-5')
+
+
+('JBL Tune 760NC - Lightweight, Foldable Over-Ear Wireless Headphones with Active Noise Cancellation - Black  ', '4.3 out of 5 stars', 578, 84.88, 'https://amazon.com/JBL-Tune-760NC-Lightweight-Cancellation/dp/B094YV1S9T/ref=sr_1_6?keywords=over+ear+headphones&qid=1671729719&sr=8-6')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '16,035', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729719&id=5628441589958168&widgetName=sp_mtf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_7_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729719%26sr%3D8-7-spons%26psc%3D1')
+
+
+('Skullcandy Hesh ANC Wireless Over-Ear Noise Cancelling Bluetooth Headphones for iPhone and Android with Microphone / 22 Hour Battery Life / Best for Music, School, Workouts, Travel, and Gaming - White  ', '4.5 out of 5 stars', '4,719', 99.99, 'https://amazon.com/Skullcandy-Wireless-Cancelling-Over-Ear-Headphone/dp/B08G1XKY6N/ref=sr_1_8?keywords=over+ear+headphones&qid=1671729719&sr=8-8')
+
+
+('Srhythm NC25 Active Noise Cancelling Headphones Bluetooth 5.3,ANC Stereo Headset Over-Ear with Hi-Fi,Mic,50H Playtime,Voice Assistant,Low Latency Game Mode  ', '4.4 out of 5 stars', '11,965', 65.99, 'https://amazon.com/Cancelling-Headphones-Lightweight-Srhythm-Bluetooth/dp/B083S6Q8VK/ref=sr_1_9?keywords=over+ear+headphones&qid=1671729719&sr=8-9')
+
+
+('DOQAUS Bluetooth Headphones Over Ear, 52 Hours Playtime Wireless Headphones with 3 EQ Modes, HiFi Stereo Headphones with Microphone and Soft Protein Earpads for Cellphone/TV/PC/Home Office (Navy Blue)  ', '4.4 out of 5 stars', '6,433', 35.99, 'https://amazon.com/DOQAUS-Bluetooth-Headphones-Microphone-Cellphone/dp/B098NZR96K/ref=sr_1_10?keywords=over+ear+headphones&qid=1671729719&sr=8-10')
+
+
+('Panasonic Headphones, Lightweight Over the Ear Wired Headphones with Clear Sound and XBS for Extra Bass, Long Cord, 3.5mm Jack for Phones and Laptops – RP-HT161-K (Black)  ', '4.3 out of 5 stars', '27,339', 16.99, 'https://amazon.com/Panasonic-Headphones-RP-HT161-K-Lightweight-Long-Corded/dp/B075LT8YLR/ref=sr_1_11?keywords=over+ear+headphones&qid=1671729719&sr=8-11')
+
+
+('OneOdio Wired Headphones - Over Ear Headphones with Noise Isolation Dual Jack Professional Studio Monitor & Mixing Recording Headphones for Guitar Amp Drum Keyboard Podcast PC Computer  ', '4.3 out of 5 stars', '3,163', 28.79, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A04118891P961ZU6FCTHA&qualifier=1671729719&id=5628441589958168&widgetName=sp_mtf&url=%2FOneOdio-Headphones-Noise-Isolation-Professional-Headphones%2Fdp%2FB08738D39L%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729719%26sr%3D8-12-spons%26psc%3D1')
+
+
+('JBL Live 660NC - Wireless Over-Ear Noise Cancelling Headphones with Long Lasting Battery and Voice Assistant - Black  ', '4.5 out of 5 stars', 949, 99.95, 'https://amazon.com/JBL-Live-660NC-Cancelling-Headphones/dp/B091FZK6VB/ref=sr_1_13?keywords=over+ear+headphones&qid=1671729719&sr=8-13')
+
+
+('PowerLocus Bluetooth Over-Ear Headphones, Wireless Stereo Foldable Headphones Wireless and Wired Headsets with Built-in Mic, Micro SD/TF, FM for iPhone/Samsung/iPad/PC (Black/Red)  ', '4.4 out of 5 stars', '45,137', 26.99, 'https://amazon.com/PowerLocus-Bluetooth-Over-Ear-Headphones-Wireless/dp/B07C66SFJB/ref=sr_1_14?keywords=over+ear+headphones&qid=1671729719&sr=8-14')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', 260, 31.99, 'https://amazon.com/STADOR-Bluetooth-Headphones-Sweatproof-Waterproof/dp/B0BP184KQX/ref=sr_1_15?keywords=over+ear+headphones&qid=1671729719&sr=8-15')
+
+
+('Skullcandy Hesh 2 Wireless Over-Ear Bluetooth Headphones for iPhone and Android with Microphone / 15 Hours of Battery Life / Great for Music, School, Workouts, Travel, and Gaming - Black  ', '4.5 out of 5 stars', '9,821', 49.99, 'https://amazon.com/Skullcandy-Hesh-Wireless-Over-Ear-Headphone/dp/B00NCSIN4W/ref=sr_1_16?keywords=over+ear+headphones&qid=1671729719&sr=8-16')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729719&id=5628441589958168&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729719%26sr%3D8-17-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+UnicodeEncodeError
+
+
+('KVIDIO Bluetooth Headphones Over Ear, 55 Hours Playtime Wireless Headphones with Microphone,Foldable Lightweight Headset with Deep Bass,HiFi Stereo Sound for Travel Work Laptop PC Cellphone  ', '4.4 out of 5 stars', '7,952', 28.99, 'https://amazon.com/Bluetooth-Headphones-KVIDIO-Microphone-Lightweight/dp/B09BF64J55/ref=sr_1_20?keywords=over+ear+headphones&qid=1671729719&sr=8-20')
+
+
+('MOVSSOU SE8 Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth Headphones with Hi-Fi Stereo Sound, Comfortable Protein Earpads, 30H Playtime - Space Black  ', '4.8 out of 5 stars', 120, 49.98, 'https://amazon.com/MOVSSOU-Cancelling-Headphones-Bluetooth-Comfortable/dp/B0BB5NCH58/ref=sr_1_21?keywords=over+ear+headphones&qid=1671729719&sr=8-21')
+
+
+('BOLOXA Bluetooth Headphones 5.3 Wireless Earbuds IPX7 Waterproof & 12Hrs Long Battery Over-Ear Stereo Bass Earphones with Earhooks Running Headset with Mic & Storage Bag for Workout Gym Sports Black  ', '4.8 out of 5 stars', 188, 15.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A00214274A5I9WG9TAZ8&qualifier=1671729719&id=5628441589958168&widgetName=sp_btf&url=%2FBOLOXA-Bluetooth-Headphones-Waterproof-Earphones%2Fdp%2FB0BF54JGTT%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729719%26sr%3D8-22-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729720&id=5745113517815473&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729720%26sr%3D8-17-spons%26psc%3D1')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '(61,953)', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729720&id=5745113517815473&widgetName=sp_atf_next&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_18_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729720%26sr%3D8-18-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '(3,503)', 23.99, 'https://amazon.com/BERIBES-Bluetooth-Headphones-Microphone-Lightweight/dp/B09LYF2ST7/ref=sr_1_19?keywords=over+ear+headphones&qid=1671729720&sr=8-19')
+
+
+('OneOdio Wired Over Ear Headphones Studio Monitor & Mixing DJ Stereo Headsets with 50mm Neodymium Drivers and 1/4 to 3.5mm Audio Jack for AMP Computer Recording Phone Piano Guitar Laptop - Black  ', '4.5 out of 5 stars', '(38,794)', 31.99, 'https://amazon.com/OneOdio-Adapter-Free-Headphones-Professional-Telescopic/dp/B01N6ZJH96/ref=sr_1_20?keywords=over+ear+headphones&qid=1671729720&sr=8-20')
+
+
+('Sony Noise Canceling Headphones WHCH710N: Wireless Bluetooth Over The Ear Headset with Mic for Phone-Call and Alexa Voice Control, Black  ', '4.3 out of 5 stars', '(5,242)', 93.99, 'https://amazon.com/Sony-WH-CH710N-Cancelling-Headphones-Assistant/dp/B086LLYK4S/ref=sr_1_21_mod_primary_new?keywords=over+ear+headphones&qid=1671729720&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-21')
+
+
+('Philips SHP9600 Wired, Over-Ear, Headphones, Comfort Fit, Open-Back 50 mm Neodymium Drivers (SHP9600/00) - Black  ', '4.6 out of 5 stars', '(9,271)', 58.99, 'https://amazon.com/Philips-SHP9600-Headphones-Open-Back-00/dp/B08B477BHS/ref=sr_1_22?keywords=over+ear+headphones&qid=1671729720&sr=8-22')
+
+
+('MOVSSOU E7 Active Noise Cancelling Headphones Bluetooth Headphones Wireless Headphones Over Ear with Microphone Deep Bass, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Black  ', '4.3 out of 5 stars', '(7,022)', 39.93, 'https://amazon.com/Active-Noise-Cancelling-Headphones-Comfortable/dp/B095BV8R27/ref=sr_1_23?keywords=over+ear+headphones&qid=1671729720&sr=8-23')
+
+
+('Silensys E7 Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Black  ', '4.4 out of 5 stars', '(4,308)', 38.78, 'https://amazon.com/Silensys-Active-Noise-Cancelling-Headphones/dp/B098XGQS6G/ref=sr_1_24?keywords=over+ear+headphones&qid=1671729720&sr=8-24')
+
+
+('Ankbit E500 Active Noise Cancelling Headphones Bluetooth 5.2 Headphones with Microphone, Deep Bass Hi-Fi Sound, Wireless Over Ear Headphones with 75H Playtime, Voice Assistant for Travel/Home/Office  ', '4.8 out of 5 stars', '(8)', 49.98, 'https://amazon.com/Ankbit-E500-Cancelling-Headphones-Microphone/dp/B0BJL8PDBP/ref=sr_1_25?keywords=over+ear+headphones&qid=1671729720&sr=8-25')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/Bose-QuietComfort-45-Bluetooth-Canceling-Headphones/dp/B098FKXT8L/ref=sr_1_26?keywords=over+ear+headphones&qid=1671729720&sr=8-26')
+
+
+('PowerLocus Bluetooth Over-Ear Headphones, Wireless Stereo Foldable Headphones Wireless and Wired Headsets with Built-in Mic, Micro SD/TF, FM for iPhone/Samsung/iPad/PC (Rose Gold)  ', '4.4 out of 5 stars', '(45,137)', 26.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A05124901S352VCOYD07W&qualifier=1671729720&id=5745113517815473&widgetName=sp_mtf&url=%2FPowerLocus-Bluetooth-Over-Ear-Headphones-Wireless%2Fdp%2FB07D3P2J6C%2Fref%3Dsr_1_27_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729720%26sr%3D8-27-spons%26psc%3D1')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729720&id=5745113517815473&widgetName=sp_mtf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_28_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729720%26sr%3D8-28-spons%26psc%3D1')
+
+
+('Beats Solo3 Wireless On-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 40 Hours of Listening Time, Built-in Microphone - Satin Silver (Latest Model)  ', '4.7 out of 5 stars', '(56,990)', 129.99, 'https://amazon.com/Beats-Solo3-Wireless-Ear-Headphones/dp/B07YVZ15SK/ref=sr_1_29?keywords=over+ear+headphones&qid=1671729720&sr=8-29')
+
+
+('JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Black  ', '4.6 out of 5 stars', '(20,799)', 24.95, 'https://amazon.com/JBL-Tune-510BT-Ear-Headphones/dp/B08WM3LMJF/ref=sr_1_30?keywords=over+ear+headphones&qid=1671729720&sr=8-30')
+
+
+('Sony WH-1000XM5 Wireless Industry Leading Noise Canceling Headphones with Auto Noise Canceling Optimizer, Crystal Clear Hands-Free Calling, and Alexa Voice Control, Black  ', '4.5 out of 5 stars', '(3,392)', 348.0, 'https://amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH/ref=sr_1_31?keywords=over+ear+headphones&qid=1671729720&sr=8-31')
+
+
+('SENNHEISER HD 450BT Bluetooth 5.0 Wireless Headphone with Active Noise Cancellation - 30-Hour Battery Life, USB-C Fast Charging, Virtual Assistant Button, Foldable - Black  ', '4.2 out of 5 stars', '(4,308)', 99.95, 'https://amazon.com/Sennheiser-HD-450BT-Bluetooth-Cancellation/dp/B083W7V3RG/ref=sr_1_32?keywords=over+ear+headphones&qid=1671729720&sr=8-32')
+
+
+('Sennheiser HD 350BT Bluetooth 5.0 Wireless Headphone - 30-Hour Battery Life, USB-C Fast Charging, Virtual Assistant Button, Foldable - Black  ', '4.1 out of 5 stars', '(2,099)', 79.95, 'https://amazon.com/Sennheiser-HD-350BT-Bluetooth-Headphone/dp/B083WS3WPK/ref=sr_1_33?keywords=over+ear+headphones&qid=1671729720&sr=8-33')
+
+
+('Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones with Multiple Modes, Hi-Res Sound, Custom EQ via App, 40H Playtime, Comfortable Fit, Bluetooth Headphones, Multipoint Connection  ', '4.5 out of 5 stars', '(20,563)', 79.99, 'https://amazon.com/Soundcore-Cancelling-Headphones-Comfortable-Bluetooth/dp/B08HMWZBXC/ref=sr_1_34?keywords=over+ear+headphones&qid=1671729720&sr=8-34')
+
+
+('GOLREX Bluetooth Headphones Wireless Earbuds 36Hrs Playtime Wireless Charging Case Digital LED Display Over-Ear Earphones with Earhook Waterproof Headset with Mic for Sport Running Workout Blue  ', '4.8 out of 5 stars', '(2,158)', 41.99, 'https://amazon.com/GOLREX-Bluetooth-Headphones-Earphones-Waterproof/dp/B0BNLBXT21/ref=sr_1_35?keywords=over+ear+headphones&qid=1671729720&sr=8-35')
+
+
+('Perytong Sleep Headphones Wireless, Bluetooth Sports Headband Headphones with Ultra-Thin HD Stereo Speakers Perfect for Sleeping,Workout,Jogging,Yoga,Insomnia, Air Travel, Meditation  ', '4.3 out of 5 stars', '(42,241)', 19.99, 'https://amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z/ref=sr_1_36?keywords=over+ear+headphones&qid=1671729720&sr=8-36')
+
+
+('BOLOXA Bluetooth Headphones 5.3 Wireless Earbuds IPX7 Waterproof & 12Hrs Long Battery Over-Ear Stereo Bass Earphones with Earhooks Running Headset with Mic & Storage Bag for Workout Gym Sports Black  ', '4.8 out of 5 stars', '(188)', 15.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A00214274A5I9WG9TAZ8&qualifier=1671729720&id=5745113517815473&widgetName=sp_btf&url=%2FBOLOXA-Bluetooth-Headphones-Waterproof-Earphones%2Fdp%2FB0BF54JGTT%2Fref%3Dsr_1_37_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729720%26sr%3D8-37-spons%26psc%3D1')
+
+
+('Bose Noise Cancelling Headphones 700,Bluetooth, Over-Ear Wireless with Built-In Microphone for Clear Calls & Alexa Voice Control,Black  ', '4.5 out of 5 stars', '(30,105)', 379.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A09192921JQ917QHMYXIU&qualifier=1671729720&id=5745113517815473&widgetName=sp_btf&url=%2FBose-Cancelling-Wireless-Bluetooth-Headphones%2Fdp%2FB07Q9MJKBV%2Fref%3Dsr_1_38_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729720%26sr%3D8-38-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '9,955', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg3_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729722&id=7417884210499604&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_33_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729722%26sr%3D8-33-spons%26psc%3D1')
+
+
+('Skullcandy Hesh ANC Wireless Over-Ear Noise Cancelling Bluetooth Headphones for iPhone and Android with Microphone / 22 Hour Battery Life / Best for Music, School, Workouts, Travel, and Gaming - White  ', '4.5 out of 5 stars', '4,719', 99.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg3_1?ie=UTF8&adId=A10124152MP6SZTDAI3BO&qualifier=1671729722&id=7417884210499604&widgetName=sp_atf_next&url=%2FSkullcandy-Wireless-Cancelling-Over-Ear-Headphone%2Fdp%2FB08G1XKY6N%2Fref%3Dsr_1_34_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729722%26sr%3D8-34-spons%26psc%3D1')
+
+
+('Sony WH-1000XM4 Wireless Premium Noise Canceling Overhead Headphones with Mic for Phone-Call and Alexa Voice Control, Black  ', '4.7 out of 5 stars', '44,905', 348.0, 'https://amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3/ref=sr_1_35?keywords=over+ear+headphones&qid=1671729722&sr=8-35')
+
+
+('Tuitager Bluetooth Headphones Over-Ear, 60 Hours Playtime Foldable Lightweight Wireless Headphones Hi-Fi Stereo with 6 EQ Modes, Bass Adjustable Headset with Built-in HD Mic, FM, SD/TF for PC/Home  ', '4.4 out of 5 stars', '5,009', 27.99, 'https://amazon.com/Bluetooth-Headphones-Lightweight-Adjustable-Microphone/dp/B09CY995KT/ref=sr_1_36?keywords=over+ear+headphones&qid=1671729722&sr=8-36')
+
+
+('Sennheiser HD 400S Closed Back, Around Ear Headphone with One-Button Smart Remote on Detachable Cable  ', '4.3 out of 5 stars', '1,261', 51.24, 'https://amazon.com/Sennheiser-HD-400S-One-Button-Detachable/dp/B07NFQ9FQQ/ref=sr_1_37?keywords=over+ear+headphones&qid=1671729722&sr=8-37')
+
+
+('Bowers & Wilkins Px8 Wireless Bluetooth Over-Ear Headphones with Active Noise Cancellation (Tan)  ', '4.3 out of 5 stars', 28, 699.0, 'https://amazon.com/Bowers-Wilkins-Bluetooth-Headphones-Cancellation/dp/B0B349KKSV/ref=sr_1_38?keywords=over+ear+headphones&qid=1671729722&sr=8-38')
+
+
+('OneOdio A70 Bluetooth Over Ear Headphones, Wireless Headphones w/ 72H Playtime, Hi-Res, 3.5mm/6.35mm Wired Audio Jack for Studio Monitor & Mixing DJ Guitar AMP, Computer Laptop PC Tablet - Black  ', '4.4 out of 5 stars', '10,443', 42.99, 'https://amazon.com/OneOdio-Bluetooth-Headphones-Share-Port-Professional/dp/B07MQQS88Q/ref=sr_1_39?keywords=over+ear+headphones&qid=1671729722&sr=8-39')
+
+
+('RUNOLIM Over Ear Bluetooth Headphones, 60Hrs Headphones Wireless Bluetooth with Microphone, HiFi Stereo with Deep Bass, Foldable Lightweight Headset for PC Phone Laptop, Memorable Foam Cover, Black  ', '4.4 out of 5 stars', 244, 15.99, 'https://amazon.com/Bluetooth-Headphones-RUNOLIM-Microphone-Lightweight/dp/B09YXR1F4C/ref=sr_1_40?keywords=over+ear+headphones&qid=1671729722&sr=8-40')
+
+
+('Sennheiser Professional HD 280 PRO Over-Ear Monitoring Headphones  ', '4.6 out of 5 stars', '10,820', 79.95, 'https://amazon.com/Sennheiser-Professional-Over-Ear-Monitoring-Headphones/dp/B00IT0IHOY/ref=sr_1_41?keywords=over+ear+headphones&qid=1671729722&sr=8-41')
+
+
+('Raycon Everyday Wireless Bluetooth Over Ear Headphones, with Active Noise Cancelling, Awareness Mode and Built in Microphone, IPX 4 Water Resistance, 22 Hours of Battery Life (Rose Gold)  ', '4.5 out of 5 stars', 385, 99.99, 'https://amazon.com/Raycon-Bluetooth-Headphones-Cancelling-Microphone/dp/B08WHVFW1K/ref=sr_1_42?keywords=over+ear+headphones&qid=1671729722&sr=8-42')
+
+
+('Bose Noise Cancelling Headphones 700 — Over Ear, Wireless Bluetooth Headphones with Built-In Microphone for Clear Calls & Alexa Voice Control, Silver Luxe  ', '4.5 out of 5 stars', '30,105', 379.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg3_1?ie=UTF8&adId=A083761423GUAVHBYDUOV&qualifier=1671729722&id=7417884210499604&widgetName=sp_mtf&url=%2FBose-Cancelling-Wireless-Bluetooth-Headphones%2Fdp%2FB07Q4QK379%2Fref%3Dsr_1_43_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729722%26sr%3D8-43-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg3_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729722&id=7417884210499604&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_44_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729722%26sr%3D8-44-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('Bang & Olufsen Beoplay HX – Comfortable Wireless ANC Over-Ear Headphones - Gold Tone  ', '4.3 out of 5 stars', 531, 499.0, 'https://amazon.com/Bang-Olufsen-Beoplay-Comfortable-Headphones/dp/B0B993PBJ7/ref=sr_1_45?keywords=over+ear+headphones&qid=1671729722&sr=8-45')
+
+
+('JBL Live 650BTNC Headphones, Black - Wireless Over-Ear Bluetooth Headphones - Up to 20 Hours of Noise-Cancelling Streaming - Includes Multi-Point Connection & Voice Assistant  ', '4.4 out of 5 stars', 276, 79.99, 'https://amazon.com/JBL-Live-650BTNC-Headphones-Black/dp/B0B5G69Q3J/ref=sr_1_46?keywords=over+ear+headphones&qid=1671729722&sr=8-46')
+
+
+('LORELEI X8 Over-Ear Wired Headphones with Microphone with 1.45m-Tangle-Free Nylon Line&3.5mm Plug,Lightweight Foldable & Portable Headphones for Smartphone,Tablet,Computer,Mp3/4(Dark Purple)  ', '4.5 out of 5 stars', '2,876', 16.99, 'https://amazon.com/LORELEI-X8-Headphones-1-45m-Tangle-Free-Lightweight/dp/B08JCD23MJ/ref=sr_1_49?keywords=over+ear+headphones&qid=1671729722&sr=8-49')
+
+
+('LORELEI X6 Over-Ear Headphones with Microphone, Lightweight Foldable & Portable Stereo Bass Headphones with 1.45M No-Tangle, Wired Headphones for Smartphone Tablet MP3 / 4 (Space Black)  ', '4.4 out of 5 stars', '9,408', 16.99, 'https://amazon.com/LORELEI-X6-Headphones-Microphone-Lightweight/dp/B083P1HG9S/ref=sr_1_50?keywords=over+ear+headphones&qid=1671729722&sr=8-50')
+
+
+('GNMN Headphones Wireless Earbuds 48hrs Playback IPX7 Waterproof Earphones Over-Ear Stereo Bass Headset with Earhooks Microphone LED Battery Display for Sports/Workout/Gym/Running Black  ', '4.7 out of 5 stars', '1,622', 28.99, 'https://amazon.com/GNMN-Headphones-Waterproof-Earphones-Microphone/dp/B0B887LGK2/ref=sr_1_51?keywords=over+ear+headphones&qid=1671729722&sr=8-51')
+
+
+('Soundcore by Anker Life Q20+ Active Noise Cancelling Headphones, 40H Playtime, Hi-Res Audio, App, Connect to 2 Devices, Memory Foam Earcups, Bluetooth Headphones for Travel, Home Office  ', '4.5 out of 5 stars', '3,877', 69.99, 'https://amazon.com/Soundcore-Cancelling-Headphones-Playtime-Bluetooth/dp/B092J2RWHR/ref=sr_1_52?keywords=over+ear+headphones&qid=1671729722&sr=8-52')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '16,035', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg3_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729722&id=7417884210499604&widgetName=sp_btf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_53_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729722%26sr%3D8-53-spons%26psc%3D1')
+
+
+('Skullcandy Crusher Evo Wireless Over-Ear Bluetooth Headphones for iPhone and Android with Mic / 40 Hour Battery Life / Extra Bass Tech / Best for Music, School, Workouts, and Gaming - Grey  ', '4.8 out of 5 stars', '9,714', 149.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg3_1?ie=UTF8&adId=A00497781F7GTYZLRW4DB&qualifier=1671729722&id=7417884210499604&widgetName=sp_btf&url=%2FSkullcandy-Crusher-Wireless-Over-Ear-Headphone%2Fdp%2FB08FCGLYFZ%2Fref%3Dsr_1_54_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729722%26sr%3D8-54-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729724&id=3722563003895015&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_49_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729724%26sr%3D8-49-spons%26psc%3D1')
+
+
+('FIFINE Studio Monitor Headphones for Recording-Over Ear Wired Headphones for Podcast Monitoring, Streaming Comfortable Equipment with Detachable Cables 3.5mm or 6.35mm Jack, Black, on PC/Mixer-H8  ', '4.8 out of 5 stars', '(73)', 36.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A04552843HP412WGB72JU&qualifier=1671729724&id=3722563003895015&widgetName=sp_atf_next&url=%2FFIFINE-Headphones-Recording-Over-Monitoring-Comfortable%2Fdp%2FB0B6BPVS3Z%2Fref%3Dsr_1_50_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729724%26sr%3D8-50-spons%26psc%3D1')
+
+
+('Hybrid Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones with Microphone, 100H Playtime, Foldable Headphones with HiFi Audio, Deep Bass, Hard Case for Home Travel Office  ', '4.6 out of 5 stars', '(1,077)', 49.99, 'https://amazon.com/Cancelling-Headphones-Wireless-Bluetooth-Microphone/dp/B0BKPRTRXK/ref=sr_1_51?keywords=over+ear+headphones&qid=1671729724&sr=8-51')
+
+
+('JBL Live 460NC - Wireless On-Ear Noise Cancelling Headphones with Long Battery Life and Voice Assistant Control - Black  ', '4.5 out of 5 stars', '(3,070)', 64.95, 'https://amazon.com/JBL-Live-460NC-Ear-Cancelling/dp/B08WR6YDKP/ref=sr_1_52?keywords=over+ear+headphones&qid=1671729724&sr=8-52')
+
+
+('Soundcore by Anker Life Q35 Multi Mode Active Noise Cancelling Headphones, Bluetooth Headphones with LDAC for Hi Res Wireless Audio, 40H Playtime, Comfortable Fit, Clear Calls, for Home, Work, Travel  ', '4.5 out of 5 stars', '(7,045)', 109.99, 'https://amazon.com/Soundcore-Cancelling-Headphones-Bluetooth-Comfortable/dp/B09FPCZ318/ref=sr_1_53?keywords=over+ear+headphones&qid=1671729724&sr=8-53')
+
+
+('ZIHNIC Active Noise Cancelling Headphones, 40H Playtime Wireless Bluetooth Headset with Deep Bass Hi-Fi Stereo Sound,Comfortable Earpads for Travel/Home/Office (Black)  ', '4.4 out of 5 stars', '(2,898)', 59.99, 'https://amazon.com/Zihnic-Active-Noise-Cancelling-Headphones/dp/B0962WYR8P/ref=sr_1_54?keywords=over+ear+headphones&qid=1671729724&sr=8-54')
+
+
+('DOQAUS Bluetooth Headphones Wireless, 52H Playtime Bluetooth 5.3 Wireless Over Ear Headphones with Built-in HD Mic, 3 EQ Modes, HiFi Stereo Sound, Deep Bass, Memory Foam Ear Cups, for Phone/PC(Black)  ', '4.4 out of 5 stars', '(28)', 22.99, 'https://amazon.com/DOQAUS-Bluetooth-Headphones-Wireless-Playtime/dp/B0BG7BYG3M/ref=sr_1_55?keywords=over+ear+headphones&qid=1671729724&sr=8-55')
+
+
+('AKG Pro Audio K72 Over-Ear, Closed-Back, Studio Headphones, Matte Black  ', '4.5 out of 5 stars', '(5,058)', 35.0, 'https://amazon.com/AKG-Pro-Audio-K72-CLOSED-BACK/dp/B01AYSNHVQ/ref=sr_1_56?keywords=over+ear+headphones&qid=1671729724&sr=8-56')
+
+
+('WYZE Bluetooth 5.0 Headphones, Reddot Award Headphones,Bluetooth Headphones Over The Ear with Active Noise Cancellation,High-Fidelity Sound,Transparency Mode,Clear Voice Pick-up, Alexa Built-in,Black  ', '4.5 out of 5 stars', '(3,346)', 65.1, 'https://amazon.com/Noise-Cancelling-Headphones-Cancellation-High-fidelity-Transparency/dp/B08KHTJL1F/ref=sr_1_57?keywords=over+ear+headphones&qid=1671729724&sr=8-57')
+
+
+('Soundcore by Anker Space Q45 Adaptive Active Noise Cancelling Headphones, Reduce Noise by Up to 98%, 50H Playtime, App Control, LDAC Hi-Res Wireless Audio, Comfortable Fit, Clear Calls, Bluetooth 5.3  ', '4.3 out of 5 stars', '(960)', 149.99, 'https://amazon.com/Soundcore-Cancelling-Headphones-Comfortable-Bluetooth/dp/B0B5VHRX7F/ref=sr_1_58?keywords=over+ear+headphones&qid=1671729724&sr=8-58')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '(3,503)', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg4_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729724&id=3722563003895015&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_59_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729724%26sr%3D8-59-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('Bose Noise Cancelling Headphones 700,Bluetooth, Over-Ear Wireless with Built-In Microphone for Clear Calls & Alexa Voice Control,Black  ', '4.5 out of 5 stars', '(30,105)', 379.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg4_1?ie=UTF8&adId=A09192921JQ917QHMYXIU&qualifier=1671729724&id=3722563003895015&widgetName=sp_mtf&url=%2FBose-Cancelling-Wireless-Bluetooth-Headphones%2Fdp%2FB07Q9MJKBV%2Fref%3Dsr_1_60_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729724%26sr%3D8-60-spons%26psc%3D1')
+
+
+('Sennheiser Momentum 4 Wireless Headphones - Bluetooth Headset for Crystal-Clear Calls with Adaptive Noise Cancellation, 60h Battery Life, Customizable Sound - White )  ', '4.1 out of 5 stars', '(684)', 286.14, 'https://amazon.com/Sennheiser-Momentum-Wireless-Headphones-Crystal-Clear/dp/B0B6G9TPNQ/ref=sr_1_61?keywords=over+ear+headphones&qid=1671729724&sr=8-61')
+
+
+('Disney Nightmare Before Christmas Bluetooth Over Ear Headphones, Wireless Foldable Headset Built-in Microphone - Tim Burton Jack Skellington & Sally Holiday Xmas Gift Adults Kids Audifonos Auriculares  ', '4.8 out of 5 stars', '(463)', 29.95, 'https://amazon.com/iJoy-Rechargeable-Wireless-Headphones-Bluetooth/dp/B09NTY1WPW/ref=sr_1_62?keywords=over+ear+headphones&qid=1671729724&sr=8-62')
+
+
+('Ankbit E700 Hybrid Active Noise Cancelling Headphones, Bluetooth 5.1 Headphone with LDAC for Hi-Res Wireless Audio, Over Ear Wireless Headphones with aptX HD & Low Latency 60H Playtime (Obsidian Blue)  ', '4.5 out of 5 stars', '(26)', 74.99, 'https://amazon.com/Ankbit-E700-Cancelling-Headphones-Bluetooth/dp/B0BFLCBM6W/ref=sr_1_63?keywords=over+ear+headphones&qid=1671729724&sr=8-63')
+
+
+('RTUSIA Small Bluetooth Headphones Wrap Around Head - Sports Wireless Headset with Built in Microphone and Crystal-Clear Sound, Foldable and Carried in The Purse, and 12-Hour Battery Life, Blue  ', '4.3 out of 5 stars', '(3,021)', 29.99, 'https://amazon.com/Small-Bluetooth-Headphones-Wrap-Around/dp/B09BQ31GYW/ref=sr_1_64?keywords=over+ear+headphones&qid=1671729724&sr=8-64')
+
+
+('HROEENOI Active Noise Cancelling Headphones, JZ02 Bluetooth Headphones, Wireless Over Ear Headphones with CVC 8.0 Microphone Deep Bass Headset, 40 Hours Playtime for Travel Work Phone - Black  ', '4.4 out of 5 stars', '(3,539)', 45.99, 'https://amazon.com/Cancelling-Headphones-HROEENOI-JZ02-Microphone/dp/B08T67XB4T/ref=sr_1_65?keywords=over+ear+headphones&qid=1671729724&sr=8-65')
+
+
+('Sony Wireless Headphones WH-CH510: Wireless Bluetooth On-Ear Headset with Mic for Phone-Call, Black  ', '4.5 out of 5 stars', '(32,642)', 38.0, 'https://amazon.com/Sony-WH-CH510-Wireless-Headphones-WHCH510/dp/B07WSKKYPR/ref=sr_1_66?keywords=over+ear+headphones&qid=1671729724&sr=8-66')
+
+
+('Philips Studio Headphones for Recording, Over Ear Open Back Stereo Headphones Wired with Detachable Audio Jack, Studio Monitor Headphones for Recording Podcast DJ Music Piano Guitar (SHP9600)  ', '4.6 out of 5 stars', '(3)', 59.99, 'https://amazon.com/Philips-Headphones-Detachable-Audio-SHP9600/dp/B0BMM8S9Q1/ref=sr_1_67?keywords=over+ear+headphones&qid=1671729724&sr=8-67')
+
+
+('JLab JBuddies Pro Wireless Over-Ear Kids Headphones | 35+ Hour Battery Life | Built-in Volume Regulators for Safety | Share Mode | Folding | Adjustable | Noise Isolation | with Mic | Blue  ', '4.4 out of 5 stars', '(181)', 27.99, 'https://amazon.com/JBuddies-Headphones-Regulators-Adjustable-Isolation/dp/B09B4HNL8Z/ref=sr_1_68?keywords=over+ear+headphones&qid=1671729724&sr=8-68')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg4_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729724&id=3722563003895015&widgetName=sp_btf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_69_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729724%26sr%3D8-69-spons%26psc%3D1')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '(61,953)', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg4_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729724&id=3722563003895015&widgetName=sp_btf&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_70_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729724%26sr%3D8-70-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg5_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729725&id=3136631144828783&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_65_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729725%26sr%3D8-65-spons%26psc%3D1')
+
+
+('SHOKZ OpenRun (AfterShokz Aeropex) - Open-Ear Bluetooth Bone Conduction Sport Headphones - Sweat Resistant Wireless Earphones for Workouts and Running - Built-in Mic, with Headband  ', '4.6 out of 5 stars', '(8,969)', 99.95, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg5_1?ie=UTF8&adId=A06821853B1RTE8OAVVXF&qualifier=1671729725&id=3136631144828783&widgetName=sp_atf_next&url=%2FShokz-OpenRun-Conduction-Headphones-Built%2Fdp%2FB09BW1QVVT%2Fref%3Dsr_1_66_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729725%26sr%3D8-66-spons%26psc%3D1')
+
+
+('POWMEE P20 Kids Headphones Over-Ear Headphones for Kids/Teens/Boys/Girls/School with 94dB Volume Limited Adjustable Stereo Tangle-Free 3.5MM Jack Wire Cord for Fire Tablets/Travel/PC/Phones(Blue)  ', '4.6 out of 5 stars', '(1,142)', 10.99, 'https://amazon.com/POWMEE-P20-Headphones-Adjustable-Tangle-Free/dp/B09DD2TLYN/ref=sr_1_70?keywords=over+ear+headphones&qid=1671729725&sr=8-70')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/Bluetooth-Headphones-Wireless-TUINYO-Memory-Protein/dp/B08RHMD51S/ref=sr_1_72?keywords=over+ear+headphones&qid=1671729725&sr=8-72')
+
+
+('Symphonized Over Ear Headphones Wireless - Bluetooth Headphones Over Ear with Microphone – Over The Head 90% Noise Cancelling Head Phones – Stereo Sound & Deep Bass for TV, PC, Laptop, Phones (Red)  ', '4.4 out of 5 stars', '(399)', 26.99, 'https://amazon.com/Symphonized-Over-Ear-Headphones-Wireless/dp/B0BGYD6X5Z/ref=sr_1_74?keywords=over+ear+headphones&qid=1671729725&sr=8-74')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg5_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729725&id=3136631144828783&widgetName=sp_mtf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_75_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729725%26sr%3D8-75-spons%26psc%3D1')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '(61,953)', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg5_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729725&id=3136631144828783&widgetName=sp_mtf&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_76_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729725%26sr%3D8-76-spons%26psc%3D1')
+
+
+('Srhythm NC35 Noise Cancelling Headphones Wireless Bluetooth 5.0, Fast Charge Over-Ear Lightweight Headset with Microphones,Mega Bass 50+ Hours’ Playtime  ', '4.4 out of 5 stars', '(6,526)', 69.99, 'https://amazon.com/Srhythm-Cancelling-Headphones-Lightweight-Microphones/dp/B09PBF3RSW/ref=sr_1_77?keywords=over+ear+headphones&qid=1671729725&sr=8-77')
+
+
+('OneOdio Over Ear Headphone, Wired Bass Headsets with 50mm Driver, Foldable Lightweight Headphones with Shareport and Mic for Recording Monitoring Podcast Guitar PC TV - (Red)  ', '4.4 out of 5 stars', '(13,320)', 29.99, 'https://amazon.com/OneOdio-Headphone-Lightweight-Headphones-Monitoring/dp/B07G748HKJ/ref=sr_1_78?keywords=over+ear+headphones&qid=1671729725&sr=8-78')
+
+
+('Skullcandy Hesh Evo Wireless Over-Ear Headphones Transparency Edition - Clear Color  ', '4.6 out of 5 stars', '(3,460)', 79.99, 'https://amazon.com/Skullcandy-Wireless-Over-Ear-Headphones-Transparency/dp/B0B75RDG3R/ref=sr_1_79?keywords=over+ear+headphones&qid=1671729725&sr=8-79')
+
+
+('TECKNET Wireless Bluetooth Over Ear Headphones, 65H Playtime Foldable Headsets with Built-in Mic, Memory Foam Ear Cups, Deep Bass Hi-Fi Stereo Lightweight Earphones for PC, Cell Phone, Laptop (Black)  ', '4.2 out of 5 stars', '(44)', 25.99, 'https://amazon.com/TECKNET-Bluetooth-Headphones-Lightweight-Earphones/dp/B0B1P88NCP/ref=sr_1_80?keywords=over+ear+headphones&qid=1671729725&sr=8-80')
+
+
+('iClever BTH12 Kids Bluetooth Headphones,Colorful LED Lights Wireless Kids Headphones,74/85/94dB Volume Limits,55H Playtime,Bluetooth 5.2,Over Ear Headphones Built-in Mic for iPad/Tablet/Airplane,Green  ', '4.5 out of 5 stars', '(5,036)', 37.99, 'https://amazon.com/iClever-BTH12-Bluetooth-Headphones-Colorful/dp/B0B3RBQ9KZ/ref=sr_1_81?keywords=over+ear+headphones&qid=1671729725&sr=8-81')
+
+
+('JLab Studio Pro Bluetooth Wireless Over-Ear Headphones | 50+ Hour Bluetooth 5 Playtime | EQ3 Sound | Ultra-Plush Faux Leather & Cloud Foam Cushions | Track and Volume Controls | Slate  ', '4.3 out of 5 stars', '(2,275)', 39.88, 'https://amazon.com/Bluetooth-Wireless-Over-Ear-Headphones-Ultra-Plush/dp/B09BXPX97P/ref=sr_1_82?keywords=over+ear+headphones&qid=1671729725&sr=8-82')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '(61,953)', 29.99, 'https://amazon.com/iJoy-Rechargeable-Wireless-Headphones-Bluetooth/dp/B01HNMTCE2/ref=sr_1_84?keywords=over+ear+headphones&qid=1671729725&sr=8-84')
+
+
+('Shokz OpenMove - Open-Ear Bluetooth Sport Headphones - Bone Conduction Wireless Earphones - Sweatproof for Running and Workouts, with Sticker Pack (Grey)  ', '4.5 out of 5 stars', '(4,856)', 59.95, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg5_1?ie=UTF8&adId=A0682341G0UJAY4EZ7ZO&qualifier=1671729725&id=3136631144828783&widgetName=sp_btf&url=%2FShokz-OpenMove-Headphones-Conduction-Sweatproof%2Fdp%2FB09BW29FJS%2Fref%3Dsr_1_85_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729725%26sr%3D8-85-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '(3,503)', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg5_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729725&id=3136631144828783&widgetName=sp_btf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_86_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729725%26sr%3D8-86-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg6_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729727&id=8533301410899270&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_81_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729727%26sr%3D8-81-spons%26psc%3D1')
+
+
+('FIFINE Studio Monitor Headphones for Recording-Over Ear Wired Headphones for Podcast Monitoring, Streaming Comfortable Equipment with Detachable Cables 3.5mm or 6.35mm Jack, Black, on PC/Mixer-H8  ', '4.8 out of 5 stars', '(73)', 36.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg6_1?ie=UTF8&adId=A04552843HP412WGB72JU&qualifier=1671729727&id=8533301410899270&widgetName=sp_atf_next&url=%2FFIFINE-Headphones-Recording-Over-Monitoring-Comfortable%2Fdp%2FB0B6BPVS3Z%2Fref%3Dsr_1_82_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729727%26sr%3D8-82-spons%26psc%3D1')
+
+
+('ThinkWrite Technologies Ultra Durable Pro, TW200 | Premium Over-Ear Noise Reducing Headphones (3.5mm Jack)  ', '4.3 out of 5 stars', '(26)', 22.99, 'https://amazon.com/ThinkWrite-Technologies-Over-Ear-Reducing-Headphones/dp/B08WRPMYYW/ref=sr_1_83?keywords=over+ear+headphones&qid=1671729727&sr=8-83')
+
+
+('OneOdio Bluetooth Over Ear Headphones, 110 Hrs Wireless/Wired Stereo Sound Foldable Headsets with Deep Bass 50mm Neodymium Drivers for PC/Phone/Tablet - Studio Wireless Pro C, Black  ', '4.3 out of 5 stars', '(3,466)', 44.99, 'https://amazon.com/OneOdio-Bluetooth-Over-Ear-Headphones/dp/B0828PYKZN/ref=sr_1_84?keywords=over+ear+headphones&qid=1671729727&sr=8-84')
+
+
+('AKZ On-Ear Headphones with Microphone, Foldable Headphones with Tangle-Free Cord, Headphone with HD Sound, 3.5MM Jack, Portable Wired Headphones for School/Kids/Smartphones/Tablet/Travel (Red/Black)  ', '3.8 out of 5 stars', '(7)', 10.99, 'https://amazon.com/AKZ-Headphones-Microphone-Tangle-Free-Smartphones/dp/B0BGLCLLZ8/ref=sr_1_85?keywords=over+ear+headphones&qid=1671729727&sr=8-85')
+
+
+('ZIHNIC Active Noise Cancelling Headphones, 40H Playtime Wireless Bluetooth Headset with Deep Bass Hi-Fi Stereo Sound,Comfortable Earpads for Travel/Home/Office (Rose Gold)  ', '4.4 out of 5 stars', '(2,898)', 59.99, 'https://amazon.com/ZIHNIC-Cancelling-Headphones-Bluetooth-Comfortable/dp/B09DYKXXNT/ref=sr_1_86?keywords=over+ear+headphones&qid=1671729727&sr=8-86')
+
+
+('esonstyle Bluetooth Headphones Over Ear Foldable Wireless and Wired Stereo Headset with Mic Soft Earmuffs Light Weight for Phone TV PC Online Class Home Office(Green)  ', '4.3 out of 5 stars', '(1,806)', 32.99, 'https://amazon.com/Bluetooth-Headphones-Comfortable-Rechargeable-Microphone/dp/B08NVLSZF6/ref=sr_1_87?keywords=over+ear+headphones&qid=1671729727&sr=8-87')
+
+
+('Over Ear Headphone, Wired Premium Stereo Sound Headsets with 50mm Driver, Foldable Comfortable Headphones with Protein Earmuffs and Shareport for Recording Monitoring Podcast PC TV- with Mic (Silver)  ', '4.4 out of 5 stars', '(9,032)', 39.99, 'https://amazon.com/Headphone-Comfortable-Headphones-Shareport-Monitoring/dp/B07G74V1YP/ref=sr_1_88?keywords=over+ear+headphones&qid=1671729727&sr=8-88')
+
+
+('Skullcandy Hesh Evo Wireless Over-Ear Headphones Transparency Edition - Clear Color  ', '4.6 out of 5 stars', '(3,460)', 79.99, 'https://amazon.com/Skullcandy-Wireless-Over-Ear-Headphones-Transparency/dp/B0B75RDG3R/ref=sr_1_90?keywords=over+ear+headphones&qid=1671729727&sr=8-90')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '(3,503)', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg6_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729727&id=8533301410899270&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_91_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729727%26sr%3D8-91-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', '(260)', 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg6_1?ie=UTF8&adId=A04916432R7Z8H85KMQRE&qualifier=1671729727&id=8533301410899270&widgetName=sp_mtf&url=%2FSTADOR-Bluetooth-Headphones-Sweatproof-Waterproof%2Fdp%2FB0BP184KQX%2Fref%3Dsr_1_92_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729727%26sr%3D8-92-spons%26psc%3D1')
+
+
+('RUNOLIM Over Ear Bluetooth Headphones, 60Hrs Headphones Wireless Bluetooth with Microphone, HiFi Stereo with Deep Bass, Foldable Lightweight Headset for PC Phone Laptop, Memorable Foam Cover, Black  ', '4.4 out of 5 stars', '(244)', 15.99, 'https://amazon.com/Bluetooth-Headphones-RUNOLIM-Microphone-Lightweight/dp/B09YXR1F4C/ref=sr_1_93?keywords=over+ear+headphones&qid=1671729727&sr=8-93')
+
+
+('Perytong Sleep Headphones Wireless, Bluetooth Sports Headband Headphones with Ultra-Thin HD Stereo Speakers Perfect for Sleeping,Workout,Jogging,Yoga,Insomnia, Air Travel, Meditation  ', '4.3 out of 5 stars', '(42,241)', 19.99, 'https://amazon.com/Sleep-Headphones-Perytong-Ultra-Thin-Meditation/dp/B07SHBQY7Z/ref=sr_1_94?keywords=over+ear+headphones&qid=1671729727&sr=8-94')
+
+
+('Sony Noise Cancelling Headphones - Wireless Bluetooth Over The Ear Headset with Mic for Phone-Call and Alexa Voice Control – Black + NeeGo 3.5mm Headphone Extension Cable, 10ft  ', '4.4 out of 5 stars', '(166)', 139.99, 'https://amazon.com/Sony-Noise-Cancelling-Headphones-WHCH700N/dp/B089WJN6C4/ref=sr_1_95?keywords=over+ear+headphones&qid=1671729727&sr=8-95')
+
+
+('Sony Wireless Headphones WH-CH510: Wireless Bluetooth On-Ear Headset with Mic for Phone-Call, Black  ', '4.5 out of 5 stars', '(32,642)', 38.0, 'https://amazon.com/Sony-WH-CH510-Wireless-Headphones-WHCH510/dp/B07WSKKYPR/ref=sr_1_96?keywords=over+ear+headphones&qid=1671729727&sr=8-96')
+
+
+('Jabra Elite 85h Wireless Noise-Canceling Headphones, Titanium Black – Over Ear Bluetooth Headphones Compatible with iPhone & Android - Built-in Microphone, Long Battery Life - Rain & Water Resistant  ', '4.2 out of 5 stars', '(1,585)', 220.14, 'https://amazon.com/Jabra-Wireless-Noise-Canceling-Headphones-Titanium/dp/B07RQ366VK/ref=sr_1_97?keywords=over+ear+headphones&qid=1671729727&sr=8-97')
+
+
+('JBL Tune 660NC: Wireless On-Ear Headphones with Active Noise Cancellation - Black  ', '4.5 out of 5 stars', '(1,505)', 49.95, 'https://amazon.com/JBL-Tune-660NC-Ear-Cancellation/dp/B08WNBYQC9/ref=sr_1_98?keywords=over+ear+headphones&qid=1671729727&sr=8-98')
+
+
+('JLab Studio Pro Over-Ear Headphones | Wired Headphones | Tangle Free Cord | Ultra-Plush Faux Leather with Cloud Foam Cushions | 40mm Neodymium Drivers with C3 Sound | Black  ', '4.3 out of 5 stars', '(1,166)', 29.88, 'https://amazon.com/Over-Ear-Headphones-Ultra-Plush-Cushions-Neodymium/dp/B08LML5BVW/ref=sr_1_99?keywords=over+ear+headphones&qid=1671729727&sr=8-99')
+
+
+('UlLife Me-300S: Lightest Foldable Bone Conduction Headphones, Waterproof Open-Ear Bluetooth Sport Headphones, Wireless Earphones for Workouts and Running, Built-in Mic, with Ear Hooks (Black)  ', '3.5 out of 5 stars', '(2)', 69.99, 'https://amazon.com/UlLife-Me-300S-Conduction-Headphones-Built/dp/B0BK3TZSF4/ref=sr_1_100?keywords=over+ear+headphones&qid=1671729727&sr=8-100')
+
+
+('Bose Noise Cancelling Headphones 700,Bluetooth, Over-Ear Wireless with Built-In Microphone for Clear Calls & Alexa Voice Control,Black  ', '4.5 out of 5 stars', '(30,105)', 379.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg6_1?ie=UTF8&adId=A09192921JQ917QHMYXIU&qualifier=1671729727&id=8533301410899270&widgetName=sp_btf&url=%2FBose-Cancelling-Wireless-Bluetooth-Headphones%2Fdp%2FB07Q9MJKBV%2Fref%3Dsr_1_101_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729727%26sr%3D8-101-spons%26psc%3D1')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg6_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729727&id=8533301410899270&widgetName=sp_btf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_102_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729727%26sr%3D8-102-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '9,955', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg7_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729729&id=4865864333347851&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_97_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729729%26sr%3D8-97-spons%26psc%3D1')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '61,953', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg7_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729729&id=4865864333347851&widgetName=sp_atf_next&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_98_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729729%26sr%3D8-98-spons%26psc%3D1')
+
+
+('TREBLAB Z2 | Over Ear Workout Headphones with Microphone | Bluetooth 5.0, Active Noise Cancelling (ANC) | Up to 35H Battery Life | Wireless Headphones for Sport, Workout, Running, Gym  ', '4.3 out of 5 stars', '5,941', 89.97, 'https://amazon.com/TREBLAB-Headphones-Cancelling-Microphone-Auriculare/dp/B0778V7RVR/ref=sr_1_99?keywords=over+ear+headphones&qid=1671729729&sr=8-99')
+
+
+("gorsun Bluetooth Kids Headphones with Microphone,Children's Wireless Headsets with 85dB Volume Limited Hearing Protection,Stereo Over-Ear Headphones for Boys and Girls (Purple)  ", '4.5 out of 5 stars', '3,788', 25.99, 'https://amazon.com/gorsun-Bluetooth-Headphones-Microphone-Protection/dp/B08BY94T4X/ref=sr_1_101?keywords=over+ear+headphones&qid=1671729729&sr=8-101')
+
+
+('Waterproof Over-Ear Headphones, V5.0 HD Stereo Sound Sports Wireless Over-Ear Headphones with Mic, Passive Noise Cancelling Headsets, 9 Hours Battery for Gym Running Workout Men, Women  ', '4.2 out of 5 stars', '1,685', 17.99, 'https://amazon.com/Waterproof-Over-Ear-Headphones-Wireless-Cancelling/dp/B07V225763/ref=sr_1_102?keywords=over+ear+headphones&qid=1671729729&sr=8-102')
+
+
+('Ankbit E500Pro Hybrid Active Noise Cancelling Headphones, 90H Playtime Wireless Over-Ear Bluetooth Headphones with Mic, Hi-Fi Sound, Deep Bass, Multi-Connection, Comfort Earpad for Travel/Work(Black)  ', '4.4 out of 5 stars', 194, 69.99, 'https://amazon.com/Ankbit-E500Pro-Cancelling-Headphones-Multi-Connection/dp/B0B1WYQHLZ/ref=sr_1_103?keywords=over+ear+headphones&qid=1671729729&sr=8-103')
+
+
+('Bluetooth Headphones Wireless, pollini 40H Playtime Foldable Over Ear Headphones with Microphone, Deep Bass Stereo Headset with Soft Memory-Protein Earmuffs for iPhone/Android Cell Phone/PC(Rose Gold)  ', '4.4 out of 5 stars', '9,805', 31.89, 'https://amazon.com/Bluetooth-Headphones-Wireless-Memory-Protein-Earmuffs/dp/B0823XS234/ref=sr_1_104?keywords=over+ear+headphones&qid=1671729729&sr=8-104')
+
+
+('SENNHEISER HD 569 Closed Back Headphone  ', '4.5 out of 5 stars', '1,642', 93.43, 'https://amazon.com/Sennheiser-HD-569-Closed-Headphone/dp/B01L1IIF1A/ref=sr_1_105?keywords=over+ear+headphones&qid=1671729729&sr=8-105')
+
+
+('Philips PH802 Wireless Bluetooth Over-Ear Headphones Noise Isolation Stereo with Hi-Res Audio, up to 30 Hours Playtime with Rapid Charge (TAPH802BK)  ', '4.1 out of 5 stars', 737, 49.99, 'https://amazon.com/Philips-Audio-Performance-PH802BK-Headphones/dp/B07ZDM5H9T/ref=sr_1_106?keywords=over+ear+headphones&qid=1671729729&sr=8-106')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '16,035', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg7_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729729&id=4865864333347851&widgetName=sp_mtf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_107_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729729%26sr%3D8-107-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg7_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729729&id=4865864333347851&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_108_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729729%26sr%3D8-108-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('Over Ear Headphone, Wired Premium Stereo Sound Headsets with 50mm Driver, Foldable Comfortable Headphones with Protein Earmuffs and Shareport for Recording Monitoring Podcast PC TV- with Mic (Silver)  ', '4.4 out of 5 stars', '9,032', 39.99, 'https://amazon.com/Headphone-Comfortable-Headphones-Shareport-Monitoring/dp/B07G74V1YP/ref=sr_1_109?keywords=over+ear+headphones&qid=1671729729&sr=8-109')
+
+
+('Beats Studio3 Wireless Over-Ear Noise Cancelling Bluetooth Headphones (Shadow Gray) with Extra USB Charging Adapters and 6Ave Cleaning Cloth  ', '4.6 out of 5 stars', 25, 271.49, 'https://amazon.com/Beats-Wireless-Cancelling-Bluetooth-Headphones/dp/B0B4TB1T6L/ref=sr_1_110?keywords=over+ear+headphones&qid=1671729729&sr=8-110')
+
+
+('JLab Studio Pro Over-Ear Headphones | Wired Headphones | Tangle Free Cord | Ultra-Plush Faux Leather with Cloud Foam Cushions | 40mm Neodymium Drivers with C3 Sound | Black  ', '4.3 out of 5 stars', '1,166', 29.88, 'https://amazon.com/Over-Ear-Headphones-Ultra-Plush-Cushions-Neodymium/dp/B08LML5BVW/ref=sr_1_111?keywords=over+ear+headphones&qid=1671729729&sr=8-111')
+
+
+('Sony Noise Cancelling Headphones - Wireless Bluetooth Over The Ear Headset with Mic for Phone-Call and Alexa Voice Control – Black + NeeGo 3.5mm Headphone Extension Cable, 10ft  ', '4.4 out of 5 stars', 166, 139.99, 'https://amazon.com/Sony-Noise-Cancelling-Headphones-WHCH700N/dp/B089WJN6C4/ref=sr_1_112?keywords=over+ear+headphones&qid=1671729729&sr=8-112')
+
+
+('NEEGO Sony Wireless Noise Cancelling Headphones WH-XB910N Over Ear Bluetooth Headset 3.5mm Headphone Extension  ', '4.6 out of 5 stars', 87, 160.0, 'https://amazon.com/Cancelling-Headphones-Bluetooth-Headphone-Extension/dp/B09F4ZB8R9/ref=sr_1_113?keywords=over+ear+headphones&qid=1671729729&sr=8-113')
+
+
+('PurelySound E7 Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, 20H Playtime, Rich Deep Bass, Comfortable Memory Foam Ear Cups for Travel, Home Office -Sky Blue  ', '4.3 out of 5 stars', '1,346', 49.98, 'https://amazon.com/PurelySound-E7-Cancelling-Headphones-Comfortable/dp/B0B3DK3PPK/ref=sr_1_114?keywords=over+ear+headphones&qid=1671729729&sr=8-114')
+
+
+('Philips SHP6000/10 Hi-Fi Stereo Over Ear Headphones Black  ', '4.2 out of 5 stars', '1,431', 39.99, 'https://amazon.com/Philips-Headphones-Headsets-Isolation-Resolution/dp/B07ZWNZKZD/ref=sr_1_115?keywords=over+ear+headphones&qid=1671729729&sr=8-115')
+
+
+('BUGANI Bluetooth Headphones Wireless Over-Ear, with Built-in Microphone, 20H Playtime, Deep Bass Hi-Fi Stereo Sound, Memory Foam Ear Cups for Travel Home Office  ', '4.3 out of 5 stars', 257, 39.99, 'https://amazon.com/BUGANI-Headphones-Cancelling-Lightweight-Comfortable/dp/B09H5C723W/ref=sr_1_116?keywords=over+ear+headphones&qid=1671729729&sr=8-116')
+
+
+('Soundcore by Anker Space Q45 Adaptive Active Noise Cancelling Headphones, Reduce Noise by Up to 98%, 50H Playtime, App Control, LDAC Hi-Res Wireless Audio, Comfortable Fit, Clear Calls, Bluetooth 5.3  ', '4.3 out of 5 stars', 960, 149.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg7_1?ie=UTF8&adId=A0917425JONLJC9Q263E&qualifier=1671729729&id=4865864333347851&widgetName=sp_btf&url=%2FSoundcore-Cancelling-Headphones-Comfortable-Bluetooth%2Fdp%2FB0B5VHRX7F%2Fref%3Dsr_1_117_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729729%26sr%3D8-117-spons%26psc%3D1%26smid%3DA294P4X9EWVXLJ')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', 260, 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg7_1?ie=UTF8&adId=A04916432R7Z8H85KMQRE&qualifier=1671729729&id=4865864333347851&widgetName=sp_btf&url=%2FSTADOR-Bluetooth-Headphones-Sweatproof-Waterproof%2Fdp%2FB0BP184KQX%2Fref%3Dsr_1_118_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729729%26sr%3D8-118-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg8_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729731&id=5379376800411126&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_113_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729731%26sr%3D8-113-spons%26psc%3D1')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', '(260)', 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg8_1?ie=UTF8&adId=A04916432R7Z8H85KMQRE&qualifier=1671729731&id=5379376800411126&widgetName=sp_atf_next&url=%2FSTADOR-Bluetooth-Headphones-Sweatproof-Waterproof%2Fdp%2FB0BP184KQX%2Fref%3Dsr_1_114_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729731%26sr%3D8-114-spons%26psc%3D1')
+
+
+('BUGANI Bluetooth Headphones Wireless Over-Ear, with Built-in Microphone, 20H Playtime, Deep Bass Hi-Fi Stereo Sound, Memory Foam Ear Cups for Travel Home Office  ', '4.3 out of 5 stars', '(257)', 39.99, 'https://amazon.com/BUGANI-Headphones-Cancelling-Lightweight-Comfortable/dp/B09H5C723W/ref=sr_1_115?keywords=over+ear+headphones&qid=1671729731&sr=8-115')
+
+
+('bmanl Wireless Earbuds Bluetooth Headphones 48hrs Play Back Sport Earphones with LED Display Over-Ear Buds with Earhooks Built-in Mic Headset for Workout Black BMANI-VEAT00L  ', '4.5 out of 5 stars', '(15,648)', 27.99, 'https://amazon.com/Wireless-Bluetooth-Headphones-Earphones-BMANI-VEAT00L/dp/B09CPDSNQM/ref=sr_1_116?keywords=over+ear+headphones&qid=1671729731&sr=8-116')
+
+
+('iClever Cat Ear Kids Bluetooth Headphones RGB LED Light Up,45H Playtime, 74/85/94dB Volume Limited, Over Ear Foldable Wireless Kids Headphones with Microphone for iPad/Tablet/PC/TV Kids Teens, BTH13  ', '4.7 out of 5 stars', '(4,579)', 39.99, 'https://amazon.com/iClever-Bluetooth-Headphones-Microphone-BTH13/dp/B0B41S8P5Q/ref=sr_1_117?keywords=over+ear+headphones&qid=1671729731&sr=8-117')
+
+
+('M-Audio HDH40 – Over Ear Studio Headphones with Closed Back Design, Flexible Headband and 2.7m Cable for Studio Monitoring, Podcasting and Recording  ', '4.7 out of 5 stars', '(23,022)', 34.96, 'https://amazon.com/M-Audio-HDH40-Headphones-Monitoring-Podcasting/dp/B09S3VWMX6/ref=sr_1_118?keywords=over+ear+headphones&qid=1671729731&sr=8-118')
+
+
+('Ankbit E600Pro Hybrid Active Noise Cancelling Headphones with aptX HD & Low Latency, Over Ear Bluetooth Headphones Wireless Headphones with Build-in Microphone Hi-Fi Deep Bass, 80H Playtime  ', '4.3 out of 5 stars', '(796)', 89.99, 'https://amazon.com/Ankbit-E600Pro-Cancelling-Headphones-Microphone/dp/B09M6SGF1F/ref=sr_1_119?keywords=over+ear+headphones&qid=1671729731&sr=8-119')
+
+
+('I LOVE EF IFECCO Wireless Bluetooth Headphones Over Ear with Build-in Microphone and 3.5mm Cable for Wired Headset Mode with HD Stereo Sound Soft Earpads Long Battery Life  ', '4.3 out of 5 stars', '(2,134)', 38.79, 'https://amazon.com/Headphones-IFECCO-Cancelling-QuietComfort-Microphone/dp/B08MBRDH6S/ref=sr_1_120?keywords=over+ear+headphones&qid=1671729731&sr=8-120')
+
+
+('Bluetooth Headphones Wireless Earbuds Sports Over-Ear Bluetooth 5.3 Ear Buds with Earhooks 120H Playtime Wireless Headphones for Workout Waterproof Audifonos Bluetooth inalambricos LED Power Display  ', '4.6 out of 5 stars', '(385)', 35.99, 'https://amazon.com/Bluetooth-Headphones-Waterproof-Audifonos-inalambricos/dp/B0BJ38LMZW/ref=sr_1_121?keywords=over+ear+headphones&qid=1671729731&sr=8-121')
+
+
+('OKEEFE Bluetooth Headphones 48Hrs Playback Wireless Earbuds with Wireless Charging Case and Earhooks Over Ear Waterproof Earphones with Mic for Sports Running Workout iOS Android TV Phone Laptop Black  ', '4.5 out of 5 stars', '(8,929)', 34.99, 'https://amazon.com/OKEEFE-Bluetooth-Headphones-Waterproof-Earphones/dp/B09JGF23V3/ref=sr_1_122?keywords=over+ear+headphones&qid=1671729731&sr=8-122')
+
+
+('Shokz OpenMove - Open-Ear Bluetooth Sport Headphones - Bone Conduction Wireless Earphones - Sweatproof for Running and Workouts, with Sticker Pack (Grey)  ', '4.5 out of 5 stars', '(4,856)', 59.95, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg8_1?ie=UTF8&adId=A0682341G0UJAY4EZ7ZO&qualifier=1671729731&id=5379376800411126&widgetName=sp_mtf&url=%2FShokz-OpenMove-Headphones-Conduction-Sweatproof%2Fdp%2FB09BW29FJS%2Fref%3Dsr_1_123_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729731%26sr%3D8-123-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '(3,503)', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg8_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729731&id=5379376800411126&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_124_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729731%26sr%3D8-124-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('Oladance Open Ear Headphones Bluetooth 5.2 Wireless Earbuds for Android & iPhone, Open Ear Earbuds with Dual 16.5mm Dynamic Drivers, Up To 16 Hours Playtime Waterproof Sport Earbuds -Interstellar Blue  ', '4.4 out of 5 stars', '(1,847)', 119.99, 'https://amazon.com/Oladance-Headphones-Bluetooth-Waterproof-Interstellar/dp/B09TXBWYRF/ref=sr_1_125?keywords=over+ear+headphones&qid=1671729731&sr=8-125')
+
+
+('Riwbox Bluetooth Headphones, XBT-80 Folding Stereo Wireless Bluetooth Headphones Over Ear with Microphone and Volume Control, Wireless and Wired Headset for PC/Cell Phones/TV/iPad (Black Gold)  ', '4.3 out of 5 stars', '(8,719)', 30.85, 'https://amazon.com/Bluetooth-Headphones-Riwbox-Wireless-Microphone/dp/B0798NR83K/ref=sr_1_127?keywords=over+ear+headphones&qid=1671729731&sr=8-127')
+
+
+('Plantronics 87300-41-RB Voyager Legend Wireless Bluetooth Headset - Black (Renewed)  ', '4.1 out of 5 stars', '(1,520)', 59.99, 'https://amazon.com/Plantronics-87300-41-RB-Voyager-Wireless-Bluetooth/dp/B00TJ0PGDS/ref=sr_1_128?keywords=over+ear+headphones&qid=1671729731&sr=8-128')
+
+
+('SE7 MAX Active Noise Cancelling Headphones Bluetooth Headphones Over Ear Wireless Headphones with Microphone Deep Bass, Comfortable Protein Earpads, 30HPlaytime for Travel/Work, Cool Black  ', '4.7 out of 5 stars', '(138)', 129.99, 'https://amazon.com/SE7-Cancelling-Headphones-Comfortable-30HPlaytime/dp/B0BLH5WQJJ/ref=sr_1_129?keywords=over+ear+headphones&qid=1671729731&sr=8-129')
+
+
+('Philips Over The Ear Earbuds, Flexible Wrap Around Earbuds, Around Ear Headphones with Mic Behind The Ear Headphones, Perfect for Sports, Running, Exercise, Gym, Lightweight Earhook Sports Headphones  ', '5.0 out of 5 stars', '(1)', 19.99, 'https://amazon.com/Philips-Flexible-Headphones-Exercise-Lightweight/dp/B0BJSFSNKT/ref=sr_1_130?keywords=over+ear+headphones&qid=1671729731&sr=8-130')
+
+
+('Bone Conduction Headphones, Open-Ear Bluetooth Headphones, Wireless Headphones Earphones for Sport, Built-in Mic  ', '4.2 out of 5 stars', '(160)', 47.99, 'https://amazon.com/Conduction-Headphones-Open-Ear-Bluetooth-Earphones/dp/B0BB6NGNM1/ref=sr_1_131?keywords=over+ear+headphones&qid=1671729731&sr=8-131')
+
+
+('Wireless Earbuds Bluetooth Headphones 100Hrs Playback with 2500mAh Wireless Charging Case Over-Ear Stereo Bass Headset LED Power Display Wireless & Type-C Charging TWS Earphone for Sports/Workout/Work  ', '4.7 out of 5 stars', '(170)', 28.99, 'https://amazon.com/Wireless-Bluetooth-Headphones-Playback-Charging/dp/B0BL3YGC62/ref=sr_1_132?keywords=over+ear+headphones&qid=1671729731&sr=8-132')
+
+
+('Bose Noise Cancelling Headphones 700,Bluetooth, Over-Ear Wireless with Built-In Microphone for Clear Calls & Alexa Voice Control,Black  ', '4.5 out of 5 stars', '(30,105)', 379.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg8_1?ie=UTF8&adId=A09192921JQ917QHMYXIU&qualifier=1671729731&id=5379376800411126&widgetName=sp_btf&url=%2FBose-Cancelling-Wireless-Bluetooth-Headphones%2Fdp%2FB07Q9MJKBV%2Fref%3Dsr_1_133_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729731%26sr%3D8-133-spons%26psc%3D1')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg8_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729731&id=5379376800411126&widgetName=sp_btf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_134_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729731%26sr%3D8-134-spons%26psc%3D1')
+
+
+('Wireless Bluetooth Headphones Over-Ear, 60H Playtime Foldable Lightweight and Wired Stereo Deep Bass Headset HiFi Stereo Sound with 6 EQ Modes, Micro SD/TF, FM, for Travel Work Laptop PC Cellphone  ', '2.6 out of 5 stars', '(3)', 32.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg9_1?ie=UTF8&adId=A02040881BZDWBIYFR9Q1&qualifier=1671729732&id=4746842739439998&widgetName=sp_atf_next&url=%2FWireless-Bluetooth-Headphones-Lightweight-Cellphone%2Fdp%2FB0BDRR5LWF%2Fref%3Dsr_1_129_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729732%26sr%3D8-129-spons%26psc%3D1')
+
+
+('Status Core ANC Active Noise Cancelling Headphones - Cave - Over Ear Head Phones w/Built-in Microphones - Wireless & Bluetooth + Detachable 3.5mm Wired - USB-C Charging Cable - 30 Hour Battery  ', '4.2 out of 5 stars', '(584)', 69.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg9_1?ie=UTF8&adId=A02536713QXXXEE6T2ATP&qualifier=1671729732&id=4746842739439998&widgetName=sp_atf_next&url=%2FStatus-Headphones-Cancelling-Wireless-Bluetooth%2Fdp%2FB09CD13FJS%2Fref%3Dsr_1_130_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729732%26sr%3D8-130-spons%26psc%3D1')
+
+
+('Wireless Earbuds Bluetooth Headphones 100Hrs Playback with 2500mAh Wireless Charging Case Over-Ear Stereo Bass Headset LED Power Display Wireless & Type-C Charging TWS Earphone for Sports/Workout/Work  ', '4.7 out of 5 stars', '(170)', 28.99, 'https://amazon.com/Wireless-Bluetooth-Headphones-Playback-Charging/dp/B0BL3YGC62/ref=sr_1_131?keywords=over+ear+headphones&qid=1671729732&sr=8-131')
+
+
+('COOSII H300 Wireless Headphones Bluetooth with Microphone, Over Ear Headsets with Environmental Noise Cancelling Retractable Mic, USB Dongle & Mute for Office Laptop Computer Chromebook Smartphone  ', '4.1 out of 5 stars', '(183)', 59.99, 'https://amazon.com/COOSII-Headphones-Microphone-Environmental-Retractable/dp/B09WQYXHJW/ref=sr_1_132?keywords=over+ear+headphones&qid=1671729732&sr=8-132')
+
+
+('Anker Soundcore Life Q10 Wireless Bluetooth Headphones, Over Ear and Foldable, Hi-Res Certified Sound, 60-Hour Playtime and Fast USB-C Charging, Deep Bass, Aux Input (Blue) (A3032032)  ', '4.6 out of 5 stars', '(1,240)', 49.99, 'https://amazon.com/Anker-Soundcore-Bluetooth-Headphones-A3032032/dp/B083SHD7R8/ref=sr_1_133?keywords=over+ear+headphones&qid=1671729732&sr=8-133')
+
+
+('JVC Black Flat and Foldable Colorful Flats On Ear Headphone with 3.94 foot Gold Plated Phone Slim Plug HAS160B  ', '4.4 out of 5 stars', '(8,327)', 12.95, 'https://amazon.com/JVC-HAS160B-Lightweight-Headband-Headphones/dp/B004JRYLG4/ref=sr_1_134?keywords=over+ear+headphones&qid=1671729732&sr=8-134')
+
+
+('beyerdynamic DT 990 Premium Open-Back Over-Ear Hi-Fi Stereo Headphones  ', '4.5 out of 5 stars', '(1,808)', 199.99, 'https://amazon.com/beyerdynamic-Premium-Open-Back-Over-Ear-Headphones/dp/B07DHXBMJD/ref=sr_1_135?keywords=over+ear+headphones&qid=1671729732&sr=8-135')
+
+
+('BackBeat FIT 6100 Wireless Bluetooth Headphones, Sport, Sweatproof and Water-Resistant, Camo  ', '4.2 out of 5 stars', '(1,469)', 59.9, 'https://amazon.com/BackBeat-FIT-6100-Headphones-Water-Resistant/dp/B07WJJHX2B/ref=sr_1_136?keywords=over+ear+headphones&qid=1671729732&sr=8-136')
+
+
+('SHOKZ OpenRun Pro - Premium Bone Conduction Open-Ear Bluetooth Sport Headphones - Sweat Resistant Wireless Earphones for Workouts and Running with Deep Base - Built-in Mic, with Headband (Black)  ', '4.6 out of 5 stars', '(6,142)', 143.95, 'https://amazon.com/Shokz-OpenRun-Pro-Conduction-Built/dp/B09BVXT8TJ/ref=sr_1_137?keywords=over+ear+headphones&qid=1671729732&sr=8-137')
+
+
+('JBL Tune 660NC: Wireless On-Ear Headphones with Active Noise Cancellation - Black  ', '4.5 out of 5 stars', '(1,505)', 49.95, 'https://amazon.com/JBL-Tune-660NC-Ear-Cancellation/dp/B08WNBYQC9/ref=sr_1_138?keywords=over+ear+headphones&qid=1671729732&sr=8-138')
+
+
+('Wireless Bluetooth Headphones Over-Ear, 60H Playtime Foldable Lightweight and Wired Stereo Deep Bass Headset HiFi Stereo Sound with 6 EQ Modes, Micro SD/TF, FM, for Travel Work Laptop PC Cellphone  ', '5.0 out of 5 stars', '(3)', 32.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg9_1?ie=UTF8&adId=A02383233E3I0M52DH84W&qualifier=1671729732&id=4746842739439998&widgetName=sp_mtf&url=%2FWireless-Bluetooth-Headphones-Lightweight-Cellphone%2Fdp%2FB0BDRM1T5P%2Fref%3Dsr_1_139_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729732%26sr%3D8-139-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - White Smoke  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg9_1?ie=UTF8&adId=A03144821BIVM8SYHWN53&qualifier=1671729732&id=4746842739439998&widgetName=sp_mtf&url=%2FBose-QuietComfort-Bluetooth-Cancelling-Headphones%2Fdp%2FB098FH5P3C%2Fref%3Dsr_1_140_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729732%26sr%3D8-140-spons%26psc%3D1')
+
+
+('CASCHO Wireless Earbuds, Bluetooth 5.3 Headphones, 60Hrs Playback HD Stereo Audio LED Display, Over-Ear IPX7 Waterproof Earphones with Earhooks, Built-in Mic, Type-C, for Sports (Rose Gold)  ', '4.6 out of 5 stars', '(5,333)', 35.99, 'https://amazon.com/Wireless-Bluetooth-Headphones-Waterproof-Earphones/dp/B09YC24Q43/ref=sr_1_141?keywords=over+ear+headphones&qid=1671729732&sr=8-141')
+
+
+('OneOdio Wired Headphones - Over Ear Headphones with Noise Isolation Dual Jack Professional Studio Monitor & Mixing Recording Headphones for Guitar Amp Drum Keyboard Podcast PC Computer  ', '4.3 out of 5 stars', '(3,163)', 28.79, 'https://amazon.com/OneOdio-Headphones-Noise-Isolation-Professional-Headphones/dp/B08738D39L/ref=sr_1_142?keywords=over+ear+headphones&qid=1671729732&sr=8-142')
+
+
+('Biensound Wired Headphones with Microphone, HW50C Folding Adjustable Stereo Over Ear Headphones Tangle-Free 3.5MM Jack Headphones for Cellphones/Tablet/Computer/Girls/Boys/Teens/School (Red/Black)  ', '4.0 out of 5 stars', '(28)', 24.98, 'https://amazon.com/Biensound-Headphones-Microphone-HW50C-Tangle-Free/dp/B0BBVSHDLD/ref=sr_1_143?keywords=over+ear+headphones&qid=1671729732&sr=8-143')
+
+
+('PowerLocus Wireless Bluetooth Over-Ear Stereo Foldable Headphones, Wired Headsets with Built-in Microphone for iPhone, Samsung, LG, iPad (Rose Gold)  ', '4.5 out of 5 stars', '(22,767)', 22.99, 'https://amazon.com/PowerLocus-Wireless-Bluetooth-Headphones-Microphone/dp/B06XT8L1YF/ref=sr_1_145?keywords=over+ear+headphones&qid=1671729732&sr=8-145')
+
+
+('Skullcandy Venue Wireless ANC Over-Ear Headphone - White/Crimson  ', '4.4 out of 5 stars', '(2,913)', 124.66, 'https://amazon.com/Skullcandy-Venue-Wireless-Over-Ear-Headphone/dp/B07H4XGX16/ref=sr_1_146?keywords=over+ear+headphones&qid=1671729732&sr=8-146')
+
+
+('OneOdio A71 Wired Over Ear Headphones, Studio Headphones with SharePort, Professional Adapter-Free Monitor Recording & Mixing Headphones with Stereo Sound for Electric Drum Piano Guitar Amp (Silver)  ', '4.5 out of 5 stars', '(10,073)', 31.99, 'https://amazon.com/OneOdio-Headphones-SharePort-Professional-Adapter-Free/dp/B081JL3L6L/ref=sr_1_147?keywords=over+ear+headphones&qid=1671729732&sr=8-147')
+
+
+("gorsun Kids Headphones with Limited Volume, Children's Headphone Over Ear, Toddler Headphones for Boys and Girls, Wired Headset Earphones for Children  ", '4.6 out of 5 stars', '(4,398)', 15.99, 'https://amazon.com/gorsun-Headphones-Children-Headphone-Children-Pink/dp/B083J1KY19/ref=sr_1_148?keywords=over+ear+headphones&qid=1671729732&sr=8-148')
+
+
+('OneOdio Wired Over Ear Headphones Studio Monitor & Mixing DJ Stereo Headsets with 50mm Neodymium Drivers and 1/4 to 3.5mm Audio Jack for AMP Computer Recording Phone Piano Guitar Laptop - Black  ', '4.5 out of 5 stars', '(38,794)', 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg9_1?ie=UTF8&adId=A000122470YHGHZHZ6KJ&qualifier=1671729732&id=4746842739439998&widgetName=sp_btf&url=%2FOneOdio-Adapter-Free-Headphones-Professional-Telescopic%2Fdp%2FB01N6ZJH96%2Fref%3Dsr_1_149_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729732%26sr%3D8-149-spons%26psc%3D1')
+
+
+('OneOdio A70 Bluetooth Over Ear Headphones, Wireless Headphones w/ 72H Playtime, Hi-Res, 3.5mm/6.35mm Wired Audio Jack for Studio Monitor & Mixing DJ Guitar AMP, Computer Laptop PC Tablet - Black  ', '4.4 out of 5 stars', '(10,443)', 42.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg9_1?ie=UTF8&adId=A04878833KW5HDACT5TEY&qualifier=1671729732&id=4746842739439998&widgetName=sp_btf&url=%2FOneOdio-Bluetooth-Headphones-Share-Port-Professional%2Fdp%2FB07MQQS88Q%2Fref%3Dsr_1_150_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729732%26sr%3D8-150-spons%26psc%3D1')
+
+
+('OneOdio Wired Over Ear Headphones Studio Monitor & Mixing DJ Stereo Headsets with 50mm Neodymium Drivers and 1/4 to 3.5mm Audio Jack for AMP Computer Recording Phone Piano Guitar Laptop - Black  ', '4.5 out of 5 stars', '(38,794)', 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg10_1?ie=UTF8&adId=A03955491JLBFV04L0ZS6&qualifier=1671729734&id=3658859540208725&widgetName=sp_atf_next&url=%2FOneOdio-Adapter-Free-Headphones-Professional-Telescopic%2Fdp%2FB01N6ZJH96%2Fref%3Dsr_1_145_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729734%26sr%3D8-145-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '(3,503)', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg10_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729734&id=3658859540208725&widgetName=sp_atf_next&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_146_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729734%26sr%3D8-146-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('SENNHEISER HD 206 Closed-Back Over Ear Headphones  ', '4.3 out of 5 stars', '(5,133)', 29.76, 'https://amazon.com/Sennheiser-HD-206-Closed-Back-Headphones/dp/B06X92G8HG/ref=sr_1_147?keywords=over+ear+headphones&qid=1671729734&sr=8-147')
+
+
+('Skullcandy Hesh 3 Wireless Over-Ear Headphone - White/Crimson  ', '4.4 out of 5 stars', '(679)', 69.99, 'https://amazon.com/Skullcandy-Hesh-Wireless-Over-Ear-Headphone/dp/B07CVGVK4S/ref=sr_1_148?keywords=over+ear+headphones&qid=1671729734&sr=8-148')
+
+
+('Disney Mickey Mouse Bluetooth Headphones Over Ear, Wireless and Wired Foldable Headset Built-in Microphone - Holiday Christmas Xmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.6 out of 5 stars', '(176)', 29.95, 'https://amazon.com/iJoy-Rechargeable-Wireless-Headphones-Bluetooth/dp/B09NTZ3W25/ref=sr_1_149?keywords=over+ear+headphones&qid=1671729734&sr=8-149')
+
+
+('Gumdrop DropTech B1 Headset Over-Ear Headphones for Kids w/Boom Mic, 3.5 mm Chew Proof Cord for K-12, Students & Classroom (Drop Tested, Comfortable, Lightweight, Rugged, Easy Cleaning) - Bright Red  ', '4.1 out of 5 stars', '(342)', 15.95, 'https://amazon.com/Gumdrop-Headphones-Classroom-Comfortable-Lightweight/dp/B09GTHRH5S/ref=sr_1_150?keywords=over+ear+headphones&qid=1671729734&sr=8-150')
+
+
+('TECKNET Wireless Bluetooth Headphones Over Ear 65H Playtime Foldable Lightweight Headphones with Mic for PC, Deep Bass Hi-Fi Stereo Sound with 3 EQ Modes for Travel/Office/Cellphone/TV/PC (Black)  ', '4.4 out of 5 stars', '(31)', 19.99, 'https://amazon.com/TECKNET-Bluetooth-Headphones-Lightweight-Cellphone/dp/B0BG89W1HN/ref=sr_1_151?keywords=over+ear+headphones&qid=1671729734&sr=8-151')
+
+
+('Samson Semi Open-Back Studio Reference Headphones, Black, Over Ear (SR850)  ', '4.5 out of 5 stars', '(6,353)', 34.99, 'https://amazon.com/Samson-SR850-Semi-Open-Back-Reference-Headphones/dp/B002LBSEQS/ref=sr_1_152?keywords=over+ear+headphones&qid=1671729734&sr=8-152')
+
+
+('Philips H8506 Over-Ear Wireless Headphones with Noise Canceling Pro (ANC) and Multipoint Bluetooth Connection, Black (TAH8506BK/00)  ', '4.1 out of 5 stars', '(782)', 119.26, 'https://amazon.com/Philips-Headphones-Multipoint-Connection-TAH8506BK/dp/B09WCWQD4D/ref=sr_1_153?keywords=over+ear+headphones&qid=1671729734&sr=8-153')
+
+
+('Skullcandy Hesh 3 Wireless Over-Ear Headphone - Black  ', '4.5 out of 5 stars', '(3,197)', 74.99, 'https://amazon.com/Skullcandy-Hesh-Wireless-Over-Ear-Headphone/dp/B075749KHR/ref=sr_1_154?keywords=over+ear+headphones&qid=1671729734&sr=8-154')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '(9,955)', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg10_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729734&id=3658859540208725&widgetName=sp_mtf&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_155_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729734%26sr%3D8-155-spons%26psc%3D1')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '(16,035)', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg10_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729734&id=3658859540208725&widgetName=sp_mtf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_156_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729734%26sr%3D8-156-spons%26psc%3D1')
+
+
+('Audio-Technica ATH-M50xBT2 Wireless Over-Ear Headphones  ', '4.5 out of 5 stars', '(820)', 179.0, 'https://amazon.com/Audio-Technica-ATH-M50xBT2-Wireless-Over-Ear-Headphones/dp/B09BYFHL25/ref=sr_1_157?keywords=over+ear+headphones&qid=1671729734&sr=8-157')
+
+
+('Denon AH-D7200 Reference Over Ear Headphones  ', '4.3 out of 5 stars', '(237)', 999.0, 'https://amazon.com/Denon-AH-D7200-Reference-Over-Headphones/dp/B06XD8HMKK/ref=sr_1_158?keywords=over+ear+headphones&qid=1671729734&sr=8-158')
+
+
+('rockpapa Comfort Kids Headphones for School, Lightweight Childrens Boys Girls Teens Over-Ear Headphones Wired 3.5mm for CD DVD Player Tablet Phone Travel Black/Green  ', '4.5 out of 5 stars', '(12,515)', 13.99, 'https://amazon.com/Headphones-Earphones-Isolating-Adjustable-SmartPhones/dp/B018ZICAJ2/ref=sr_1_159?keywords=over+ear+headphones&qid=1671729734&sr=8-159')
+
+
+('OneOdio Hi-Res Over Ear Headphones for Studio Monitoring and Mixing, Sound Isolation, Protein Leather Earcups, 50mm Driver Unit, Wired Headphones for AMP Guitar Keyboard (Pro-50)  ', '4.5 out of 5 stars', '(4,674)', 49.99, 'https://amazon.com/OneOdio-Adapter-Free-Headphones-Monitoring-Isolation/dp/B01F59T4HU/ref=sr_1_160?keywords=over+ear+headphones&qid=1671729734&sr=8-160')
+
+
+('OneOdio A11 Wireless Headphones Over Ear, Bluetooth 5.2 Headset w/ CVC8.0 Mic, Hi-Fi Audio & Deep Bass, Comfortable Memory Foam Ear Cups, Wired & Wireless 2-in-1 for Travel Home Office  ', '4.2 out of 5 stars', '(1,218)', 19.99, 'https://amazon.com/Bluetooth-Headphones-Microphone-Compatible-Comfortable/dp/B085M31H37/ref=sr_1_161?keywords=over+ear+headphones&qid=1671729734&sr=8-161')
+
+
+('Avantree Aria Line - Wired Over Ear Headphones with Extra-Long Cord for PC & TV Watching with Individual Volume Control & Stereo/Dual Mono Mode  ', '4.1 out of 5 stars', '(15)', 49.99, 'https://amazon.com/Avantree-Aria-Line-Headphones-Extra-Long/dp/B09WR3KWJM/ref=sr_1_162?keywords=over+ear+headphones&qid=1671729734&sr=8-162')
+
+
+('Skullcandy Hesh 3 Wireless Over-Ear Headphone - Deep Red  ', '4.6 out of 5 stars', '(504)', 99.99, 'https://amazon.com/Skullcandy-Hesh-Wireless-Over-Ear-Headphone/dp/B07SH5WLBS/ref=sr_1_163?keywords=over+ear+headphones&qid=1671729734&sr=8-163')
+
+
+('MIDOLA Headphones Bluetooth Wireless Kids Volume Limit 85dB /110dB Over Ear Foldable Noise Protection Headset AUX 3.5mm Cord Mic for Children Boy Girl Travel School Phone Pad Tablet PC Blue  ', '4.5 out of 5 stars', '(9,796)', 21.99, 'https://amazon.com/MIDOLA-Bluetooth-Wireless-Headphones-Cellphone/dp/B07DXP45Q7/ref=sr_1_164?keywords=over+ear+headphones&qid=1671729734&sr=8-164')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '(61,953)', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg10_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729734&id=3658859540208725&widgetName=sp_btf&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_165_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729734%26sr%3D8-165-spons%26psc%3D1')
+
+
+('Soundcore by Anker Space Q45 Adaptive Active Noise Cancelling Headphones, Reduce Noise by Up to 98%, 50H Playtime, App Control, LDAC Hi-Res Wireless Audio, Comfortable Fit, Clear Calls, Bluetooth 5.3  ', '4.3 out of 5 stars', '(960)', 149.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg10_1?ie=UTF8&adId=A0917425JONLJC9Q263E&qualifier=1671729734&id=3658859540208725&widgetName=sp_btf&url=%2FSoundcore-Cancelling-Headphones-Comfortable-Bluetooth%2Fdp%2FB0B5VHRX7F%2Fref%3Dsr_1_166_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729734%26sr%3D8-166-spons%26psc%3D1%26smid%3DA294P4X9EWVXLJ')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg11_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729735&id=2156118566156674&widgetName=sp_atf_next&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_161_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729735%26sr%3D8-161-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '16,035', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg11_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729735&id=2156118566156674&widgetName=sp_atf_next&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_162_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729735%26sr%3D8-162-spons%26psc%3D1')
+
+
+('COOSII H300 Wireless Headphones Bluetooth with Microphone, Over Ear Headsets with Environmental Noise Cancelling Retractable Mic, USB Dongle & Mute for Office Laptop Computer Chromebook Smartphone  ', '4.1 out of 5 stars', 183, 59.99, 'https://amazon.com/COOSII-Headphones-Microphone-Environmental-Retractable/dp/B09WQYXHJW/ref=sr_1_163?keywords=over+ear+headphones&qid=1671729735&sr=8-163')
+
+
+('E500Pro Noise Cancelling Headphones, Wireless Over-Ear Bluetooth Headphones, Foldable Lightweight Headset, 90H Playtime, Multipoint Connection, Memory Foam Ear Cups for Travel, Home Office (Black)  ', '4.3 out of 5 stars', 42, 69.99, 'https://amazon.com/E500Pro-Cancelling-Headphones-Lightweight-Multipoint/dp/B0B7MRM2SX/ref=sr_1_164?keywords=over+ear+headphones&qid=1671729735&sr=8-164')
+
+
+('Bose Noise Cancelling Headphones 700,Bluetooth, Over-Ear Wireless with Built-In Microphone for Clear Calls & Alexa Voice Control,Black  ', '4.5 out of 5 stars', '30,105', 379.0, 'https://amazon.com/Bose-Cancelling-Wireless-Bluetooth-Headphones/dp/B07Q9MJKBV/ref=sr_1_165?keywords=over+ear+headphones&qid=1671729735&sr=8-165')
+
+
+('TECKNET Wireless Bluetooth Over Ear Headphones, 65H Playtime Foldable Headsets with Built-in Mic, Memory Foam Ear Cups, Deep Bass Hi-Fi Stereo Lightweight Earphones for PC, Cell Phone, Laptop (Black)  ', '4.2 out of 5 stars', 44, 25.99, 'https://amazon.com/TECKNET-Bluetooth-Headphones-Lightweight-Earphones/dp/B0B1P88NCP/ref=sr_1_166?keywords=over+ear+headphones&qid=1671729735&sr=8-166')
+
+
+UnicodeEncodeError
+
+
+('MEE audio Matrix Cinema Bluetooth Wireless Over-Ear High Resolution Stereo Headphones with aptX Low Latency for Improved Lip Sync & CinemaEAR Audio Enhancement for Clearer Sound in Movies and TV Shows  ', '4.3 out of 5 stars', 191, 112.79, 'https://amazon.com/MEE-audio-Bluetooth-Headphones-Enhancement/dp/B07B435CTX/ref=sr_1_168?keywords=over+ear+headphones&qid=1671729735&sr=8-168')
+
+
+('DREATI Kids Headphones for Girls,Over Ear Headphones Wired with Microphone,Tangle-Free Teens Girls Kids Headsets for Gift/School/iPad/PC/Cellphone(Pink)  ', '4.6 out of 5 stars', 124, 14.99, 'https://amazon.com/Headphones-Microphone-Tangle-Free-Headphone-School%EF%BC%88Pink%EF%BC%89/dp/B09PRFD16P/ref=sr_1_169?keywords=over+ear+headphones&qid=1671729735&sr=8-169')
+
+
+('SHOKZ OpenRun Pro - Premium Bone Conduction Open-Ear Bluetooth Sport Headphones - Sweat Resistant Wireless Earphones for Workouts and Running with Deep Base - Built-in Mic, with Headband (Black)  ', '4.6 out of 5 stars', '6,142', 143.95, 'https://amazon.com/Shokz-OpenRun-Pro-Conduction-Built/dp/B09BVXT8TJ/ref=sr_1_170?keywords=over+ear+headphones&qid=1671729735&sr=8-170')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '9,955', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg11_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729735&id=2156118566156674&widgetName=sp_mtf&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_171_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729735%26sr%3D8-171-spons%26psc%3D1')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '61,953', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg11_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729735&id=2156118566156674&widgetName=sp_mtf&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_172_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729735%26sr%3D8-172-spons%26psc%3D1')
+
+
+('Kids Headphones with Microphone, Wired Over Ear Headsets with Limited Volume 85dB/ 94dB for Boys Girls Teens Children Online School/Travel/iPad/Tablet/Cellphone  ', '4.6 out of 5 stars', 779, 16.99, 'https://amazon.com/Headphones-Microphone-Headsets-Children-Cellphone/dp/B09JSMNZRG/ref=sr_1_174?keywords=over+ear+headphones&qid=1671729735&sr=8-174')
+
+
+('JBL Quantum 400 - Wired Over-Ear Gaming Headphones with USB and Game-Chat Balance Dial - Black  ', '4.3 out of 5 stars', '1,832', 49.95, 'https://amazon.com/JBL-Quantum-400-Headphones-Game-Chat/dp/B084CZDX61/ref=sr_1_175?keywords=over+ear+headphones&qid=1671729735&sr=8-175')
+
+
+('PurelySound E7 Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, 20H Playtime, Rich Deep Bass, Comfortable Memory Foam Ear Cups for Travel, Home Office -Matte Black  ', '4.2 out of 5 stars', 92, 29.99, 'https://amazon.com/PurelySound-E7-Cancelling-Headphones-Comfortable/dp/B0B3D9LPXZ/ref=sr_1_176?keywords=over+ear+headphones&qid=1671729735&sr=8-176')
+
+
+('rockpapa E8 Over The Ear Bluetooth Headphones with Microphone for Kid Children Boy Girl Youth Teen Adult, Foldable Wired/Wireless Headphones with Mic, Include Travel Case, Silver  ', '4.2 out of 5 stars', 158, 24.99, 'https://amazon.com/Rockpapa-E8-Wireless-Bluetooth-Headphones/dp/B08V9B2LNS/ref=sr_1_177?keywords=over+ear+headphones&qid=1671729735&sr=8-177')
+
+
+('60Hrs Wireless Headphones Over Ear, BT5.0, Wireless Headphones with Microphone, Stereo Headphones with Deep Bass, Foldable Lightweight Wired Wireless Headphones for TV PC Laptop Kids Home Office  ', '4.4 out of 5 stars', 390, 29.96, 'https://amazon.com/Bluetooth-Headphones-Wireless-Microphone-Lightweight/dp/B09PD6THH2/ref=sr_1_178?keywords=over+ear+headphones&qid=1671729735&sr=8-178')
+
+
+('AKG Pro Audio K361BT Bluetooth Over-Ear, Closed-Back, Foldable Studio Headphones ,BLACK  ', '4.2 out of 5 stars', '2,337', 89.0, 'https://amazon.com/AKG-Pro-Audio-Closed-Back-Headphones/dp/B07ZL6LK9H/ref=sr_1_179?keywords=over+ear+headphones&qid=1671729735&sr=8-179')
+
+
+('Riwbox TX8 Touch Control Bluetooth Headphones Over Ear, Matte Finish Premium Hi-Fi Stereo Folding Wireless Headphones with Mic and Micro-SD Card Slot for Cellphones/PC/TV/Home Office (White)  ', '4.5 out of 5 stars', 430, 29.89, 'https://amazon.com/Riwbox-TX8-Bluetooth-Headphones-Wireless/dp/B09FT2GQX8/ref=sr_1_180?keywords=over+ear+headphones&qid=1671729735&sr=8-180')
+
+
+('Jzones Open Ear Headphones Wireless Bluetooth 5.2, Open Ear Earbuds with Dual 16.2mm Dynamic Drivers 60 Hours Playtime Waterproof Sport Earbuds for Android iPhone TV  ', '4.9 out of 5 stars', 180, 99.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg11_1?ie=UTF8&adId=A0358018YXTJKYCOOLHH&qualifier=1671729735&id=2156118566156674&widgetName=sp_btf&url=%2FJzones-Headphones-Wireless-Bluetooth-Waterproof%2Fdp%2FB0BKQ9PX59%2Fref%3Dsr_1_181_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729735%26sr%3D8-181-spons%26psc%3D1')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', 260, 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg11_1?ie=UTF8&adId=A04916432R7Z8H85KMQRE&qualifier=1671729735&id=2156118566156674&widgetName=sp_btf&url=%2FSTADOR-Bluetooth-Headphones-Sweatproof-Waterproof%2Fdp%2FB0BP184KQX%2Fref%3Dsr_1_182_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729735%26sr%3D8-182-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '9,955', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg12_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729737&id=8731726256956410&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_177_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729737%26sr%3D8-177-spons%26psc%3D1')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', 260, 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg12_1?ie=UTF8&adId=A04916432R7Z8H85KMQRE&qualifier=1671729737&id=8731726256956410&widgetName=sp_atf_next&url=%2FSTADOR-Bluetooth-Headphones-Sweatproof-Waterproof%2Fdp%2FB0BP184KQX%2Fref%3Dsr_1_178_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729737%26sr%3D8-178-spons%26psc%3D1')
+
+
+('Bluetooth Headphones Over Ear, 6S Foldable Wireless Headphones with 6 EQ Modes, 40 Hours Playtime HiFi Stereo Headset with Mic, Soft Ear Pads, TF/FM for Cellphone/PC/Home (Black & Blue)  ', '4.7 out of 5 stars', 17, 19.99, 'https://amazon.com/Bluetooth-Headphones-6S-Foldable-Cellphone/dp/B0BFDDT7QD/ref=sr_1_179?keywords=over+ear+headphones&qid=1671729737&sr=8-179')
+
+
+('JBL Quantum 400 - Wired Over-Ear Gaming Headphones with USB and Game-Chat Balance Dial - Black  ', '4.3 out of 5 stars', '1,832', 49.95, 'https://amazon.com/JBL-Quantum-400-Headphones-Game-Chat/dp/B084CZDX61/ref=sr_1_181?keywords=over+ear+headphones&qid=1671729737&sr=8-181')
+
+
+('Philips Fidelio X3 Wired Over-Ear Open-Back Headphones, Multi-Layer 50mm diaphragms, Hi-Res Certified, Premium Finishing - Hear The Difference  ', '4.4 out of 5 stars', 459, 152.28, 'https://amazon.com/Philips-X3-Headphones-Multi-Layer-diaphragms/dp/B0884XTXS8/ref=sr_1_184?keywords=over+ear+headphones&qid=1671729737&sr=8-184')
+
+
+('Aisizon Air Conduction Headphones H1, Over Ear Sports Wireless Bluetooth Headphones, Open Ear Headphones Wireless Bluetooth for Runing, Gym Workout, Sports  ', '3.9 out of 5 stars', 85, 35.0, 'https://amazon.com/Aisizon-Conduction-Headphones-H1-Bluetooth/dp/B0B5FC2R76/ref=sr_1_185?keywords=over+ear+headphones&qid=1671729737&sr=8-185')
+
+
+('Cat Ear Led Light Up Kids Headphones with Microphone, iClever HS20 Wired Headphones -Shareport- 94dB Volume Limited, Foldable Over-Ear Headphones for Kids/School/iPad/Tablet/Travel (Medium, Pink)  ', '4.5 out of 5 stars', '2,532', 23.99, 'https://amazon.com/Headphones-Microphone-iClever-HS20-Shareport/dp/B071D9JHKG/ref=sr_1_186?keywords=over+ear+headphones&qid=1671729737&sr=8-186')
+
+
+('Bose Noise Cancelling Headphones 700,Bluetooth, Over-Ear Wireless with Built-In Microphone for Clear Calls & Alexa Voice Control,Black  ', '4.5 out of 5 stars', '30,105', 379.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg12_1?ie=UTF8&adId=A09192921JQ917QHMYXIU&qualifier=1671729737&id=8731726256956410&widgetName=sp_mtf&url=%2FBose-Cancelling-Wireless-Bluetooth-Headphones%2Fdp%2FB07Q9MJKBV%2Fref%3Dsr_1_187_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729737%26sr%3D8-187-spons%26psc%3D1')
+
+
+('RTUSIA Small Bluetooth Headphones Wrap Around Head - Sports Wireless Headset with Built in Microphone and Crystal-Clear Sound, Foldable and Carried in The Purse, and 12-Hour Battery Life, White  ', '4.3 out of 5 stars', '3,021', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg12_1?ie=UTF8&adId=A011082111X7VFOWM5MG6&qualifier=1671729737&id=8731726256956410&widgetName=sp_mtf&url=%2FSmall-Bluetooth-Headphones-Wrap-Around%2Fdp%2FB09BCKCMW1%2Fref%3Dsr_1_188_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729737%26sr%3D8-188-spons%26psc%3D1')
+
+
+('Kids Headphones for School with Mic, Riwbox CS6 Folding Stereo Headphones Over Ear Wired Headset Sharing Function with Mic and Volume Control Compatible for iPad/iPhone/PC/Kindle/Tablet (Purple&Green)  ', '4.4 out of 5 stars', '1,110', 18.98, 'https://amazon.com/Headphones-Riwbox-Lightweight-Foldable-Compatible/dp/B07XZ49PDX/ref=sr_1_189?keywords=over+ear+headphones&qid=1671729737&sr=8-189')
+
+
+('Shure SRH440A Over-Ear Wired Headphones for Monitoring & Recording, Professional Studio Grade, Enhanced Frequency Response, Work with All Audio Devices, Adjustable & Collapsible Design - 2022 Version  ', '4.5 out of 5 stars', '2,066', 99.0, 'https://amazon.com/Shure-SRH440A-Headphones-Professional-Collapsible/dp/B09DRPS3YG/ref=sr_1_190?keywords=over+ear+headphones&qid=1671729737&sr=8-190')
+
+
+('Tapvos E8 Bluetooth Headphones Wireless Headphones Active Noise Cancelling Headphones Over Ear with Microphone, Soft Protein Earpads, 30 Hours Playtime for Travel/Work (Rose Red)  ', '4.6 out of 5 stars', 57, 34.98, 'https://amazon.com/Tapvos-Bluetooth-Headphones-Cancelling-Microphone/dp/B09N7CCXKK/ref=sr_1_191?keywords=over+ear+headphones&qid=1671729737&sr=8-191')
+
+
+('truefree Sports Earphones F1 Open-Ear Bluetooth Headphones with ENC Noise-Cancellation Mic Air Conduction Wireless Headset for Workouts and Running, 11 Hours of Music, with Headband (Black & Grey)  ', '4.4 out of 5 stars', 568, 39.99, 'https://amazon.com/truefree-F1-Headphones-Noise-Cancellation-Conduction/dp/B0BBM59FSK/ref=sr_1_192?keywords=over+ear+headphones&qid=1671729737&sr=8-192')
+
+
+('JBL Quantum ONE - Over-Ear Performance Gaming Headset with Active Noise Cancelling (Wired) - Black  ', '4.3 out of 5 stars', '1,075', 149.95, 'https://amazon.com/JBL-Quantum-One-Tracking-Enhanced-QuantumSPHERE/dp/B085R7TPCR/ref=sr_1_193?keywords=over+ear+headphones&qid=1671729737&sr=8-193')
+
+
+('Aduro Resonance Wireless Headphones with Microphone Foldable Over The Ear Headphones with Mic Rechargeable Wireless Headset - White/Rose Gold  ', '4.1 out of 5 stars', 332, 29.99, 'https://amazon.com/Aduro-Resonance-Bluetooth-Headphones-White/dp/B07L472GZV/ref=sr_1_194?keywords=over+ear+headphones&qid=1671729737&sr=8-194')
+
+
+('Kids Headphones Wired with Microphone, iClever Smiley 85/94dB Volume Limited, Over-Ear Headphones for Kids with Share Port, Stereo Sound, Foldable Kids Headphones for School/Travel/iPad/Fire Tablet  ', '4.5 out of 5 stars', 397, 17.99, 'https://amazon.com/Headphones-Microphone-iClever-Over-Ear-Foldable/dp/B09N3HF51Z/ref=sr_1_195?keywords=over+ear+headphones&qid=1671729737&sr=8-195')
+
+
+('Sennheiser HD 560 S Over-The-Ear Audiophile Headphones - Neutral Frequency Response, E.A.R. Technology for Wide Sound Field, Open-Back Earcups, Detachable Cable, (Black) (HD 560S)  ', '4.7 out of 5 stars', '1,538', 149.0, 'https://amazon.com/Sennheiser-HD-Over-Audiophile-Headphones/dp/B08J9MVB6W/ref=sr_1_196?keywords=over+ear+headphones&qid=1671729737&sr=8-196')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg12_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729737&id=8731726256956410&widgetName=sp_btf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_197_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729737%26sr%3D8-197-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '16,035', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg12_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729737&id=8731726256956410&widgetName=sp_btf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_198_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729737%26sr%3D8-198-spons%26psc%3D1')
+
+
+('Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  ', '4.6 out of 5 stars', '9,955', 249.0, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg13_1?ie=UTF8&adId=A03176902IBQJ1EOLFHD9&qualifier=1671729738&id=6690128372256450&widgetName=sp_atf_next&url=%2FBose-QuietComfort-45-Bluetooth-Canceling-Headphones%2Fdp%2FB098FKXT8L%2Fref%3Dsr_1_193_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729738%26sr%3D8-193-spons%26psc%3D1')
+
+
+('STADOR Bluetooth Headphones 4-Mics Clear Call 100Hrs Playtime with 2200mAh Wireless Charging Case Wireless Earbuds Sweatproof Waterproof Over Ear Earphones for Sports Running Workout Gaming Black  ', '5.0 out of 5 stars', 260, 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg13_1?ie=UTF8&adId=A04916432R7Z8H85KMQRE&qualifier=1671729738&id=6690128372256450&widgetName=sp_atf_next&url=%2FSTADOR-Bluetooth-Headphones-Sweatproof-Waterproof%2Fdp%2FB0BP184KQX%2Fref%3Dsr_1_194_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729738%26sr%3D8-194-spons%26psc%3D1')
+
+
+('Philips H5205 Over-Ear Wireless Headphones with 40mm Drivers & BASS Boost on-Demand, White  ', '4.2 out of 5 stars', 46, 68.99, 'https://amazon.com/Philips-Over-Ear-Wireless-Headphones-Drivers/dp/B09WCY6VXV/ref=sr_1_195?keywords=over+ear+headphones&qid=1671729738&sr=8-195')
+
+
+('ThinkWrite Technologies Ultra Durable Pro, TW200 | Premium Over-Ear Noise Reducing Headphones (3.5mm Jack)  ', '4.3 out of 5 stars', 26, 22.99, 'https://amazon.com/ThinkWrite-Technologies-Over-Ear-Reducing-Headphones/dp/B08WRPMYYW/ref=sr_1_197?keywords=over+ear+headphones&qid=1671729738&sr=8-197')
+
+
+('Silensys E7 PRO Active Noise Cancelling Headphones Bluetooth Headphones with Microphone Deep Bass Wireless Headphones Over Ear, Comfortable Fit, 30H Playtime for TV/Computer/Cellphone, Black  ', '4.3 out of 5 stars', 871, 64.98, 'https://amazon.com/Silensys-Noise-Cancelling-Headphones-Comfortable/dp/B09DSF758C/ref=sr_1_198?keywords=over+ear+headphones&qid=1671729738&sr=8-198')
+
+
+UnicodeEncodeError
+
+
+('Jabra Elite 85h Wireless Noise-Canceling Headphones, Titanium Black – Over Ear Bluetooth Headphones Compatible with iPhone & Android - Built-in Microphone, Long Battery Life - Rain & Water Resistant  ', '4.2 out of 5 stars', '1,585', 220.14, 'https://amazon.com/Jabra-Wireless-Noise-Canceling-Headphones-Titanium/dp/B07RQ366VK/ref=sr_1_201?keywords=over+ear+headphones&qid=1671729738&sr=8-201')
+
+
+('PHILIPS Over The Ear Sport Earbuds with Mic, Earphones for Sports, Running and Gym  ', '4.0 out of 5 stars', 873, 24.99, 'https://amazon.com/Philips-Earbuds-Earphones-Running-SHS3305BK/dp/B081HWJK7S/ref=sr_1_202?keywords=over+ear+headphones&qid=1671729738&sr=8-202')
+
+
+('RTUSIA Small Bluetooth Headphones Wrap Around Head - Sports Wireless Headset with Built in Microphone and Crystal-Clear Sound, Foldable and Carried in The Purse, and 12-Hour Battery Life, White  ', '4.3 out of 5 stars', '3,021', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg13_1?ie=UTF8&adId=A011082111X7VFOWM5MG6&qualifier=1671729738&id=6690128372256450&widgetName=sp_mtf&url=%2FSmall-Bluetooth-Headphones-Wrap-Around%2Fdp%2FB09BCKCMW1%2Fref%3Dsr_1_203_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729738%26sr%3D8-203-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg13_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729738&id=6690128372256450&widgetName=sp_mtf&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_204_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729738%26sr%3D8-204-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('MOVSSOU E7 Max Active Noise Cancelling Bluetooth Headphones, Over-Ear Wireless Headphones with Built-in Mic, 30H Playtime, Premium Sound, Comfortable Earpads for Travel, Home Office-White  ', '4.2 out of 5 stars', 109, 29.99, 'https://amazon.com/MOVSSOU-Cancelling-Headphones-Comfortable-Office-White/dp/B09QJKW9WB/ref=sr_1_206?keywords=over+ear+headphones&qid=1671729738&sr=8-206')
+
+
+('Riwbox Bluetooth Headphones, XBT-880 Wireless Bluetooth Headphones Over Ear with Microphone and Volume Control Wireless and Wired Foldable Headset for iPhone/iPad/PC/Cell Phones/TV (White&Gold)  ', '4.3 out of 5 stars', '4,696', 30.98, 'https://amazon.com/Bluetooth-Headphones-Riwbox-Wireless-Microphone/dp/B07HCZV3ZG/ref=sr_1_207?keywords=over+ear+headphones&qid=1671729738&sr=8-207')
+
+
+('Gaming Headset, LTXHorde RGB PC Headset with Noise Cancelling Microphone, Over Ear Gaming Headphones, Surround Sound, Stereo Bass, LED Lights, Wired Gamer Headset for Laptop, PS4, PS5, Switch, Xbox  ', '3.5 out of 5 stars', 25, 29.99, 'https://amazon.com/LTXHorde-Cancelling-Microphone-Headphones-Surround/dp/B0B2JT1F4D/ref=sr_1_208?keywords=over+ear+headphones&qid=1671729738&sr=8-208')
+
+
+('Artix CL750 Adult & Kids Wired Headphones with Mic – On-Ear Headphones Wired Over Head, Stereo Corded Headphones for Laptop – 90% Noise Cancelling Headphones with Microphone for Computer & Phone 3.5mm  ', '4.4 out of 5 stars', '12,878', 30.99, 'https://amazon.com/wired-headphones-wired-microphone-mic-ear-noise/dp/B087JWTWF9/ref=sr_1_209?keywords=over+ear+headphones&qid=1671729738&sr=8-209')
+
+
+('Shure SRH840A Over-Ear Wired Headphones for Critical Listening & Monitoring, Professional Headset, Tailored Frequency Response, Superior Detailed Sound, Adjustable & Collapsible Design - 2022 Version  ', '4.5 out of 5 stars', 981, 147.99, 'https://amazon.com/Shure-Studio-Headphones-Black-SRH840A/dp/B00OP93VI0/ref=sr_1_210?keywords=over+ear+headphones&qid=1671729738&sr=8-210')
+
+
+('Philips Fidelio X2HR Over-Ear Open-Air Headphone 50mm Drivers- Black  ', '4.6 out of 5 stars', '6,484', 126.64, 'https://amazon.com/Philips-X2HR-Over-Ear-Open-Air-Headphone/dp/B01N5VHLUG/ref=sr_1_211?keywords=over+ear+headphones&qid=1671729738&sr=8-211')
+
+
+('gorsun Premium A66 Kids Headphones with 85dB/94dB Volume Limited, in-line HD Mic, Audio Sharing, Foldable Toddler Headphones, Adjustable, Children Headphones Over-Ear for School Travel, Blue Black  ', '4.5 out of 5 stars', '2,141', 14.99, 'https://amazon.com/gorsun-A66-Headphones-Foldable-Adjustable/dp/B09B3HWT6S/ref=sr_1_212?keywords=over+ear+headphones&qid=1671729738&sr=8-212')
+
+
+('OneOdio Wired Over Ear Headphones Studio Monitor & Mixing DJ Stereo Headsets with 50mm Neodymium Drivers and 1/4 to 3.5mm Audio Jack for AMP Computer Recording Phone Piano Guitar Laptop - Black  ', '4.5 out of 5 stars', '38,794', 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg13_1?ie=UTF8&adId=A03955491JLBFV04L0ZS6&qualifier=1671729738&id=6690128372256450&widgetName=sp_btf&url=%2FOneOdio-Adapter-Free-Headphones-Professional-Telescopic%2Fdp%2FB01N6ZJH96%2Fref%3Dsr_1_213_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729738%26sr%3D8-213-spons%26psc%3D1')
+
+
+('Shokz OpenMove - Open-Ear Bluetooth Sport Headphones - Bone Conduction Wireless Earphones - Sweatproof for Running and Workouts, with Sticker Pack (Grey)  ', '4.5 out of 5 stars', '4,856', 59.95, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg13_1?ie=UTF8&adId=A0682341G0UJAY4EZ7ZO&qualifier=1671729738&id=6690128372256450&widgetName=sp_btf&url=%2FShokz-OpenMove-Headphones-Conduction-Sweatproof%2Fdp%2FB09BW29FJS%2Fref%3Dsr_1_214_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729738%26sr%3D8-214-spons%26psc%3D1')
+
+
+('OneOdio Wired Over Ear Headphones Studio Monitor & Mixing DJ Stereo Headsets with 50mm Neodymium Drivers and 1/4 to 3.5mm Audio Jack for AMP Computer Recording Phone Piano Guitar Laptop - Black  ', '4.5 out of 5 stars', '38,794', 31.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg14_1?ie=UTF8&adId=A03955491JLBFV04L0ZS6&qualifier=1671729740&id=5583204179276883&widgetName=sp_atf_next&url=%2FOneOdio-Adapter-Free-Headphones-Professional-Telescopic%2Fdp%2FB01N6ZJH96%2Fref%3Dsr_1_209_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729740%26sr%3D8-209-spons%26psc%3D1')
+
+
+('BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headset, Deep Bass for Home Office Cellphone PC TV  ', '4.5 out of 5 stars', '3,503', 23.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg14_1?ie=UTF8&adId=A0250507SHD0QYMK1E6S&qualifier=1671729740&id=5583204179276883&widgetName=sp_atf_next&url=%2FBERIBES-Bluetooth-Headphones-Microphone-Lightweight%2Fdp%2FB09LYF2ST7%2Fref%3Dsr_1_210_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729740%26sr%3D8-210-spons%26psc%3D1%26smid%3DANQLR0TV4QSBH')
+
+
+('CozyPhones Over The Ear Headband Headphones - Kids Headphones Volume Limited with Thin Speakers & Super Soft Stretchy Headband - Pink Unicorn  ', '4.1 out of 5 stars', '7,090', 17.99, 'https://amazon.com/CozyPhones-Headphones-Ultra-Thin-Speakers-Headband/dp/B07Q11T2H7/ref=sr_1_211?keywords=over+ear+headphones&qid=1671729740&sr=8-211')
+
+
+('Avantree HT4189 40Hrs Wireless Headphones Set for TV Watching with Bluetooth Transmitter (Digital Optical AUX RCA), No Delay, Dual Link Support, High Volume Over Ear Headset for Seniors, Long Range  ', '4.5 out of 5 stars', '7,254', 99.99, 'https://amazon.com/Avantree-Wireless-Headphones-Bluetooth-Transmitter/dp/B07CJ2BVSP/ref=sr_1_214?keywords=over+ear+headphones&qid=1671729740&sr=8-214')
+
+
+('eKids Spiderman Kids Headphones, Adjustable Headband, Stereo Sound, 3.5Mm Jack, Wired Headphones for Kids, Tangle-Free, Volume Control, Childrens Headphones Over Ear for School Home, Travel  ', '4.5 out of 5 stars', '3,396', 19.97, 'https://amazon.com/Spiderman-Headphones-Limiting-Friendly-Listening/dp/B00IUQF7YK/ref=sr_1_216?keywords=over+ear+headphones&qid=1671729740&sr=8-216')
+
+
+('Olitec Kids Headphones - Over-Ear Headphones for Kids, and Teen, Ideal Headphones for Kids for School and Long-Ride Travel, Lightweight Headset with Aux 3.5mm Jack Connection  ', '4.7 out of 5 stars', 529, 16.99, 'https://amazon.com/Olitec-Kids-Headphones-Lightweight-Connection/dp/B09NP79LXW/ref=sr_1_217?keywords=over+ear+headphones&qid=1671729740&sr=8-217')
+
+
+('Sony WH-1000XM5 Wireless Noise Canceling Over-Ear Headphones (Black) with Wireless Over-Ear Headphone Accessory Bundle (2 Items)  ', '5.0 out of 5 stars', 15, 348.0, 'https://amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Headphone/dp/B0B5F363Z3/ref=sr_1_218?keywords=over+ear+headphones&qid=1671729740&sr=8-218')
+
+
+('TUINYO Bluetooth Headphones Wireless, Over Ear Stereo Wireless Headset 40H Playtime with deep bass, Soft Memory-Protein Earmuffs, Built-in Mic Wired Mode PC/Cell Phones/TV-Dark Blue  ', '4.4 out of 5 stars', '16,035', 30.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg14_1?ie=UTF8&adId=A0960216HUIMOR1ZKTEB&qualifier=1671729740&id=5583204179276883&widgetName=sp_mtf&url=%2FBluetooth-Headphones-Wireless-TUINYO-Memory-Protein%2Fdp%2FB08RHMD51S%2Fref%3Dsr_1_219_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729740%26sr%3D8-219-spons%26psc%3D1')
+
+
+('iJoy Bluetooth Headphones Wireless Over Ear Foldable Headset with Built-in Microphone, FM, Micro SD Card Slot (Stealth) Holiday Christmas Birthday Gift Adults Kids - Audifonos Auriculares Inalambricos  ', '4.4 out of 5 stars', '61,953', 29.99, 'https://amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg14_1?ie=UTF8&adId=A00290103DAPXQ8J1LS47&qualifier=1671729740&id=5583204179276883&widgetName=sp_mtf&url=%2FiJoy-Rechargeable-Wireless-Headphones-Bluetooth%2Fdp%2FB01HNMTCE2%2Fref%3Dsr_1_220_sspa%3Fkeywords%3Dover%2Bear%2Bheadphones%26qid%3D1671729740%26sr%3D8-220-spons%26psc%3D1')
+
