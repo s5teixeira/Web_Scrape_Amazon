@@ -11,6 +11,7 @@ HEADERS_FOR_GET_REQ = (
 
 """ This function takes  """
 
+
 def write_to_file(x):
     with open("output_data.txt", "a") as data_out_file:
         try:
@@ -21,6 +22,7 @@ def write_to_file(x):
 
 """This function creates a URL using the given keywords
 and will list the results through from in the database"""
+
 
 def get_search_url(db_cursor, table_name, keywords):
     # this function creates the url using the given keywords ex: 'over ear headphones'
@@ -67,13 +69,17 @@ def get_search_url(db_cursor, table_name, keywords):
 """ This function will extract the name of the product
  listing from the html code and return it in the command line """
 
+
 def extract_product_name(listing):
     product_name = listing.h2.text
     # print('product name: ', product_name)
     write_to_file(product_name)
     return product_name
 
+
 """ This function """
+
+
 def extract_product_rating(listing):
     rating_listing = listing.find('i', {'class': 'a-icon'})
 
@@ -120,4 +126,3 @@ def extract_product_URL(listing, search_url):
     except AttributeError:
         return 0
         # print('No Product URL')
-
