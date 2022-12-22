@@ -9,6 +9,7 @@ HEADERS_FOR_GET_REQ = (
      'Accept-Language': 'en-US, en;q=0.5'}
 )
 
+""" This function takes  """
 
 def write_to_file(x):
     with open("output_data.txt", "a") as data_out_file:
@@ -17,6 +18,9 @@ def write_to_file(x):
         except UnicodeEncodeError:
             data_out_file.write(f"\nUnicodeEncodeError\n\n")
 
+
+"""This function creates a URL using the given keywords
+and will list the results through from in the database"""
 
 def get_search_url(db_cursor, table_name, keywords):
     # this function creates the url using the given keywords ex: 'over ear headphones'
@@ -37,6 +41,16 @@ def get_search_url(db_cursor, table_name, keywords):
             if listing_counter > listing_limit:
                 break
             else:
+                # print(search_url)
+                # url_results_page_param += 1  # this is not counting for some reason it stays on 1
+                # db_table_row_data = [None, None, None, None, None]  # pseudocode
+                # listing_data = []
+                # listing_data[0] = extract_product_name(listing)
+                # listing_data[1] = extract_product_rating(listing)
+                # listing_data[2] = extract_num_ratings(listing)
+                # listing_data[3] = extract_product_price(listing)
+                # listing_data[4] = extract_product_URL(listing)
+                # main.insert_into_table(db_cursor, 'table_name', tuple(listing_data))
 
                 name = extract_product_name(listing)
                 rating = extract_product_rating(listing)
@@ -50,13 +64,16 @@ def get_search_url(db_cursor, table_name, keywords):
         url_results_page_param += 1  # this is not counting for some reason it stays on 1
 
 
+""" This function will extract the name of the product
+ listing from the html code and return it in the command line """
+
 def extract_product_name(listing):
     product_name = listing.h2.text
     # print('product name: ', product_name)
     write_to_file(product_name)
     return product_name
 
-
+""" This function """
 def extract_product_rating(listing):
     rating_listing = listing.find('i', {'class': 'a-icon'})
 
@@ -90,6 +107,8 @@ def extract_product_price(listing):
         return price_integer + price_decimal
     except AttributeError:
         return 0
+        # print('No Price')
+
 
 def extract_product_URL(listing, search_url):
     try:
@@ -100,3 +119,5 @@ def extract_product_URL(listing, search_url):
         return complete_product_url
     except AttributeError:
         return 0
+        # print('No Product URL')
+

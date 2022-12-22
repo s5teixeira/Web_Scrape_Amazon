@@ -1,11 +1,14 @@
+
 """this module contains all the test functions """
+
+#
+# def test_Over_Ear_Headphones():
+#     assert something ...
 import sqlite3
-import filter
+
 import pytest
 
-""" This is the automated unit test module for this project. 
-Every function begins with test_, so python/pytest knows its used for testing """
-
+import web_page_scraper
 
 
 def test_questions_about_filtering():
@@ -31,6 +34,18 @@ def test_search_selection():
         filter.search_selection('10') is False
         filter.search_selection('2') is True
     assert error.type is OSError
+
+
+@pytest.fixture()
+def cursor():
+    connection = sqlite3.connect("test_db.db")
+    cursor = connection.cursor()
+    # cursor.execute("CREATE TABLE Over_Ear_Headphones_Table(product_name TEXT, rating REAL, "
+    #                "num_ratings INTEGER, price REAL, product_url TEXT)")
+    web_page_scraper.get_search_url(cursor, 'Over_Ear_Headphones_Table', 'over ear headphones')
+    yield cursor  # return database
+    cursor.execute('drop table Over_Ear_Headphones_Table')
+
 
 
 
