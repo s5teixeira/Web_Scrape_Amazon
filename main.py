@@ -118,25 +118,32 @@ def create_tables(db_cursor):
 
 def insert_into_table(db_cursor, table_name, record_tuple):
     """This function inserts the record into the corresponding table"""
-    if table_name == "Over_Ear_Headphones_Table":
-        db_cursor.execute('''INSERT INTO Over_Ear_Headphones_Table VALUES(?, ?, ?, ?,?)''',
-                          record_tuple)
-    if table_name == "USB_Microphones_Table":
-        db_cursor.execute('''INSERT INTO USB_Microphones_Table VALUES(?, ?, ?, ?,?)''',
-                          record_tuple)
-    if table_name == "Webcams_Table":
-        db_cursor.execute('''INSERT INTO Webcams_Table VALUES(?, ?, ?, ?,?)''',
-                          record_tuple)
-    if table_name == "Capture_Cards_Table":
-        db_cursor.execute('''INSERT INTO Capture_Cards_Table VALUES(?, ?, ?, ?,?)''',
-                          record_tuple)
-    if table_name == "Audio_Mixers_Table":
-        db_cursor.execute('''INSERT INTO Audio_Mixers_Table VALUES(?, ?, ?, ?,?)''',
-                          record_tuple)
-    if table_name == "Gaming_Laptops_Table":
-        db_cursor.execute('''INSERT INTO Gaming_Laptops_Table VALUES(?, ?, ?, ?,?)''',
-                          record_tuple)
-    return db_cursor
+    try:
+        if table_name == "Over_Ear_Headphones_Table":
+            db_cursor.execute('''INSERT INTO Over_Ear_Headphones_Table VALUES(?, ?, ?, ?,?)''',
+                              record_tuple)
+        if table_name == "USB_Microphones_Table":
+            db_cursor.execute('''INSERT INTO USB_Microphones_Table VALUES(?, ?, ?, ?,?)''',
+                              record_tuple)
+        if table_name == "Webcams_Table":
+            db_cursor.execute('''INSERT INTO Webcams_Table VALUES(?, ?, ?, ?,?)''',
+                              record_tuple)
+        if table_name == "Capture_Cards_Table":
+            db_cursor.execute('''INSERT INTO Capture_Cards_Table VALUES(?, ?, ?, ?,?)''',
+                              record_tuple)
+        if table_name == "Audio_Mixers_Table":
+            db_cursor.execute('''INSERT INTO Audio_Mixers_Table VALUES(?, ?, ?, ?,?)''',
+                              record_tuple)
+        if table_name == "Gaming_Laptops_Table":
+            db_cursor.execute('''INSERT INTO Gaming_Laptops_Table VALUES(?, ?, ?, ?,?)''',
+                              record_tuple)
+#        return db_cursor
+    except sqlite3.Error as error:
+        print_red('an error has occurred while inserting the tables :(')
+        print_red(f'{error}')
+    finally:
+        return db_cursor
+
 
 def print_red(text: str):
     """ this function changes lines printed to terminal red """

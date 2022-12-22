@@ -31,7 +31,6 @@ def search_selection(db_cursor):
         print("\ninvalid input\n")
         search_selection()
 
-
 def print_statement():
     """This function prints out the list of choices the user can choose from"""
     print('Choose a product category: \n\n'
@@ -41,7 +40,6 @@ def print_statement():
           '\t4. Capture Cards\n\n'
           '\t5. 8-channel Audio Mixers\n\n'
           '\t6. Gaming Laptops\n\n')
-
 
 def questions_about_filtering(db_cursor, table):
     """This function asks the user about filtering """
@@ -56,7 +54,6 @@ def questions_about_filtering(db_cursor, table):
     sqlfunction(db_cursor, table, star_operator, star_review, review_operator, num_review, target_price,
                 price_operator)
 
-
 def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, num_review, target_price,
                 price_operator):
     """this function uses the select statement to filter based on users input """
@@ -64,7 +61,7 @@ def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, n
             where rating {star_operator} {star_review} and 
             num_ratings {review_operator} {num_review} and 
             price {price_operator} {target_price}"""
-    print('\nPRODUCT NAME                                                                                                                        RATING'
+    print('\nAvailable Listings'
           '\n------------------------------------------------------------------------------------------------------------------------------------------------')
     # results = db_cursor.execute(sql)
     i = 1
@@ -75,44 +72,44 @@ def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, n
         i = i + 1
     main.ask_to_continue(db_cursor)
 
-
 def OverEarHeadPhones(db_cursor):
     """ this function applies the Headphones choice selection to the appropriate filtered table"""
-    print("\nyou selected OVER EAR HEADPHONES")
+    print("\nOVER EAR HEADPHONES SELECTION")
+    print('\n------------------------------------------------------------------------------------------------')
     table = 'Over_Ear_Headphones_Table'
     questions_about_filtering(db_cursor, table)
 
-
 def MicSelection(db_cursor):
     """ this function applies the Mic selection to the appropriate filtered table"""
-    print("\nyou selected MIC")
+    print("\nUSB MICROPHONES SELECTION")
+    print('\n------------------------------------------------------------------------------------------------')
     table = 'USB_Microphones_Table'
     questions_about_filtering(db_cursor, table)
 
-
 def WebCamSelection(db_cursor):
     """ this function applies the Webcam selection to the appropriate filtered table"""
-    print("\nyou selected WEBCAM")
+    print("\nWEBCAM SELECTION")
+    print('\n------------------------------------------------------------------------------------------------')
     table = 'Webcams_Table'
     questions_about_filtering(db_cursor, table)
 
-
 def CardsSelection(db_cursor):
     """ this function applies the Cards selection to the appropriate filtered table"""
-    print("\nyou selected CARDS")
+    print("\nCAPTURE CARDS SELECTION")
+    print('\n------------------------------------------------------------------------------------------------')
     table = 'Capture_Cards_Table'
     questions_about_filtering(db_cursor, table)
 
-
 def AudioSelection(db_cursor):
     """ this function applies the Audio selection to the appropriate filtered table"""
-    print("\nyou selected AUDIO THINGY")
+    print("\nAUDIO MIXERS SELECTION")
+    print('\n------------------------------------------------------------------------------------------------')
     table = 'Audio_Mixers_Table'
     questions_about_filtering(db_cursor, table)
 
-
 def GamingLaptopSelection(db_cursor):
     """ this function applies the Gaming selection to the appropriate filtered table"""
-    print("\nyou selected GAMING LAPTOP")
+    print("\nGAMING LAPTOP SELECTION")
+    print('\n------------------------------------------------------------------------------------------------')
     table = 'Gaming_Laptops_Table'
     questions_about_filtering(db_cursor, table)
