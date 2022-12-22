@@ -5,6 +5,8 @@ import filter
 import web_page_scraper
 
 """This module deals with filtering data tables """
+
+
 def main():
     """This function connects to the sqlite3 database and opens a text file """
     db_connection = None
@@ -23,6 +25,7 @@ def main():
             db_connection.close()
             print('\n\nDatabase connection closed.')
 
+
 def call_to_getsearchurl(db_cursor):
     """This function calls the search url"""
     web_page_scraper.get_search_url(db_cursor, 'USB_Microphones_Table', 'usb microphones')
@@ -33,6 +36,7 @@ def call_to_getsearchurl(db_cursor):
     web_page_scraper.get_search_url(db_cursor, 'Webcams_Table', 'webcam')
     filter.search_selection(db_cursor)
 
+
 def ask_to_continue(db_cursor):
     """This function asks to continue filtering table to the user """
     print("\n\nkeep searching or exit?")
@@ -40,8 +44,9 @@ def ask_to_continue(db_cursor):
     if param == 'y':
         filter.search_selection(db_cursor)
     else:
-        db_cursor.close
+        db_cursor.close()
         exit()
+
 
 def connect_to_db(amazon_db: str):
     """" this function connects to the database"""
@@ -54,6 +59,7 @@ def connect_to_db(amazon_db: str):
     finally:
         return db_connection
 
+
 def create_db_cursor(db_connection_obj: sqlite3.Connection):
     """ this function creates the database cursor object"""
     cursor_obj = None
@@ -64,6 +70,7 @@ def create_db_cursor(db_connection_obj: sqlite3.Connection):
         print_red(f'cursor object could not be created: {db_error}')
     finally:
         return cursor_obj
+
 
 def create_tables(db_cursor):
     """This function creates the 6 required tables """
@@ -117,6 +124,7 @@ def create_tables(db_cursor):
     finally:
         return db_cursor
 
+
 def insert_into_table(db_cursor, table_name, record_tuple):
     """This function inserts the record into the corresponding table"""
     try:
@@ -138,7 +146,7 @@ def insert_into_table(db_cursor, table_name, record_tuple):
         if table_name == "Gaming_Laptops_Table":
             db_cursor.execute('''INSERT INTO Gaming_Laptops_Table VALUES(?, ?, ?, ?,?)''',
                               record_tuple)
-#        return db_cursor
+    #        return db_cursor
     except sqlite3.Error as error:
         print_red('an error has occurred while inserting the tables :(')
         print_red(f'{error}')
@@ -149,6 +157,7 @@ def insert_into_table(db_cursor, table_name, record_tuple):
 def print_red(text: str):
     """ this function changes lines printed to terminal red """
     print(f'\033[91m{text}')
+
 
 def print_green(text: str):
     """ this function changes lines printed to terminal green """

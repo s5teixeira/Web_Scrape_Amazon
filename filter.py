@@ -76,6 +76,9 @@ def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, n
     print('\nAvailable Listings'
           '\n------------------------------------------------------------------------------------------------------------------------------------------------')
     # results = db_cursor.execute(sql)
+    line_to_filtered_data_file = f'results with: {star_operator} {star_review} stars, {review_operator} {num_review}, ' \
+                                 f'{price_operator} {target_price}:\n'
+    write_to_file(line_to_filtered_data_file)
     i = 1
     for row in db_cursor.execute(sql):
         val = 100 - len(str(row))
