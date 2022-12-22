@@ -47,6 +47,15 @@ def cursor():
     cursor.execute('drop table Over_Ear_Headphones_Table')
 
 
+def test_create_sql(cursor):
+    # uses cursor() function above uses yielded/return value in this function, after test goes back to cursor()
+    # and deletes the table that it created.
+    # set up and tear down - have to run function again with new database
+    table = 'Over_Ear_Headphones_Table'
+    filter.ask_question_create_sql(cursor, table, 4.0, '>', 1, '>', 1, '>')
+
+
+
 
 
 
