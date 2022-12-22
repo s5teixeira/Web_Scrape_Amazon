@@ -37,16 +37,6 @@ def get_search_url(db_cursor, table_name, keywords):
             if listing_counter > listing_limit:
                 break
             else:
-                # print(search_url)
-                # url_results_page_param += 1  # this is not counting for some reason it stays on 1
-                # db_table_row_data = [None, None, None, None, None]  # pseudocode
-                # listing_data = []
-                # listing_data[0] = extract_product_name(listing)
-                # listing_data[1] = extract_product_rating(listing)
-                # listing_data[2] = extract_num_ratings(listing)
-                # listing_data[3] = extract_product_price(listing)
-                # listing_data[4] = extract_product_URL(listing)
-                # main.insert_into_table(db_cursor, 'table_name', tuple(listing_data))
 
                 name = extract_product_name(listing)
                 rating = extract_product_rating(listing)
@@ -100,8 +90,6 @@ def extract_product_price(listing):
         return price_integer + price_decimal
     except AttributeError:
         return 0
-        # print('No Price')
-
 
 def extract_product_URL(listing, search_url):
     try:
@@ -112,5 +100,3 @@ def extract_product_URL(listing, search_url):
         return complete_product_url
     except AttributeError:
         return 0
-        # print('No Product URL')
-
