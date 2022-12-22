@@ -31,6 +31,16 @@ def search_selection(db_cursor):
         print("\ninvalid input\n")
         search_selection()
 
+
+def write_to_file(x):
+    """This function writes filtered data to a txt file """
+    with open("filtered_data.txt", "a") as data_out_file:
+        try:
+            data_out_file.write(f'\n{x}\n\n')
+        except UnicodeEncodeError:
+            data_out_file.write(f"\nUnicodeEncodeError\n\n")
+
+
 def print_statement():
     """This function prints out the list of choices the user can choose from"""
     print('Choose a product category: \n\n'
@@ -40,6 +50,7 @@ def print_statement():
           '\t4. Capture Cards\n\n'
           '\t5. 8-channel Audio Mixers\n\n'
           '\t6. Gaming Laptops\n\n')
+
 
 def questions_about_filtering(db_cursor, table):
     """This function asks the user about filtering """
@@ -53,6 +64,7 @@ def questions_about_filtering(db_cursor, table):
     price_operator = input('Choose an equality operator (>, <, >=, <=, =): ')
     sqlfunction(db_cursor, table, star_operator, star_review, review_operator, num_review, target_price,
                 price_operator)
+
 
 def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, num_review, target_price,
                 price_operator):
@@ -70,7 +82,9 @@ def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, n
         print(str(i), ") ", str(row).strip("(,')").replace("', '", val * " "))
         print('\n')
         i = i + 1
+        write_to_file(row)
     main.ask_to_continue(db_cursor)
+
 
 def OverEarHeadPhones(db_cursor):
     """ this function applies the Headphones choice selection to the appropriate filtered table"""
@@ -79,12 +93,14 @@ def OverEarHeadPhones(db_cursor):
     table = 'Over_Ear_Headphones_Table'
     questions_about_filtering(db_cursor, table)
 
+
 def MicSelection(db_cursor):
     """ this function applies the Mic selection to the appropriate filtered table"""
     print("\nUSB MICROPHONES SELECTION")
     print('\n------------------------------------------------------------------------------------------------')
     table = 'USB_Microphones_Table'
     questions_about_filtering(db_cursor, table)
+
 
 def WebCamSelection(db_cursor):
     """ this function applies the Webcam selection to the appropriate filtered table"""
@@ -93,6 +109,7 @@ def WebCamSelection(db_cursor):
     table = 'Webcams_Table'
     questions_about_filtering(db_cursor, table)
 
+
 def CardsSelection(db_cursor):
     """ this function applies the Cards selection to the appropriate filtered table"""
     print("\nCAPTURE CARDS SELECTION")
@@ -100,12 +117,14 @@ def CardsSelection(db_cursor):
     table = 'Capture_Cards_Table'
     questions_about_filtering(db_cursor, table)
 
+
 def AudioSelection(db_cursor):
     """ this function applies the Audio selection to the appropriate filtered table"""
     print("\nAUDIO MIXERS SELECTION")
     print('\n------------------------------------------------------------------------------------------------')
     table = 'Audio_Mixers_Table'
     questions_about_filtering(db_cursor, table)
+
 
 def GamingLaptopSelection(db_cursor):
     """ this function applies the Gaming selection to the appropriate filtered table"""

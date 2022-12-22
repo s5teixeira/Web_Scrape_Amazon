@@ -13,6 +13,7 @@ def main():
         db_cursor = create_db_cursor(db_connection)
         db_cursor = create_tables(db_cursor)
         open("output_data.txt", "w").write("")
+        open("filtered_data", "w").write("")
         call_to_getsearchurl(db_cursor)
     except sqlite3.Error as db_error:
         print_red(f'A Database Error has occurred: {db_error}')
