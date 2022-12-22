@@ -21,6 +21,7 @@ def main():
             db_connection.close()
             print('\n\nDatabase connection closed.')
 
+
 def call_to_getsearchurl(db_cursor):
     """This function calls the search url"""
     web_page_scraper.get_search_url(db_cursor, 'USB_Microphones_Table', 'usb microphones')
@@ -30,6 +31,18 @@ def call_to_getsearchurl(db_cursor):
     web_page_scraper.get_search_url(db_cursor, 'Gaming_Laptops_Table', 'gaming laptop')
     web_page_scraper.get_search_url(db_cursor, 'Webcams_Table', 'webcam')
     filter.search_selection(db_cursor)
+    ask_to_continue(db_cursor)
+
+
+def ask_to_continue(db_cursor):
+    print("\n\nkeep searching or exit?")
+    param = input("select y or n >> ")
+    if param == 'y':
+        filter.search_selection(db_cursor)
+    else:
+        db_cursor.close
+        exit()
+
 
 def connect_to_db(amazon_db: str):
     """" this function connects to the database"""
@@ -42,6 +55,7 @@ def connect_to_db(amazon_db: str):
     finally:
         return db_connection
 
+
 def create_db_cursor(db_connection_obj: sqlite3.Connection):
     """ this function creates the database cursor object"""
     cursor_obj = None
@@ -52,6 +66,7 @@ def create_db_cursor(db_connection_obj: sqlite3.Connection):
         print_red(f'cursor object could not be created: {db_error}')
     finally:
         return cursor_obj
+
 
 def create_tables(db_cursor):
     """This function creates the 6 required tables """
@@ -105,6 +120,7 @@ def create_tables(db_cursor):
     finally:
         return db_cursor
 
+
 def insert_into_table(db_cursor, table_name, record_tuple):
     """This function inserts the record into the corresponding table"""
     if table_name == "Over_Ear_Headphones_Table":
@@ -126,12 +142,17 @@ def insert_into_table(db_cursor, table_name, record_tuple):
         db_cursor.execute('''INSERT INTO Gaming_Laptops_Table VALUES(?, ?, ?, ?,?)''',
                           record_tuple)
     return db_cursor
+
+
 def print_red(text: str):
     """ this function changes lines printed to terminal red """
     print(f'\033[91m{text}')
+
+
 def print_green(text: str):
     """ this function changes lines printed to terminal green """
     print(f'\033[92m{text}')
+
 
 if __name__ == '__main__':
     main()
