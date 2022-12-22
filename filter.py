@@ -64,8 +64,8 @@ def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, n
             where rating {star_operator} {star_review} and 
             num_ratings {review_operator} {num_review} and 
             price {price_operator} {target_price}"""
-    print('\nPRODUCT NAME                                                                        RATING'
-          '\n------------------------------------------------------------------------------------------------------')
+    print('\nPRODUCT NAME                                                                                                                        RATING'
+          '\n------------------------------------------------------------------------------------------------------------------------------------------------')
     # results = db_cursor.execute(sql)
     i = 1
     for row in db_cursor.execute(sql):

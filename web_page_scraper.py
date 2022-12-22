@@ -2,30 +2,23 @@ import requests
 from bs4 import BeautifulSoup
 import main
 
-# this module is for all the products we need to scrape
+"""This module is all the products we scrapped from Amazon"""
 
 HEADERS_FOR_GET_REQ = (
     {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0',
      'Accept-Language': 'en-US, en;q=0.5'}
 )
 
-""" This function takes  """
-
-
 def write_to_file(x):
+    """This function writes to a txt file """
     with open("output_data.txt", "a") as data_out_file:
         try:
             data_out_file.write(f'\n{x}\n\n')
         except UnicodeEncodeError:
             data_out_file.write(f"\nUnicodeEncodeError\n\n")
 
-
-"""This function creates a URL using the given keywords
-and will list the results through from in the database"""
-
-
 def get_search_url(db_cursor, table_name, keywords):
-    # this function creates the url using the given keywords ex: 'over ear headphones'
+    """This function creates the url using the given keywords and will list the results in the database"""
     listing_counter = 0
     listing_limit = 300  # <--- the number of times this function will run after being called once supposed to be 300
     url_results_page_param = 1
@@ -43,44 +36,23 @@ def get_search_url(db_cursor, table_name, keywords):
             if listing_counter > listing_limit:
                 break
             else:
-                # print(search_url)
-                # url_results_page_param += 1  # this is not counting for some reason it stays on 1
-                # db_table_row_data = [None, None, None, None, None]  # pseudocode
-                # listing_data = []
-                # listing_data[0] = extract_product_name(listing)
-                # listing_data[1] = extract_product_rating(listing)
-                # listing_data[2] = extract_num_ratings(listing)
-                # listing_data[3] = extract_product_price(listing)
-                # listing_data[4] = extract_product_URL(listing)
-                # main.insert_into_table(db_cursor, 'table_name', tuple(listing_data))
-
                 name = extract_product_name(listing)
                 rating = extract_product_rating(listing)
                 num_ratings = extract_num_ratings(listing)
                 price = extract_product_price(listing)
                 product_url = extract_product_URL(listing, search_url)
                 main.insert_into_table(db_cursor, table_name, (name, rating, num_ratings, price, product_url))
-                # for record in search_results:
-                #     main.insert_into_table(name, rating, num_ratings, price, product_url)
-        # print(search_url)
         url_results_page_param += 1  # this is not counting for some reason it stays on 1
 
-
-""" This function will extract the name of the product
- listing from the html code and return it in the command line """
-
-
 def extract_product_name(listing):
+    """This function extracts the product name and writes to file"""
     product_name = listing.h2.text
     # print('product name: ', product_name)
     write_to_file(product_name)
     return product_name
 
-
-""" This function """
-
-
 def extract_product_rating(listing):
+    """This function extracts the product rating and writes to file"""
     rating_listing = listing.find('i', {'class': 'a-icon'})
 
     if rating_listing:
@@ -93,8 +65,8 @@ def extract_product_rating(listing):
 
     return rating_info
 
-
 def extract_num_ratings(listing):
+    """This function extracts the number rating and writes to file"""
     try:
         num_ratings = listing.find('span', {'class': 'a-size-base s-underline-text'}).text
         # print('product num ratings: ', num_ratings)
@@ -102,9 +74,8 @@ def extract_num_ratings(listing):
     except AttributeError:
         num_ratings = '0'
     return num_ratings
-
-
 def extract_product_price(listing):
+    """This function extracts product price and writes to file """
     try:
         price_integer = listing.find('span', {'class': 'a-price-whole'}).text
         price_decimal = listing.find('span', {'class': 'a-price-fraction'}).text
@@ -113,10 +84,9 @@ def extract_product_price(listing):
         return price_integer + price_decimal
     except AttributeError:
         return 0
-        # print('No Price')
-
 
 def extract_product_URL(listing, search_url):
+    """This function extracts the product url and writes to file"""
     try:
         product_url_segment = listing.h2.a['href']
         complete_product_url = 'https://amazon.com' + product_url_segment
@@ -125,4 +95,3 @@ def extract_product_URL(listing, search_url):
         return complete_product_url
     except AttributeError:
         return 0
-        # print('No Product URL')
