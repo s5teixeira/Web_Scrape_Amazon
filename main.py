@@ -186,58 +186,6 @@ def call_to_create_all_tables(db_cursor):
     return db_cursor
 
 
-# def create_tables(db_cursor):
-#     """This function creates the 6 required tables """
-#     try:
-#         db_cursor.execute('''CREATE TABLE IF NOT EXISTS Over_Ear_Headphones_Table(
-#                                 product_name TEXT,
-#                                 rating REAL,
-#                                 num_ratings INTEGER,
-#                                 price REAL,
-#                                 product_url TEXT);''')
-#         db_cursor.execute('DELETE FROM Over_Ear_Headphones_Table')
-#         db_cursor.execute('''CREATE TABLE IF NOT EXISTS USB_Microphones_Table(
-#                                 product_name TEXT,
-#                                 rating REAL,
-#                                 num_ratings INTEGER,
-#                                 price REAL,
-#                                 product_url TEXT);''')
-#         db_cursor.execute('DELETE FROM USB_Microphones_Table')
-#         db_cursor.execute('''CREATE TABLE IF NOT EXISTS Webcams_Table(
-#                                 product_name TEXT,
-#                                 rating REAL,
-#                                 num_ratings INTEGER,
-#                                 price REAL,
-#                                 product_url TEXT);''')
-#         db_cursor.execute('DELETE FROM Webcams_Table')
-#         db_cursor.execute('''CREATE TABLE IF NOT EXISTS Capture_Cards_Table(
-#                                 product_name TEXT,
-#                                 rating REAL,
-#                                 num_ratings INTEGER,
-#                                 price REAL,
-#                                 product_url TEXT);''')
-#         db_cursor.execute('DELETE FROM Capture_Cards_Table')
-#         db_cursor.execute('''CREATE TABLE IF NOT EXISTS Audio_Mixers_Table(
-#                                 product_name TEXT,
-#                                 rating REAL,
-#                                 num_ratings INTEGER,
-#                                 price REAL,
-#                                 product_url TEXT);''')
-#         db_cursor.execute('DELETE FROM Audio_Mixers_Table')
-#         db_cursor.execute('''CREATE TABLE IF NOT EXISTS Gaming_Laptops_Table(
-#                                 product_name TEXT,
-#                                 rating REAL,
-#                                 num_ratings INTEGER,
-#                                 price REAL,
-#                                 product_url TEXT);''')
-#         db_cursor.execute('DELETE FROM Gaming_Laptops_Table')
-#         print_green('tables created successfully')
-#     except sqlite3.Error as error:
-#         print_red('an error has occurred creating the tables :(')
-#         print_red(f'{error}')
-#     finally:
-#         return db_cursor
-
 def insert_into_OverEar(db_cursor, table_name, record_tuple):
     """This function inserts into Over Ear Headphones"""
     try:
@@ -324,35 +272,6 @@ def calls_to_insert_all_tables(db_cursor, table_name, record_tuple):
     insert_into_Capture(db_cursor, table_name, record_tuple)
     insert_into_Audio(db_cursor, table_name, record_tuple)
     insert_into_Gaming(db_cursor, table_name, record_tuple)
-
-
-#
-# def insert_into_table(db_cursor, table_name, record_tuple):
-#     """This function inserts the record into the corresponding table"""
-#     try:
-#         if table_name == "Over_Ear_Headphones_Table":
-#             db_cursor.execute('''INSERT INTO Over_Ear_Headphones_Table VALUES(?, ?, ?, ?,?)''',
-#                               record_tuple)
-#         if table_name == "USB_Microphones_Table":
-#             db_cursor.execute('''INSERT INTO USB_Microphones_Table VALUES(?, ?, ?, ?,?)''',
-#                               record_tuple)
-#         if table_name == "Webcams_Table":
-#             db_cursor.execute('''INSERT INTO Webcams_Table VALUES(?, ?, ?, ?,?)''',
-#                               record_tuple)
-#         if table_name == "Capture_Cards_Table":
-#             db_cursor.execute('''INSERT INTO Capture_Cards_Table VALUES(?, ?, ?, ?,?)''',
-#                               record_tuple)
-#         if table_name == "Audio_Mixers_Table":
-#             db_cursor.execute('''INSERT INTO Audio_Mixers_Table VALUES(?, ?, ?, ?,?)''',
-#                               record_tuple)
-#         if table_name == "Gaming_Laptops_Table":
-#             db_cursor.execute('''INSERT INTO Gaming_Laptops_Table VALUES(?, ?, ?, ?,?)''',
-#                               record_tuple)
-#     except sqlite3.Error as error:
-#         print_red('an error has occurred while inserting the tables :(')
-#         print_red(f'{error}')
-#     finally:
-#         return db_cursor
 
 
 def print_red(text: str):
