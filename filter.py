@@ -75,7 +75,6 @@ def sqlfunction(db_cursor, table, star_operator, star_review, review_operator, n
             price {price_operator} {target_price}"""
     print('\nAvailable Listings'
           '\n------------------------------------------------------------------------------------------------------------------------------------------------')
-    # results = db_cursor.execute(sql)
     line_to_filtered_data_file = f'----------------------------------------------------------------------------------------\n' \
                                  f'{str(table).replace("_Table", "")} results with: {star_operator} {star_review} stars, {review_operator} {num_review}, ' \
                                  f'{price_operator} {target_price}:\n' \
